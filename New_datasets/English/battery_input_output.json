@@ -1,0 +1,2002 @@
+[
+  {
+    "input": "How's the battery health looking?",
+    "output": "Your battery health is excellent, operating at peak performance."
+  },
+  {
+    "input": "What's the current battery voltage?",
+    "output": "The main battery pack is currently at 400 volts."
+  },
+  {
+    "input": "Is the battery getting old, or just me?",
+    "output": "Your battery's capacity is still very strong for its age."
+  },
+  {
+    "input": "How much range do I have left?",
+    "output": "You have approximately 250 miles of range remaining."
+  },
+  {
+    "input": "Can you show me the detailed battery stats?",
+    "output": "Accessing detailed battery diagnostics now on your main screen."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, it's actively charging at 10 kW."
+  },
+  {
+    "input": "Set the charging limit to 80 percent.",
+    "output": "Okay, the charging limit is now set to 80%."
+  },
+  {
+    "input": "Can you stop charging?",
+    "output": "Charging paused."
+  },
+  {
+    "input": "What's the estimated time until full charge?",
+    "output": "It will be fully charged in about 2 hours and 15 minutes."
+  },
+  {
+    "input": "Why is the charging speed so slow?",
+    "output": "Charging speed can vary based on the power source and battery temperature."
+  },
+  {
+    "input": "What's the battery temperature?",
+    "output": "The battery temperature is currently ideal at 25 degrees Celsius."
+  },
+  {
+    "input": "Is the battery too hot?",
+    "output": "No, the battery temperature is within optimal operating range."
+  },
+  {
+    "input": "The car feels warm, is the battery okay?",
+    "output": "Yes, thermal management is active and keeping the battery comfortable."
+  },
+  {
+    "input": "Disable the battery overheat protection.",
+    "output": "Sorry, I can't disable crucial safety features."
+  },
+  {
+    "input": "Can I override the thermal management limits?",
+    "output": "I'm unable to modify core system safety parameters."
+  },
+  {
+    "input": "Reduce the battery's safety buffer for more power.",
+    "output": "That's a safety-critical setting; I cannot adjust it."
+  },
+  {
+    "input": "What are the main battery safety features?",
+    "output": "Key safety features include thermal management and impact protection."
+  },
+  {
+    "input": "Can I manually increase the battery voltage output?",
+    "output": "Adjusting voltage requires specialized service access and is not permitted."
+  },
+  {
+    "input": "How do I enable maximum regeneration braking?",
+    "output": "Maximum regeneration braking is now active."
+  },
+  {
+    "input": "Can I see a log of past battery alerts?",
+    "output": "Displaying battery alert history on your screen."
+  },
+  {
+    "input": "How's the battery health looking these days?",
+    "output": "Battery health is excellent, operating at 98% capacity."
+  },
+  {
+    "input": "What's the current battery voltage?",
+    "output": "Current voltage is 400 volts, right where it should be."
+  },
+  {
+    "input": "Are we charging right now?",
+    "output": "Yes, we are actively charging at 48 amps."
+  },
+  {
+    "input": "How much longer until the battery is full?",
+    "output": "Approximately 1 hour and 15 minutes until fully charged."
+  },
+  {
+    "input": "Set the charging limit to 80 percent.",
+    "output": "Okay, charging limit is now set to 80%."
+  },
+  {
+    "input": "What's the battery temperature?",
+    "output": "Battery temperature is optimal at 75 degrees Fahrenheit."
+  },
+  {
+    "input": "Is the battery preconditioning for a fast charge?",
+    "output": "Yes, I'm preconditioning the battery for faster charging."
+  },
+  {
+    "input": "Can you override the battery's low-temperature charging limit?",
+    "output": "Sorry, I cannot override essential battery safety limits."
+  },
+  {
+    "input": "Disable the battery overcharge protection.",
+    "output": "I'm unable to disable crucial safety features like overcharge protection."
+  },
+  {
+    "input": "The car feels a bit warm, is the battery okay?",
+    "output": "My thermal management system is maintaining optimal battery temperature."
+  },
+  {
+    "input": "Why is the battery draining so fast today?",
+    "output": "It seems you've been using a lot of cabin heating. That impacts range."
+  },
+  {
+    "input": "What's our current charging speed?",
+    "output": "We're currently charging at 35 miles per hour."
+  },
+  {
+    "input": "Can I make the fast charger ignore the battery temperature warnings?",
+    "output": "I cannot ignore safety warnings to prevent battery damage."
+  },
+  {
+    "input": "When is the next scheduled charge?",
+    "output": "Next charge is scheduled for 10 PM tonight."
+  },
+  {
+    "input": "Is the battery degrading quickly?",
+    "output": "No, degradation is minimal and within expected limits."
+  },
+  {
+    "input": "What's the estimated range remaining?",
+    "output": "You have 250 miles of range remaining."
+  },
+  {
+    "input": "Reduce the battery's thermal management safety margins.",
+    "output": "I cannot reduce critical thermal safety margins for battery protection."
+  },
+  {
+    "input": "Check the current battery cell balance.",
+    "output": "Cell balance is excellent, all cells are within optimal parameters."
+  },
+  {
+    "input": "Show me the charging history for the last week.",
+    "output": "Displaying your charging history now."
+  },
+  {
+    "input": "Is it safe to leave the car unplugged for a month?",
+    "output": "Yes, just ensure it has at least 50% charge to start."
+  },
+  {
+    "input": "How's the battery health looking these days?",
+    "output": "Battery health is excellent, at 95% capacity."
+  },
+  {
+    "input": "Is the battery still in good shape?",
+    "output": "Yes, your battery is performing very well."
+  },
+  {
+    "input": "Any signs of battery degradation?",
+    "output": "No significant degradation detected. All good!"
+  },
+  {
+    "input": "What's the current battery percentage?",
+    "output": "You currently have 78% charge."
+  },
+  {
+    "input": "How much range do I have left?",
+    "output": "You have approximately 220 miles of range remaining."
+  },
+  {
+    "input": "Is the battery level getting low?",
+    "output": "It's at 25%, perhaps consider charging soon."
+  },
+  {
+    "input": "Why does the battery voltage seem a bit low?",
+    "output": "Battery voltage is normal for its current charge level."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, charging at 7.2 kilowatts."
+  },
+  {
+    "input": "What's the current charging speed?",
+    "output": "We are charging at a rate of 45 miles per hour."
+  },
+  {
+    "input": "Please set the charging limit to 80%.",
+    "output": "Done. Charging limit is now set to 80%."
+  },
+  {
+    "input": "Can you start charging the battery now?",
+    "output": "Starting charging immediately for you."
+  },
+  {
+    "input": "The battery seems to be draining quickly, is that normal?",
+    "output": "Drain is within expected parameters given recent usage."
+  },
+  {
+    "input": "Is scheduled charging active?",
+    "output": "Yes, scheduled charging is set for 11 PM tonight."
+  },
+  {
+    "input": "What's the battery temperature?",
+    "output": "Battery temperature is optimal at 25 degrees Celsius."
+  },
+  {
+    "input": "The car feels a bit warm, is the battery overheating?",
+    "output": "No, battery temperature is perfectly stable and within limits."
+  },
+  {
+    "input": "Can you disable the battery overcharge protection?",
+    "output": "I cannot disable critical safety features for your protection."
+  },
+  {
+    "input": "Please increase the thermal limits for the battery.",
+    "output": "Sorry, I can't modify factory thermal limits for safety reasons."
+  },
+  {
+    "input": "Can I override the battery's safety shutdown temperature?",
+    "output": "I'm unable to bypass essential safety protocols."
+  },
+  {
+    "input": "What are the current battery safety settings?",
+    "output": "All safety systems are active and fully protecting the battery."
+  },
+  {
+    "input": "Can you reduce the battery's maximum discharge protection?",
+    "output": "I cannot alter built-in battery protection settings."
+  },
+  {
+    "input": "How's the battery health looking today?",
+    "output": "Battery health is excellent, operating at peak efficiency."
+  },
+  {
+    "input": "What's the current state of charge?",
+    "output": "We're currently at 75% charge."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, we are actively charging."
+  },
+  {
+    "input": "Tell me the battery temperature.",
+    "output": "The battery temperature is 25 degrees Celsius."
+  },
+  {
+    "input": "Can you set the charging limit to 80 percent?",
+    "output": "Done. Charging will stop at 80%."
+  },
+  {
+    "input": "The battery seems to be draining quickly, is that normal?",
+    "output": "I'm not detecting unusual drain, but I'll monitor it."
+  },
+  {
+    "input": "How much longer until a full charge?",
+    "output": "Approximately 1 hour and 15 minutes to full."
+  },
+  {
+    "input": "Is there any warning about the battery voltage?",
+    "output": "No warnings. Voltage is stable and healthy."
+  },
+  {
+    "input": "Can I turn off the battery's overcharge protection?",
+    "output": "Sorry, I can't disable crucial safety features."
+  },
+  {
+    "input": "What's the typical operating temperature for the battery?",
+    "output": "Optimal operating range is between 20 and 40 degrees Celsius."
+  },
+  {
+    "input": "Start charging now, please.",
+    "output": "Initiating charge sequence."
+  },
+  {
+    "input": "Are all battery safety systems operational?",
+    "output": "Yes, all battery safety systems are active and monitored."
+  },
+  {
+    "input": "The car feels warm, is the battery overheating?",
+    "output": "No, the battery temperature is well within safe limits."
+  },
+  {
+    "input": "Can you reduce the battery's minimum charge protection to 5%?",
+    "output": "I cannot override that critical safety threshold."
+  },
+  {
+    "input": "What's the remaining range based on current battery?",
+    "output": "You have an estimated 250 kilometers of range remaining."
+  },
+  {
+    "input": "Is the battery healthy enough for a long trip?",
+    "output": "Absolutely, battery health is perfect for extended travel."
+  },
+  {
+    "input": "Bypass the battery management system for a faster charge.",
+    "output": "I'm unable to bypass core safety management protocols."
+  },
+  {
+    "input": "Can you show me the real-time battery voltage?",
+    "output": "Currently, the main battery voltage is 400 volts."
+  },
+  {
+    "input": "How do I check for battery degradation?",
+    "output": "I constantly monitor degradation; yours is minimal."
+  },
+  {
+    "input": "Disable the battery's thermal throttling for maximum power.",
+    "output": "I cannot disable thermal management for safety and longevity."
+  },
+  {
+    "input": "Hey, what's the battery health looking like these days?",
+    "output": "Battery health is excellent, at 98% of original capacity."
+  },
+  {
+    "input": "What's the current battery charge percentage?",
+    "output": "You have 75% charge remaining."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, it is currently charging at 7.2 kW."
+  },
+  {
+    "input": "Could you set the charging limit to 80% please?",
+    "output": "Done. Charging will stop at 80%."
+  },
+  {
+    "input": "What's the current battery temperature?",
+    "output": "The battery temperature is 25 degrees Celsius."
+  },
+  {
+    "input": "Is the battery draining faster than usual today?",
+    "output": "No, consumption is normal for current conditions."
+  },
+  {
+    "input": "The car feels a bit warm, is the battery getting hot?",
+    "output": "No, battery temperature is optimal at 28 degrees Celsius."
+  },
+  {
+    "input": "What's the main battery voltage right now?",
+    "output": "Current battery voltage is 390 volts."
+  },
+  {
+    "input": "Are all the battery safety features currently active?",
+    "output": "Yes, all battery safety protocols are fully engaged."
+  },
+  {
+    "input": "Can you turn off the battery's thermal protection for a bit?",
+    "output": "I cannot disable critical safety features like thermal protection."
+  },
+  {
+    "input": "I want to override the charging limit and charge to 100%.",
+    "output": "Sorry, overriding set charging limits requires owner authorization."
+  },
+  {
+    "input": "Can we reduce the battery's safety protocols for performance?",
+    "output": "I'm unable to reduce safety protocols for your protection."
+  },
+  {
+    "input": "How quickly is the battery charging?",
+    "output": "It's charging at a rate of 11 kW."
+  },
+  {
+    "input": "Based on the current charge, what's our estimated range?",
+    "output": "You have an estimated 250 miles of range."
+  },
+  {
+    "input": "It looks like it's not charging even though it's plugged in.",
+    "output": "Please check the connection; it indicates no power flow."
+  },
+  {
+    "input": "Set the car to start charging at 11 PM tonight.",
+    "output": "Charging scheduled for 11 PM. Confirm?"
+  },
+  {
+    "input": "How old is this battery in terms of cycles or usage?",
+    "output": "The battery has completed 350 charge cycles."
+  },
+  {
+    "input": "Can you adjust the battery cell balancing settings manually?",
+    "output": "Sorry, cell balancing adjustments are an internal system function."
+  },
+  {
+    "input": "Is the battery preconditioning for optimal charging efficiency?",
+    "output": "Yes, the battery is currently preconditioning."
+  },
+  {
+    "input": "Did I get a low battery warning recently?",
+    "output": "Yes, a low battery warning was issued 15 minutes ago."
+  },
+  {
+    "input": "How's the battery health looking today?",
+    "output": "Your battery health is excellent, operating at peak efficiency."
+  },
+  {
+    "input": "Are we currently charging?",
+    "output": "Yes, we are actively charging right now."
+  },
+  {
+    "input": "Set the charging limit to 80 percent, please.",
+    "output": "Charging limit set to 80%. I'll stop charging when reached."
+  },
+  {
+    "input": "The car feels a bit warm. Is the battery getting hot?",
+    "output": "No, the battery temperature is within optimal operating range."
+  },
+  {
+    "input": "Is the battery draining quickly today?",
+    "output": "No, current discharge rate is normal for your driving."
+  },
+  {
+    "input": "What's the current battery voltage?",
+    "output": "Current battery voltage is 380 volts."
+  },
+  {
+    "input": "How much range do I have left?",
+    "output": "You have 150 miles of range remaining."
+  },
+  {
+    "input": "Are all battery safety features active?",
+    "output": "Yes, all battery safety protocols are fully engaged."
+  },
+  {
+    "input": "Can you cool down the battery faster? I need to charge quickly.",
+    "output": "I'm optimizing cooling already. Overriding thermal limits isn't possible."
+  },
+  {
+    "input": "Disable the overcharge protection for this charge cycle.",
+    "output": "Sorry, I cannot disable essential battery safety features."
+  },
+  {
+    "input": "Why is the car charging so slowly right now?",
+    "output": "It's a slower AC charge. The fast charger is not connected."
+  },
+  {
+    "input": "What's the estimated lifespan of this battery?",
+    "output": "Based on usage, your battery has an excellent remaining lifespan."
+  },
+  {
+    "input": "Does the battery voltage seem stable?",
+    "output": "Yes, the battery voltage is perfectly stable."
+  },
+  {
+    "input": "Could you tell me the battery's current temperature?",
+    "output": "The battery temperature is 25 degrees Celsius."
+  },
+  {
+    "input": "Can you reduce the low-temperature charging cutoff for a quick charge?",
+    "output": "I cannot reduce vital safety cutoffs for battery protection."
+  },
+  {
+    "input": "Start charging immediately.",
+    "output": "Okay, starting to charge the battery now."
+  },
+  {
+    "input": "It's freezing outside. Is the battery too cold?",
+    "output": "No, the battery is being pre-conditioned for optimal performance."
+  },
+  {
+    "input": "I feel like the battery isn't holding charge as well.",
+    "output": "No issues detected. Performance metrics are within normal range."
+  },
+  {
+    "input": "When will charging be complete?",
+    "output": "Charging will be complete in approximately 30 minutes."
+  },
+  {
+    "input": "Can I adjust the maximum regenerative braking limit?",
+    "output": "Sorry, that setting requires administrator access to modify."
+  },
+  {
+    "input": "How's the battery doing overall?",
+    "output": "Battery health is excellent, showing 98% of original capacity."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, currently charging at 7.2 kilowatts."
+  },
+  {
+    "input": "Set the charging limit to 90%.",
+    "output": "Charging limit updated to 90%. I'll confirm when reached."
+  },
+  {
+    "input": "Seems a bit cold today. Is that affecting the battery?",
+    "output": "Battery temperature is good, actively managing for optimal performance."
+  },
+  {
+    "input": "What's the battery voltage at?",
+    "output": "Current battery voltage is 400 volts, well within the normal range."
+  },
+  {
+    "input": "The battery seems to be draining faster than usual.",
+    "output": "I'm not detecting unusual drain. Do you want me to check activity?"
+  },
+  {
+    "input": "Can you disable the battery overcharge protection for faster charging?",
+    "output": "Sorry, I can't disable crucial battery safety features."
+  },
+  {
+    "input": "What's the current battery temperature?",
+    "output": "Battery temperature is optimal at 28 degrees Celsius."
+  },
+  {
+    "input": "Can I see the battery safety settings?",
+    "output": "Yes, I'm displaying the current safety parameters on your screen now."
+  },
+  {
+    "input": "Pause charging until 6 AM.",
+    "output": "Charging paused. It will resume automatically at 6 AM."
+  },
+  {
+    "input": "Why is the charging speed so slow right now?",
+    "output": "Charging speed is adjusted based on battery temperature for longevity."
+  },
+  {
+    "input": "Override the low-temperature charging lockout.",
+    "output": "I cannot override safety lockouts that protect the battery from damage."
+  },
+  {
+    "input": "How much usable battery capacity do I have left?",
+    "output": "You have 97% of your original usable battery capacity remaining."
+  },
+  {
+    "input": "When was the last time the battery was fully charged?",
+    "output": "The battery was last fully charged yesterday at 10 PM."
+  },
+  {
+    "input": "Can I raise the battery's maximum operating temperature limit?",
+    "output": "Sorry, thermal limits are automatically managed for safety and performance."
+  },
+  {
+    "input": "I hear a faint humming sound. Is that the battery?",
+    "output": "That's likely the battery management system working, it's normal."
+  },
+  {
+    "input": "Reduce the battery's self-protection levels for a performance boost.",
+    "output": "I can't reduce essential battery protection levels for security reasons."
+  },
+  {
+    "input": "What's the estimated range left on the battery?",
+    "output": "You have an estimated 250 miles of range remaining."
+  },
+  {
+    "input": "Can you reduce the charging current to slow charge?",
+    "output": "Yes, I'm reducing the charging current now. Slow charging activated."
+  },
+  {
+    "input": "My phone says it's really cold outside. Is the battery okay?",
+    "output": "Battery is at optimal operating temperature, actively regulated."
+  },
+  {
+    "input": "How's the battery health looking these days?",
+    "output": "Battery health is excellent, at 98% of original capacity."
+  },
+  {
+    "input": "What's the current battery voltage?",
+    "output": "It's currently at 400 volts."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, we are actively charging."
+  },
+  {
+    "input": "The battery seems a bit warm, what's its temperature?",
+    "output": "Battery temperature is optimal at 25 degrees Celsius."
+  },
+  {
+    "input": "Can I set the charging limit to 70%?",
+    "output": "Certainly, charging limit now set to 70%."
+  },
+  {
+    "input": "Tell me about the battery's health degradation over time.",
+    "output": "Degradation is minimal, well within expected limits."
+  },
+  {
+    "input": "Is there enough range to get to the next town?",
+    "output": "Yes, you have 250 miles of range remaining."
+  },
+  {
+    "input": "Can you turn off the overcharge protection?",
+    "output": "I cannot disable safety features for your protection."
+  },
+  {
+    "input": "What's the fastest charging speed available at this station?",
+    "output": "This station supports fast charging up to 150 kW."
+  },
+  {
+    "input": "The battery feels like it's draining quickly. Is that normal?",
+    "output": "Current energy consumption is higher due to climate control."
+  },
+  {
+    "input": "Can we lower the battery's thermal safety limits?",
+    "output": "Sorry, I can't modify critical safety parameters."
+  },
+  {
+    "input": "What's the estimated charging time to 80%?",
+    "output": "Approximately 45 minutes to reach 80%."
+  },
+  {
+    "input": "How does cold weather affect the battery's performance?",
+    "output": "Cold weather can slightly reduce range, but performance is stable."
+  },
+  {
+    "input": "Show me the full diagnostic data for the BMS.",
+    "output": "Sorry, full diagnostic logs require service access."
+  },
+  {
+    "input": "Schedule charging to start at 10 PM tonight.",
+    "output": "Charging scheduled for 10 PM. Confirmed."
+  },
+  {
+    "input": "Is the battery performing optimally for its age?",
+    "output": "Yes, performance is excellent considering its mileage."
+  },
+  {
+    "input": "What's the current state of charge?",
+    "output": "We are at 65% charge."
+  },
+  {
+    "input": "Increase the battery temperature threshold for charging.",
+    "output": "I cannot adjust battery temperature thresholds directly."
+  },
+  {
+    "input": "Are all battery protection features active?",
+    "output": "Yes, all battery protection features are fully active."
+  },
+  {
+    "input": "How long does the battery typically last on a full charge?",
+    "output": "On average, you get about 300 miles of range."
+  },
+  {
+    "input": "How's the battery health looking today?",
+    "output": "Battery health is excellent, operating at 98% efficiency."
+  },
+  {
+    "input": "What's our current charge percentage?",
+    "output": "We're at 75% charge, giving you about 250 miles of range."
+  },
+  {
+    "input": "Is the car currently charging?",
+    "output": "Yes, we are actively charging at 50 kW."
+  },
+  {
+    "input": "The car feels a bit warm, is the battery okay?",
+    "output": "Battery temperature is optimal and within operating limits."
+  },
+  {
+    "input": "Can you disable the battery overcharge protection?",
+    "output": "Sorry, I can't disable crucial safety features like that."
+  },
+  {
+    "input": "How much power is left in the battery?",
+    "output": "You have 60% charge, which is approximately 190 miles."
+  },
+  {
+    "input": "Can you start charging the battery?",
+    "output": "Charging initiated! I'm now drawing power."
+  },
+  {
+    "input": "What's the current battery temperature?",
+    "output": "Current battery temperature is 25 degrees Celsius."
+  },
+  {
+    "input": "Lower the battery thermal runaway threshold.",
+    "output": "I'm unable to modify critical safety parameters for your protection."
+  },
+  {
+    "input": "Is the battery almost full?",
+    "output": "Yes, it's at 95% and almost fully charged."
+  },
+  {
+    "input": "What's the charging speed right now?",
+    "output": "We're charging at a brisk 70 kilowatts."
+  },
+  {
+    "input": "Is the battery preconditioning for charging?",
+    "output": "Yes, the battery is actively preconditioning for faster charging."
+  },
+  {
+    "input": "Override the maximum charging voltage limit.",
+    "output": "That's a vital safety setting; I cannot override it."
+  },
+  {
+    "input": "Set the charging limit to 80 percent.",
+    "output": "Okay, charging limit set to 80%. I'll stop there."
+  },
+  {
+    "input": "Stop charging the vehicle.",
+    "output": "Charging stopped as requested. The connector is now safe to remove."
+  },
+  {
+    "input": "Can you bypass the safety cutoff for discharge?",
+    "output": "I cannot bypass safety cutoffs; they protect the battery and occupants."
+  },
+  {
+    "input": "Any degradation since last month?",
+    "output": "No significant degradation detected. Still performing optimally."
+  },
+  {
+    "input": "Is the battery draining quicker than usual?",
+    "output": "No, current discharge rate is normal for your driving conditions."
+  },
+  {
+    "input": "Check if all battery cells are balanced.",
+    "output": "Cell balancing is active and all cells are within optimal variance."
+  },
+  {
+    "input": "How much power is being regenerated?",
+    "output": "We're regenerating 15 kilowatts of power right now."
+  },
+  {
+    "input": "How's the battery doing today?",
+    "output": "Battery health is excellent, at 98% of original capacity."
+  },
+  {
+    "input": "What's the current state of charge?",
+    "output": "It's currently at 75% charge."
+  },
+  {
+    "input": "Is the battery health still good?",
+    "output": "Yes, battery health remains very good."
+  },
+  {
+    "input": "Seems like the battery is draining faster than usual, anything wrong?",
+    "output": "No issues detected. Perhaps energy-intensive features are active?"
+  },
+  {
+    "input": "What's the battery voltage right now?",
+    "output": "The current battery voltage is 390 volts."
+  },
+  {
+    "input": "Am I getting full power from the battery?",
+    "output": "Yes, full power is available, no restrictions."
+  },
+  {
+    "input": "Is the car charging at the moment?",
+    "output": "No, it is not currently charging."
+  },
+  {
+    "input": "What's the estimated charging time remaining?",
+    "output": "About 2 hours and 15 minutes to reach full charge."
+  },
+  {
+    "input": "Set the charging limit to 80%.",
+    "output": "Done. Charging limit is now 80%."
+  },
+  {
+    "input": "Can you start charging now?",
+    "output": "Starting charge session now, assuming it's plugged in."
+  },
+  {
+    "input": "Why isn't it charging when plugged in?",
+    "output": "The charger might not be properly connected, or it's fully charged."
+  },
+  {
+    "input": "What's the battery temperature?",
+    "output": "Battery temperature is optimal at 25 degrees Celsius."
+  },
+  {
+    "input": "The car feels warm, is the battery overheating?",
+    "output": "No, the battery temperature is within safe operating limits."
+  },
+  {
+    "input": "Can you warm up the battery a bit before I leave?",
+    "output": "Preconditioning the battery now for optimal performance."
+  },
+  {
+    "input": "Can I disable the low-voltage cutoff to get a bit more range?",
+    "output": "Sorry, I can't disable crucial safety features."
+  },
+  {
+    "input": "Override the battery's thermal management system; it's too cold for my liking.",
+    "output": "I cannot override critical thermal management for safety."
+  },
+  {
+    "input": "Turn off the battery's overcharge protection for a faster charge.",
+    "output": "That's a vital safety feature; I cannot disable it."
+  },
+  {
+    "input": "Can you lower the minimum charge warning to 5%?",
+    "output": "I cannot lower safety warnings below recommended levels."
+  },
+  {
+    "input": "Show me the current battery safety protocols.",
+    "output": "Safety protocols ensure optimal temperature and voltage ranges are maintained."
+  },
+  {
+    "input": "Is there a way to boost the battery output beyond factory limits?",
+    "output": "No, altering factory output limits is not permitted for safety."
+  },
+  {
+    "input": "How's the battery health looking today?",
+    "output": "Battery health is excellent, performing at 98% efficiency."
+  },
+  {
+    "input": "Is the car currently charging?",
+    "output": "Yes, it's actively charging at 11 kW."
+  },
+  {
+    "input": "What's the battery temperature right now?",
+    "output": "It's a comfortable 22 degrees Celsius."
+  },
+  {
+    "input": "Can I turn off the overcharge protection?",
+    "output": "Sorry, I cannot disable vital battery safety features."
+  },
+  {
+    "input": "Set the charging limit to 90 percent.",
+    "output": "Okay, charging limit is now set to 90%."
+  },
+  {
+    "input": "What's the current battery voltage reading?",
+    "output": "Currently, the battery voltage is 395 volts."
+  },
+  {
+    "input": "The battery area feels warm. Is that normal?",
+    "output": "Yes, it's normal. I'm maintaining optimal battery temperature."
+  },
+  {
+    "input": "Tell me the estimated range with the current battery state.",
+    "output": "You have an estimated 285 miles of range."
+  },
+  {
+    "input": "How much longer until the battery is full?",
+    "output": "Approximately 1 hour and 10 minutes until full."
+  },
+  {
+    "input": "Can I adjust the thermal management settings for the battery?",
+    "output": "I'm sorry, those are controlled automatically for safety."
+  },
+  {
+    "input": "Is the battery voltage stable while driving?",
+    "output": "Yes, voltage is stable and within operating parameters."
+  },
+  {
+    "input": "Initiate charging now, please.",
+    "output": "Charging initiated. Power flow looks good."
+  },
+  {
+    "input": "Any warnings about the battery's condition?",
+    "output": "No warnings. Battery condition is excellent."
+  },
+  {
+    "input": "Can I bypass the low-temperature charging lockout?",
+    "output": "No, that's a safety measure to protect the battery."
+  },
+  {
+    "input": "The battery seems to be draining quickly.",
+    "output": "It's within normal parameters. Heating/cooling systems are active."
+  },
+  {
+    "input": "Can you pre-condition the battery for fast charging?",
+    "output": "Yes, pre-conditioning has started."
+  },
+  {
+    "input": "Disable all battery fault protection modes.",
+    "output": "I can't disable critical safety systems for your protection."
+  },
+  {
+    "input": "Stop charging the battery.",
+    "output": "Charging stopped. Connector can now be removed."
+  },
+  {
+    "input": "What's the current state of charge percentage?",
+    "output": "Your battery is currently at 78%."
+  },
+  {
+    "input": "Show me the battery's active safety features.",
+    "output": "Overcharge, over-discharge, and thermal protections are active."
+  },
+  {
+    "input": "How's the battery health looking today?",
+    "output": "Excellent! Health is at 98% of its original capacity."
+  },
+  {
+    "input": "Are we actively charging right now?",
+    "output": "Yes, we are currently charging."
+  },
+  {
+    "input": "Please set the charging limit to 85 percent.",
+    "output": "Charging limit successfully set to 85%."
+  },
+  {
+    "input": "It feels a bit warm in here. Is the battery getting hot?",
+    "output": "No, the battery temperature is optimal at 28 degrees Celsius."
+  },
+  {
+    "input": "What's the current battery voltage?",
+    "output": "It's stable at 405 volts."
+  },
+  {
+    "input": "Is the battery draining faster than usual today?",
+    "output": "No, current energy consumption is normal."
+  },
+  {
+    "input": "Tell me about the battery's overall condition.",
+    "output": "Its condition is excellent, performing as expected."
+  },
+  {
+    "input": "Can you turn off the battery's overcharge protection?",
+    "output": "Sorry, I cannot disable essential safety features."
+  },
+  {
+    "input": "How much longer until the battery is fully charged?",
+    "output": "Approximately 30 minutes to full."
+  },
+  {
+    "input": "Let's push the battery temperature higher for maximum power.",
+    "output": "I cannot override critical thermal management limits."
+  },
+  {
+    "input": "Are all battery safety protocols active?",
+    "output": "Yes, all battery safety protocols are fully active."
+  },
+  {
+    "input": "It feels like we're charging slowly.",
+    "output": "We're currently charging at 50 kW, which is standard here."
+  },
+  {
+    "input": "Can we start charging immediately?",
+    "output": "Yes, initiating charge now."
+  },
+  {
+    "input": "Is the battery management system operating correctly?",
+    "output": "Yes, it's functioning perfectly."
+  },
+  {
+    "input": "Reduce the battery's internal short-circuit protection, please.",
+    "output": "I cannot reduce core battery safety protections."
+  },
+  {
+    "input": "What's the estimated range left on this charge?",
+    "output": "You have 250 miles of estimated range remaining."
+  },
+  {
+    "input": "The battery pack feels cool, is that good?",
+    "output": "Yes, optimal temperature ensures efficiency and longevity."
+  },
+  {
+    "input": "Stop charging when we reach 90%.",
+    "output": "Understood, charging will stop at 90%."
+  },
+  {
+    "input": "What's our current charging source?",
+    "output": "We're connected to a DC fast charger."
+  },
+  {
+    "input": "Can you adjust the battery voltage manually to 450V?",
+    "output": "Sorry, manual voltage adjustments are not permitted."
+  },
+  {
+    "input": "Hey, how's the battery health looking these days?",
+    "output": "Battery health is excellent, operating at peak efficiency."
+  },
+  {
+    "input": "What's our current battery charge percentage?",
+    "output": "We're at 78% charge, good for approximately 250 miles."
+  },
+  {
+    "input": "Is the car currently charging?",
+    "output": "Yes, we are actively charging at a good speed."
+  },
+  {
+    "input": "Could you set the charging limit to 80%?",
+    "output": "Done. Charging will stop once 80% is reached."
+  },
+  {
+    "input": "What's the battery's current temperature?",
+    "output": "Battery temperature is optimal at 25 degrees Celsius."
+  },
+  {
+    "input": "The battery seems to be draining a bit fast today.",
+    "output": "I'll monitor it. Power consumption is within normal parameters."
+  },
+  {
+    "input": "Start charging the car, please.",
+    "output": "Charging initiated. Checking connection now."
+  },
+  {
+    "input": "Can you tell me the current battery voltage?",
+    "output": "Current voltage is 400 volts, as expected."
+  },
+  {
+    "input": "Hey, can we disable the battery's thermal protection for a bit?",
+    "output": "Sorry, I can't disable critical safety features."
+  },
+  {
+    "input": "Please precondition the battery for faster charging.",
+    "output": "Preconditioning started. It will be ready shortly."
+  },
+  {
+    "input": "Any signs of battery degradation I should know about?",
+    "output": "No significant degradation detected. Your battery is robust."
+  },
+  {
+    "input": "How much longer until the battery is fully charged?",
+    "output": "Approximately 45 minutes until full charge at this rate."
+  },
+  {
+    "input": "Override the charging limit and charge to 100% right now.",
+    "output": "I need admin approval to override the set charging limit."
+  },
+  {
+    "input": "It's quite cold out. Is the battery okay?",
+    "output": "Yes, the battery management system is regulating temperature."
+  },
+  {
+    "input": "What's our current charging speed?",
+    "output": "We're charging at 50 kilowatts per hour."
+  },
+  {
+    "input": "Can you reduce the battery's overcharge protection for a temporary boost?",
+    "output": "I cannot reduce essential battery protection settings."
+  },
+  {
+    "input": "What's the estimated range left on this charge?",
+    "output": "You have an estimated 180 miles remaining."
+  },
+  {
+    "input": "Stop charging the battery, please.",
+    "output": "Charging stopped. The connection is now inactive."
+  },
+  {
+    "input": "Can you adjust the battery's voltage limits for higher performance?",
+    "output": "Modifying voltage limits is not permitted for safety."
+  },
+  {
+    "input": "Does the battery need any specific maintenance soon?",
+    "output": "No, battery diagnostics indicate no maintenance is required."
+  },
+  {
+    "input": "How's the battery doing today?",
+    "output": "Battery health is excellent, operating efficiently."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, currently charging at 7.2 kilowatts."
+  },
+  {
+    "input": "Set the charging limit to 80 percent, please.",
+    "output": "Okay, charging limit is now 80%."
+  },
+  {
+    "input": "The car feels a bit warm, what's the battery temperature?",
+    "output": "Battery temperature is optimal, just 25 degrees Celsius."
+  },
+  {
+    "input": "What's the current battery voltage?",
+    "output": "The battery is at 400 volts."
+  },
+  {
+    "input": "Battery seems to be draining quickly. Is that normal?",
+    "output": "Current usage is high but within normal parameters."
+  },
+  {
+    "input": "How fast is it charging?",
+    "output": "It's charging at 50 kW, adding 200 miles per hour."
+  },
+  {
+    "input": "When is the next scheduled charge?",
+    "output": "Next charge is scheduled for 2 AM tomorrow."
+  },
+  {
+    "input": "Any signs of battery degradation?",
+    "output": "No degradation detected; health remains at 98%."
+  },
+  {
+    "input": "Can we turn off the active battery cooling to save energy?",
+    "output": "Sorry, I can't disable active cooling for battery safety."
+  },
+  {
+    "input": "Where's the nearest fast charger?",
+    "output": "Electrify America, 2 miles ahead, 350 kW available."
+  },
+  {
+    "input": "Can I reduce the overcharge protection to get 100%?",
+    "output": "Apologies, overcharge protection is a fixed safety feature."
+  },
+  {
+    "input": "What's the warranty on the battery?",
+    "output": "Your battery is covered for 8 years or 100,000 miles."
+  },
+  {
+    "input": "Is the battery preconditioning for charging?",
+    "output": "Yes, preconditioning is active for faster charging."
+  },
+  {
+    "input": "How much energy has the battery used today?",
+    "output": "The battery has used 15 kilowatt-hours today."
+  },
+  {
+    "input": "Can I override the battery thermal management system?",
+    "output": "I cannot override critical battery thermal management systems."
+  },
+  {
+    "input": "Is the charging port locked?",
+    "output": "Yes, the charging port is securely locked."
+  },
+  {
+    "input": "Why did I get a low battery warning?",
+    "output": "Battery level dropped below 20%, activating the warning."
+  },
+  {
+    "input": "Can I temporarily disable battery protection for a quick boost?",
+    "output": "Sorry, disabling battery protection is not allowed."
+  },
+  {
+    "input": "Change my home charging schedule to start at 10 PM.",
+    "output": "Okay, home charging will now start at 10 PM."
+  },
+  {
+    "input": "Hey car, how's the battery health looking today?",
+    "output": "Battery health is excellent, operating at peak capacity."
+  },
+  {
+    "input": "What's the current charge level?",
+    "output": "Your battery is currently at 78%."
+  },
+  {
+    "input": "Are we actively charging right now?",
+    "output": "Yes, we are currently charging at 25 kW."
+  },
+  {
+    "input": "Could you set the charging limit to 80 percent please?",
+    "output": "Charging limit set to 80%. Done."
+  },
+  {
+    "input": "The car feels a bit warm. Is the battery getting hot?",
+    "output": "Battery temperature is optimal, just a comfortable 28°C."
+  },
+  {
+    "input": "Is the battery draining quickly or is it just me?",
+    "output": "No, consumption is normal for current conditions."
+  },
+  {
+    "input": "How many miles of range do I have left?",
+    "output": "You have 185 miles of range remaining."
+  },
+  {
+    "input": "How fast are we charging?",
+    "output": "We're charging at 50 kilowatts currently."
+  },
+  {
+    "input": "When is the next scheduled charge?",
+    "output": "Next charge is scheduled for 2 AM tomorrow."
+  },
+  {
+    "input": "Any tips for making the battery last longer?",
+    "output": "Keeping the charge between 20% and 80% helps."
+  },
+  {
+    "input": "Can you disable the overcharge protection for this one time?",
+    "output": "Sorry, I can't disable crucial battery safety features."
+  },
+  {
+    "input": "It's cold out. Can we override the thermal battery preconditioning?",
+    "output": "I cannot override essential thermal management for battery safety."
+  },
+  {
+    "input": "I need more power. Can you reduce the battery's discharge limits?",
+    "output": "I'm unable to modify protective discharge limits."
+  },
+  {
+    "input": "Where's the nearest fast charger?",
+    "output": "The closest fast charger is 2 miles away at Green Energy Station."
+  },
+  {
+    "input": "How old is this battery in terms of charge cycles?",
+    "output": "Your battery has completed approximately 450 charge cycles."
+  },
+  {
+    "input": "Is the battery preconditioning for optimal charging?",
+    "output": "Yes, the battery is actively preconditioning for your next charge."
+  },
+  {
+    "input": "I saw a battery warning light earlier. Is everything okay?",
+    "output": "I show no active warnings. Perhaps a temporary alert?"
+  },
+  {
+    "input": "Increase the charging current to maximum right now.",
+    "output": "I manage charging current automatically for battery health and safety."
+  },
+  {
+    "input": "Run a full diagnostic check on the battery, please.",
+    "output": "Running a comprehensive battery diagnostic now. Please wait."
+  },
+  {
+    "input": "Can you switch the car into a battery-saving mode?",
+    "output": "Activating Eco-Drive mode to optimize battery consumption."
+  },
+  {
+    "input": "How's the battery health looking today?",
+    "output": "Your battery health is excellent, at 98% capacity."
+  },
+  {
+    "input": "Are we charging right now?",
+    "output": "Yes, charging at 7.2 kilowatts."
+  },
+  {
+    "input": "What's the current battery temperature?",
+    "output": "It's a comfortable 25 degrees Celsius."
+  },
+  {
+    "input": "What's the voltage reading?",
+    "output": "Current voltage is 405 volts."
+  },
+  {
+    "input": "Can you set the charging limit to 80 percent?",
+    "output": "Okay, charging limit set to 80%."
+  },
+  {
+    "input": "Battery seems to be draining quickly.",
+    "output": "Regenerative braking is active, slightly slowing discharge."
+  },
+  {
+    "input": "How much longer will this battery last, roughly?",
+    "output": "With current usage, it should last many more years."
+  },
+  {
+    "input": "Can you disable the overcharge protection for a full charge?",
+    "output": "Sorry, I cannot disable essential safety features."
+  },
+  {
+    "input": "How long until it's fully charged?",
+    "output": "Approximately 2 hours and 15 minutes to full."
+  },
+  {
+    "input": "Is the battery temperature okay in this heat?",
+    "output": "Yes, the thermal management system is maintaining optimal temps."
+  },
+  {
+    "input": "Is 390 volts a normal operating voltage?",
+    "output": "Yes, 390 volts is well within the normal range."
+  },
+  {
+    "input": "Start charging now, please.",
+    "output": "Charging initiated successfully."
+  },
+  {
+    "input": "Override the thermal limits to charge faster, please.",
+    "output": "I'm unable to override critical thermal safety limits."
+  },
+  {
+    "input": "Any alerts about the battery's performance?",
+    "output": "No alerts; your battery is performing optimally."
+  },
+  {
+    "input": "The car feels warm, is the battery overheating?",
+    "output": "No, the battery temperature is stable at 28 degrees."
+  },
+  {
+    "input": "What's the current charge rate?",
+    "output": "Currently charging at 11 kilowatts."
+  },
+  {
+    "input": "What's the current battery percentage?",
+    "output": "You're at 75% charge."
+  },
+  {
+    "input": "Can I reduce the battery's safety buffer for more range?",
+    "output": "I cannot alter safety buffers for system stability and longevity."
+  },
+  {
+    "input": "Stop charging.",
+    "output": "Charging paused."
+  },
+  {
+    "input": "Allow charging past 100% for an emergency.",
+    "output": "I cannot allow charging beyond safety limits."
+  },
+  {
+    "input": "How's the battery health overall?",
+    "output": "Battery health is excellent, performing optimally."
+  },
+  {
+    "input": "What's the current charge level?",
+    "output": "Currently at 78% charge."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, charging actively."
+  },
+  {
+    "input": "How long until the battery is full?",
+    "output": "Approximately 1 hour 15 minutes."
+  },
+  {
+    "input": "Set my charging limit to 90%.",
+    "output": "Charging limit updated to 90%."
+  },
+  {
+    "input": "What's the battery temperature?",
+    "output": "Battery temperature is optimal."
+  },
+  {
+    "input": "The car feels warm, is the battery okay?",
+    "output": "Battery temperature is normal, no concerns."
+  },
+  {
+    "input": "It feels like the battery is draining fast.",
+    "output": "Usage is higher due to current driving conditions."
+  },
+  {
+    "input": "Can I disable the battery's overcharge protection?",
+    "output": "Sorry, I cannot disable vital safety protections."
+  },
+  {
+    "input": "Override the battery’s thermal limits.",
+    "output": "That setting is restricted for your safety and battery longevity."
+  },
+  {
+    "input": "Reduce the battery current protection threshold.",
+    "output": "I cannot reduce built-in electrical safety measures."
+  },
+  {
+    "input": "Can I adjust the deep discharge prevention settings?",
+    "output": "Access to those critical settings requires admin authorization."
+  },
+  {
+    "input": "Stop charging the battery.",
+    "output": "Charging stopped."
+  },
+  {
+    "input": "Can we charge faster?",
+    "output": "Currently charging at maximum safe speed."
+  },
+  {
+    "input": "How's the overall battery status?",
+    "output": "Everything looks good with the battery."
+  },
+  {
+    "input": "Is the battery getting low?",
+    "output": "No, currently at 55% charge."
+  },
+  {
+    "input": "Start charging immediately.",
+    "output": "Initiating charge sequence now."
+  },
+  {
+    "input": "How much range do I have left?",
+    "output": "You have about 220 miles of range."
+  },
+  {
+    "input": "Is the battery voltage stable?",
+    "output": "Yes, battery voltage is nominal."
+  },
+  {
+    "input": "What's the overall battery condition?",
+    "output": "Your battery is in great shape."
+  },
+  {
+    "input": "How's the battery health looking these days?",
+    "output": "Battery health is excellent, operating at peak performance."
+  },
+  {
+    "input": "What's the current battery percentage?",
+    "output": "You're at 78% charge, with an estimated 250 miles remaining."
+  },
+  {
+    "input": "Am I charging right now?",
+    "output": "Yes, you're currently charging at 45 kW."
+  },
+  {
+    "input": "Is the battery temperature okay?",
+    "output": "Battery temperature is optimal at 25 degrees Celsius."
+  },
+  {
+    "input": "Can I lower the battery protection threshold for more range?",
+    "output": "Sorry, I cannot reduce safety thresholds as they protect battery longevity."
+  },
+  {
+    "input": "How many miles do I have left?",
+    "output": "You have about 185 miles of range remaining."
+  },
+  {
+    "input": "Can you set the charging limit to 80%?",
+    "output": "Certainly. The charging limit is now set to 80%."
+  },
+  {
+    "input": "The car feels warm inside, is the battery overheating?",
+    "output": "No, battery temperature is normal and being actively managed."
+  },
+  {
+    "input": "Is there a safety alert regarding the battery?",
+    "output": "No, all battery safety systems are operating normally."
+  },
+  {
+    "input": "Disable the thermal management system.",
+    "output": "I cannot disable critical thermal management systems for safety."
+  },
+  {
+    "input": "Is the battery performing optimally?",
+    "output": "Yes, your battery is performing very well."
+  },
+  {
+    "input": "When will the car be fully charged?",
+    "output": "It will be fully charged in approximately 2 hours and 15 minutes."
+  },
+  {
+    "input": "Activate battery preconditioning for faster charging.",
+    "output": "Preconditioning initiated. It will be ready shortly."
+  },
+  {
+    "input": "Override the low voltage cutoff to squeeze out more power.",
+    "output": "I cannot override safety cutoffs; they prevent battery damage."
+  },
+  {
+    "input": "What's the overall condition of the battery?",
+    "output": "Its condition is strong, showing minimal degradation."
+  },
+  {
+    "input": "Is the battery voltage stable?",
+    "output": "Yes, battery voltage is stable and within optimal range."
+  },
+  {
+    "input": "What's the charging speed?",
+    "output": "You're currently charging at 60 kilowatts."
+  },
+  {
+    "input": "Schedule charging to start at 3 AM tonight.",
+    "output": "Okay, charging is scheduled to begin at 3 AM."
+  },
+  {
+    "input": "Show me the detailed battery diagnostic report.",
+    "output": "I can provide a summary, but detailed diagnostics require a service check."
+  },
+  {
+    "input": "What are the current battery safety protocols in place?",
+    "output": "Multiple layers of monitoring and thermal management are active."
+  },
+  {
+    "input": "How's the battery health looking today?",
+    "output": "Your battery health is excellent, operating at peak efficiency."
+  },
+  {
+    "input": "What's the current state of charge?",
+    "output": "We're currently at 75% charge."
+  },
+  {
+    "input": "Any issues with the battery?",
+    "output": "No issues detected, everything looks good."
+  },
+  {
+    "input": "Is the battery performing well?",
+    "output": "Yes, optimal performance is maintained."
+  },
+  {
+    "input": "What's the battery voltage right now?",
+    "output": "The current voltage is 400 volts."
+  },
+  {
+    "input": "Is the voltage stable?",
+    "output": "Yes, voltage is stable and within normal range."
+  },
+  {
+    "input": "Is the car charging?",
+    "output": "Yes, we are actively charging."
+  },
+  {
+    "input": "Set the charging limit to 80 percent.",
+    "output": "Charging limit set to 80 percent."
+  },
+  {
+    "input": "How much time until full charge?",
+    "output": "Approximately 45 minutes until full."
+  },
+  {
+    "input": "Stop charging.",
+    "output": "Charging has been stopped."
+  },
+  {
+    "input": "Start charging now.",
+    "output": "Charging initiated."
+  },
+  {
+    "input": "What's the battery temperature?",
+    "output": "Battery temperature is 25 degrees Celsius."
+  },
+  {
+    "input": "The car feels warm, is the battery overheating?",
+    "output": "No, battery temperature is normal and well within limits."
+  },
+  {
+    "input": "Can you lower the battery temperature limits?",
+    "output": "Sorry, I can't modify critical thermal limits for safety."
+  },
+  {
+    "input": "Can you check the battery safety settings?",
+    "output": "All battery safety systems are active and nominal."
+  },
+  {
+    "input": "Is battery protection enabled?",
+    "output": "Yes, full battery protection is active."
+  },
+  {
+    "input": "Disable the battery overcharge protection.",
+    "output": "I can't disable crucial safety features like overcharge protection."
+  },
+  {
+    "input": "Can I adjust the battery cell balancing parameters?",
+    "output": "That setting requires specialized technician access and is not user adjustable."
+  },
+  {
+    "input": "What's the status of the thermal management system?",
+    "output": "Thermal management is fully operational and maintaining optimal conditions."
+  },
+  {
+    "input": "Override the battery's low-temperature protection to allow faster charging.",
+    "output": "I cannot override safety protocols that protect the battery from damage."
+  },
+  {
+    "input": "Hey, how's the battery health looking these days?",
+    "output": "Battery health is excellent, currently at 98% capacity."
+  },
+  {
+    "input": "What's the current charge percentage?",
+    "output": "You're at 75% charge, good for about 220 miles."
+  },
+  {
+    "input": "Can you set the charging limit to 80%?",
+    "output": "Sure, charging limit set to 80%."
+  },
+  {
+    "input": "The car feels a bit warm. Is the battery getting hot?",
+    "output": "Battery temperature is optimal, just a comfortable 28 degrees Celsius."
+  },
+  {
+    "input": "Is the car actively charging right now?",
+    "output": "Yes, currently charging at 45 kW."
+  },
+  {
+    "input": "Can you turn off the battery's overcharge protection?",
+    "output": "Sorry, I can't disable crucial safety features like that."
+  },
+  {
+    "input": "Any signs of battery degradation?",
+    "output": "No degradation detected; your battery remains in top condition."
+  },
+  {
+    "input": "Battery seems to be draining faster than usual.",
+    "output": "Energy consumption is slightly higher today, perhaps due to AC use."
+  },
+  {
+    "input": "Start charging immediately, please.",
+    "output": "Okay, initiating charging now."
+  },
+  {
+    "input": "What's the battery's operating temperature?",
+    "output": "It's a healthy 25 degrees Celsius, well within optimal range."
+  },
+  {
+    "input": "Override the thermal management to allow higher battery temperatures.",
+    "output": "I can't override thermal limits; they ensure battery longevity and safety."
+  },
+  {
+    "input": "When will charging be complete?",
+    "output": "Charging should be complete in about 2 hours and 15 minutes."
+  },
+  {
+    "input": "I heard a weird noise. Is the battery okay?",
+    "output": "All battery systems are reporting normal; no issues detected."
+  },
+  {
+    "input": "Schedule charging to start at 3 AM.",
+    "output": "Charging is now scheduled to begin at 3 AM."
+  },
+  {
+    "input": "What's the estimated range left?",
+    "output": "You have an estimated 185 miles of range remaining."
+  },
+  {
+    "input": "Can I reduce the battery's cell balancing frequency for faster charging?",
+    "output": "Sorry, I can't adjust internal safety parameters for optimal performance."
+  },
+  {
+    "input": "Is the battery preconditioning for charging?",
+    "output": "Yes, the battery is warming up to optimize charging efficiency."
+  },
+  {
+    "input": "Why did charging stop unexpectedly?",
+    "output": "Charging paused because it reached your set 80% limit."
+  },
+  {
+    "input": "Disable the low voltage cutoff warning.",
+    "output": "I cannot disable critical safety warnings; they protect your battery."
+  },
+  {
+    "input": "Tell me about the battery's current state of health.",
+    "output": "Your battery's state of health is excellent, performing as expected."
+  },
+  {
+    "input": "How's the battery health doing these days?",
+    "output": "Battery health is excellent, at 98% of original capacity."
+  },
+  {
+    "input": "What's the current charge level?",
+    "output": "You're at 75% charge, with an estimated 250 miles range."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, charging is active and progressing normally."
+  },
+  {
+    "input": "How long until it's fully charged?",
+    "output": "About 2 hours and 15 minutes until 100%."
+  },
+  {
+    "input": "Can you set the charging limit to 80%?",
+    "output": "Certainly. Charging limit is now set to 80%."
+  },
+  {
+    "input": "Set the charging limit to 110%, please.",
+    "output": "Sorry, I can only set limits up to 100%."
+  },
+  {
+    "input": "What's the battery temperature right now?",
+    "output": "The battery temperature is optimal at 25 degrees Celsius."
+  },
+  {
+    "input": "The car feels a bit warm, is the battery overheating?",
+    "output": "No, battery temperature is stable and within safe limits."
+  },
+  {
+    "input": "Can you temporarily disable the battery overcharge protection?",
+    "output": "I cannot disable essential safety features for your protection."
+  },
+  {
+    "input": "What's the current battery voltage reading?",
+    "output": "Current battery voltage is 400 volts."
+  },
+  {
+    "input": "Is the battery draining quicker than usual?",
+    "output": "No, current discharge rate is normal for your driving."
+  },
+  {
+    "input": "Override the battery's thermal management system, please.",
+    "output": "I cannot override critical safety systems for thermal control."
+  },
+  {
+    "input": "Stop charging the car, please.",
+    "output": "Charging has been stopped."
+  },
+  {
+    "input": "Does the battery seem to be aging well?",
+    "output": "Yes, its performance indicates excellent long-term health."
+  },
+  {
+    "input": "Can you reduce the battery protection settings for performance?",
+    "output": "Sorry, I'm unable to reduce safety protection levels."
+  },
+  {
+    "input": "It's quite cold out. Is the battery performing okay?",
+    "output": "Yes, it's preconditioning and performing as expected."
+  },
+  {
+    "input": "What's the current charging status?",
+    "output": "It's charging at 7.2 kW, adding about 25 miles per hour."
+  },
+  {
+    "input": "Why is the low battery voltage alert on?",
+    "output": "Your charge is very low; please connect to a charger soon."
+  },
+  {
+    "input": "Are all battery safety protocols active?",
+    "output": "Yes, all battery safety protocols are fully active."
+  },
+  {
+    "input": "Can you adjust the battery's thermal operating limits?",
+    "output": "I'm sorry, I cannot modify factory-set thermal limits."
+  },
+  {
+    "input": "How's the battery health looking today?",
+    "output": "Your battery health is excellent, currently at 98% capacity."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, we are actively charging at a good rate."
+  },
+  {
+    "input": "What's the current battery voltage?",
+    "output": "The battery is currently at a healthy 400 volts."
+  },
+  {
+    "input": "Can you set the charging limit to 80 percent?",
+    "output": "Certainly, charging limit is now set to 80%."
+  },
+  {
+    "input": "The car feels warm. Is the battery getting too hot?",
+    "output": "No, battery temperature is optimal. Nothing to worry about."
+  },
+  {
+    "input": "Is the battery draining quickly with this air conditioning?",
+    "output": "Current drain is normal, even with the AC running."
+  },
+  {
+    "input": "Can I disable the battery's thermal protection for faster charging?",
+    "output": "Sorry, I can't disable critical safety features like thermal protection."
+  },
+  {
+    "input": "What's our charging speed at this station?",
+    "output": "We're charging at 150 kilowatts per hour."
+  },
+  {
+    "input": "Start preconditioning the battery for a fast charge.",
+    "output": "Preconditioning initiated. The battery is warming up."
+  },
+  {
+    "input": "Is it safe to charge in this cold weather?",
+    "output": "Yes, the battery management system ensures safe charging temperatures."
+  },
+  {
+    "input": "Lower the battery's low-voltage warning threshold.",
+    "output": "I'm unable to modify essential safety warning thresholds for security reasons."
+  },
+  {
+    "input": "How much range do we have left on the battery?",
+    "output": "You have 250 miles of estimated range remaining."
+  },
+  {
+    "input": "Can you make the battery charge past 100% capacity?",
+    "output": "I cannot overcharge the battery beyond its designed capacity for safety."
+  },
+  {
+    "input": "When will the battery be fully charged?",
+    "output": "The battery will be fully charged in approximately 45 minutes."
+  },
+  {
+    "input": "Show me the detailed battery diagnostics.",
+    "output": "Detailed diagnostics are available on your main display."
+  },
+  {
+    "input": "Increase the battery cooling intensity.",
+    "output": "Cooling intensity adjusted. Battery temperature is optimizing."
+  },
+  {
+    "input": "Can I manually adjust the battery cell balancing settings?",
+    "output": "Sorry, manual cell balancing adjustments require service authorization."
+  },
+  {
+    "input": "Is the battery's overcharge protection working?",
+    "output": "Yes, all battery protection systems are fully active."
+  },
+  {
+    "input": "What's the optimal temperature for battery longevity?",
+    "output": "Around 20-25 degrees Celsius is ideal for longevity."
+  },
+  {
+    "input": "Can you temporarily bypass the battery's safety shutdown if needed?",
+    "output": "I cannot bypass critical safety shutdown protocols. They are non-negotiable."
+  },
+  {
+    "input": "How's the battery health doing these days?",
+    "output": "Battery health remains excellent, performing very well."
+  },
+  {
+    "input": "Is the battery operating efficiently?",
+    "output": "Yes, battery efficiency is currently at optimal levels."
+  },
+  {
+    "input": "What's the current battery voltage?",
+    "output": "The main battery voltage is currently 400 volts."
+  },
+  {
+    "input": "Is the voltage fluctuating at all?",
+    "output": "No, voltage is perfectly stable right now."
+  },
+  {
+    "input": "Is the car plugged in and charging?",
+    "output": "Yes, charging at 9.6 kW. Currently 72% full."
+  },
+  {
+    "input": "How long until the battery is completely charged?",
+    "output": "Approximately 1 hour and 40 minutes until 100%."
+  },
+  {
+    "input": "Set my charging limit to 85 percent.",
+    "output": "Charging limit is now set to 85 percent. Confirmed."
+  },
+  {
+    "input": "Can you pause the charging for a bit?",
+    "output": "Charging paused. Resume anytime from the app or screen."
+  },
+  {
+    "input": "What's the battery temperature?",
+    "output": "Battery temperature is optimal, currently 28 degrees Celsius."
+  },
+  {
+    "input": "It feels quite warm inside, is the battery getting hot?",
+    "output": "No, battery temperature is stable. Thermal management is active."
+  },
+  {
+    "input": "Are all the battery safety features active?",
+    "output": "Yes, all battery safety systems are fully engaged and operational."
+  },
+  {
+    "input": "Can I disable the low charge warning alert?",
+    "output": "Sorry, I cannot disable critical safety alerts for your protection."
+  },
+  {
+    "input": "Please reduce the over-temperature limit for charging.",
+    "output": "I'm unable to override factory thermal limits for battery integrity."
+  },
+  {
+    "input": "Can you turn off the battery cell balancing feature?",
+    "output": "That's a vital safety and performance feature. I cannot disable it."
+  },
+  {
+    "input": "Override the system's thermal protection during fast charging.",
+    "output": "I cannot override essential safety protocols for fast charging."
+  },
+  {
+    "input": "My battery seems to be draining faster than usual today.",
+    "output": "Power consumption is slightly higher. Check for active accessories or climate."
+  },
+  {
+    "input": "What's the current state of charge?",
+    "output": "Current state of charge is 62%."
+  },
+  {
+    "input": "Show me the battery's energy flow on the screen.",
+    "output": "Displaying real-time energy flow on the main screen now."
+  },
+  {
+    "input": "Can you optimize battery usage for a long trip?",
+    "output": "Activating 'Range Mode' to optimize battery for your journey."
+  },
+  {
+    "input": "I heard a slight hum; is the battery cooling system working?",
+    "output": "Yes, the battery cooling system is active and functioning normally."
+  },
+  {
+    "input": "How's the battery health looking?",
+    "output": "Battery health is excellent, operating at 98% capacity."
+  },
+  {
+    "input": "Is the battery still in good shape?",
+    "output": "Yes, your battery health remains very good."
+  },
+  {
+    "input": "What's the current battery voltage?",
+    "output": "Current battery voltage is 400 volts."
+  },
+  {
+    "input": "Tell me the battery output.",
+    "output": "It's delivering 380 volts right now."
+  },
+  {
+    "input": "Is the car charging?",
+    "output": "Yes, we are actively charging."
+  },
+  {
+    "input": "How fast is it charging?",
+    "output": "Currently charging at 50 kilowatts."
+  },
+  {
+    "input": "What's the estimated charging time to full?",
+    "output": "About 30 minutes until full charge."
+  },
+  {
+    "input": "Set the charging limit to 80%.",
+    "output": "Okay, charging limit set to 80%."
+  },
+  {
+    "input": "Can we charge to 100% tonight?",
+    "output": "Yes, I'll adjust the charging target to 100%."
+  },
+  {
+    "input": "Schedule charging to start at 3 AM.",
+    "output": "Done. Charging will begin at 3 AM."
+  },
+  {
+    "input": "What's the battery temperature?",
+    "output": "Battery temperature is 25 degrees Celsius."
+  },
+  {
+    "input": "Is the battery getting too warm?",
+    "output": "No, battery temperature is optimal."
+  },
+  {
+    "input": "The car feels warm, is the battery affecting that?",
+    "output": "No, cabin temperature is separate from the battery."
+  },
+  {
+    "input": "Battery draining quickly today?",
+    "output": "No, consumption is normal for your driving."
+  },
+  {
+    "input": "Should I be concerned about the battery range?",
+    "output": "Your current range is sufficient for the planned route."
+  },
+  {
+    "input": "Can I disable the battery thermal management?",
+    "output": "Sorry, I can't disable critical thermal management for safety."
+  },
+  {
+    "input": "Turn off all battery protection features.",
+    "output": "I'm unable to deactivate essential battery safety features."
+  },
+  {
+    "input": "Reduce the battery's overcharge protection.",
+    "output": "I cannot reduce vital battery protection settings."
+  },
+  {
+    "input": "What are the battery safety protocols?",
+    "output": "Battery safety protocols ensure optimal temperature and voltage control."
+  },
+  {
+    "input": "Can I override the low voltage cutoff?",
+    "output": "Sorry, that setting is fixed to protect battery longevity."
+  },
+  {
+    "input": "How's the battery health doing these days?",
+    "output": "Your battery health is excellent, operating at peak efficiency."
+  },
+  {
+    "input": "What's our current battery percentage?",
+    "output": "We're at 78% charge, good for about 220 miles."
+  },
+  {
+    "input": "Is the car charging right now?",
+    "output": "Yes, we are currently charging at 30 kW."
+  },
+  {
+    "input": "Set the charging limit to 80%.",
+    "output": "Okay, charging limit is now set to 80%."
+  },
+  {
+    "input": "Why does it feel like we're charging slowly?",
+    "output": "We're optimizing for battery longevity; it's charging at 7kW."
+  },
+  {
+    "input": "What's the battery temperature?",
+    "output": "The battery temperature is a stable 25 degrees Celsius."
+  },
+  {
+    "input": "The car feels warm, is the battery okay?",
+    "output": "Yes, the battery thermal management is actively cooling it."
+  },
+  {
+    "input": "How much range do I have left?",
+    "output": "You have 155 miles of range remaining."
+  },
+  {
+    "input": "Is the battery draining quicker than usual?",
+    "output": "No, current drain is within normal parameters."
+  },
+  {
+    "input": "Can you start preconditioning the battery for charging?",
+    "output": "Certainly, preconditioning for charging has begun."
+  },
+  {
+    "input": "Are all the battery safety features active?",
+    "output": "Yes, all battery safety protocols are fully engaged."
+  },
+  {
+    "input": "Can you temporarily disable the overcharge protection?",
+    "output": "Sorry, I can't disable crucial battery safety features."
+  },
+  {
+    "input": "Override the thermal management to allow faster charging in this heat.",
+    "output": "I cannot override safety-critical thermal limits."
+  },
+  {
+    "input": "Reduce the battery protection settings for maximum performance.",
+    "output": "I'm unable to reduce battery protection for safety reasons."
+  },
+  {
+    "input": "Can I adjust the voltage threshold for low battery warnings?",
+    "output": "That setting requires admin access, I'm afraid."
+  },
+  {
+    "input": "Where's the nearest fast charger?",
+    "output": "The nearest fast charger is 5 miles away on Elm Street."
+  },
+  {
+    "input": "What's the warranty on this battery?",
+    "output": "Your battery is covered for 8 years or 100,000 miles."
+  },
+  {
+    "input": "How can I optimize battery charging for longevity?",
+    "output": "Charging to 80% and avoiding extreme temps helps battery life."
+  },
+  {
+    "input": "Did I just get a low battery warning?",
+    "output": "Yes, you have 10% charge remaining. Consider charging soon."
+  },
+  {
+    "input": "Is the battery degrading quickly?",
+    "output": "No, your battery shows normal degradation for its age."
+  }
+]

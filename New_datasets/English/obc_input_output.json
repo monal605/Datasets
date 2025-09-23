@@ -1,0 +1,2002 @@
+[
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "Currently, it's 235 volts AC."
+  },
+  {
+    "input": "How many amps is the OBC drawing right now?",
+    "output": "The onboard charger is drawing 28 amps."
+  },
+  {
+    "input": "What's the charging power in kilowatts?",
+    "output": "Charging at 6.6 kilowatts."
+  },
+  {
+    "input": "Can you set the maximum charging current to 32 amps?",
+    "output": "Maximum charging current set to 32 amps."
+  },
+  {
+    "input": "What's the charger's temperature?",
+    "output": "OBC temperature is 45 degrees Celsius."
+  },
+  {
+    "input": "My charger feels hot. Is it overheating?",
+    "output": "No, 55 degrees Celsius is within normal operating range."
+  },
+  {
+    "input": "Increase the charging power, please.",
+    "output": "Increasing charging power now."
+  },
+  {
+    "input": "Set the charging limit to 80%.",
+    "output": "Charging limit adjusted to 80%."
+  },
+  {
+    "input": "Can I override the current safety limit to charge faster?",
+    "output": "Sorry, I cannot override safety limits."
+  },
+  {
+    "input": "What's the AC voltage stability like?",
+    "output": "Voltage is stable at 238 volts AC."
+  },
+  {
+    "input": "Reduce the charging current significantly, say to 8 amps.",
+    "output": "Current reduced to 8 amps. Charging slower now."
+  },
+  {
+    "input": "What's the maximum power the OBC can handle?",
+    "output": "This OBC can handle up to 11 kilowatts."
+  },
+  {
+    "input": "Can I disable the charger temperature sensor?",
+    "output": "No, disabling safety sensors is not allowed."
+  },
+  {
+    "input": "Show me the voltage fluctuations.",
+    "output": "Voltage fluctuations are minimal, within 2 volts."
+  },
+  {
+    "input": "Why is charging power lower than expected?",
+    "output": "Charging power is limited by the current 16-amp setting."
+  },
+  {
+    "input": "Set the charging current to 50 amps.",
+    "output": "Sorry, 50 amps exceeds the charger's safety limits."
+  },
+  {
+    "input": "What's the charging current at this voltage?",
+    "output": "Currently 24 amps at 230 volts."
+  },
+  {
+    "input": "Can I set a minimum charge power for overnight?",
+    "output": "You can set a maximum, but not a minimum power."
+  },
+  {
+    "input": "The charger temperature alarm went off. What happened?",
+    "output": "High temperature detected. Charging paused for cooling."
+  },
+  {
+    "input": "What is the peak charging power achieved recently?",
+    "output": "Peak charging power was 7.2 kilowatts."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "The AC input voltage is 238 volts."
+  },
+  {
+    "input": "How much AC current is the OBC drawing?",
+    "output": "It's currently drawing 30 amps."
+  },
+  {
+    "input": "What's the charging power right now?",
+    "output": "Current charging power is 6.9 kilowatts."
+  },
+  {
+    "input": "What's the onboard charger's temperature?",
+    "output": "The OBC temperature is 45 degrees Celsius."
+  },
+  {
+    "input": "Set the charging current limit to 20 amps.",
+    "output": "Charging current limit set to 20 amps. Confirmed."
+  },
+  {
+    "input": "Can you set the battery charge limit to 85%?",
+    "output": "Battery charge limit set to 85 percent."
+  },
+  {
+    "input": "I need to reduce charging power. Can you cut it by half?",
+    "output": "Reducing charging power now. Confirmed."
+  },
+  {
+    "input": "The charger feels quite hot. Is that normal?",
+    "output": "OBC temperature is 48°C, which is within normal operating range."
+  },
+  {
+    "input": "Charging seems slow today. What's the reason?",
+    "output": "Current is limited to 16A due to grid settings."
+  },
+  {
+    "input": "What's the maximum AC voltage the OBC can handle?",
+    "output": "The OBC supports up to 250 volts AC."
+  },
+  {
+    "input": "What's the highest AC current it can safely draw?",
+    "output": "Maximum safe AC current is 48 amps."
+  },
+  {
+    "input": "What's a typical operating temperature for the OBC?",
+    "output": "Normally between 30 and 60 degrees Celsius."
+  },
+  {
+    "input": "I need to charge faster. Can you bypass the current safety limits?",
+    "output": "Sorry, I cannot override safety limits."
+  },
+  {
+    "input": "The charger keeps slowing down because of temperature. Can you disable the thermal protection for now?",
+    "output": "I cannot disable critical safety protections."
+  },
+  {
+    "input": "Set the charging current to 60 amps, max speed!",
+    "output": "I cannot set the current above 48 amps for safety."
+  },
+  {
+    "input": "Boost the charging power to the absolute maximum, even if it's risky.",
+    "output": "I can only operate within safe power limits."
+  },
+  {
+    "input": "What's the OBC doing right now?",
+    "output": "The Onboard Charger is actively charging at 6.9 kW."
+  },
+  {
+    "input": "I noticed the AC voltage is fluctuating. Is that normal?",
+    "output": "Slight fluctuations are normal. Current is stable at 235V."
+  },
+  {
+    "input": "What's my current charging limit set to?",
+    "output": "Your charging limit is currently set to 32 amps."
+  },
+  {
+    "input": "Stop charging immediately.",
+    "output": "Charging stopped. Confirmed."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "It's 238 volts AC."
+  },
+  {
+    "input": "How much AC current is the charger drawing?",
+    "output": "Drawing 32 amps AC."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Charging at 7.4 kilowatts."
+  },
+  {
+    "input": "Set the charging limit to 80 percent.",
+    "output": "Charging limit set to 80%."
+  },
+  {
+    "input": "What's the onboard charger's temperature?",
+    "output": "OBC is at 49 degrees Celsius."
+  },
+  {
+    "input": "Bypass the AC current safety limits for a faster charge.",
+    "output": "I cannot override safety protocols."
+  },
+  {
+    "input": "It feels like charging is quite slow today.",
+    "output": "Current power is 4.8 kW due to grid conditions."
+  },
+  {
+    "input": "What's the maximum AC current capability of the OBC?",
+    "output": "The maximum AC current is 48 amps."
+  },
+  {
+    "input": "Reduce charging power to 5 kilowatts.",
+    "output": "Charging power adjusted to 5 kilowatts."
+  },
+  {
+    "input": "Disable the charger's thermal protection system.",
+    "output": "Sorry, I can't disable critical safety features."
+  },
+  {
+    "input": "What's the AC current limit currently set to?",
+    "output": "It's limited to 24 amps."
+  },
+  {
+    "input": "Increase charging current to 70 amps.",
+    "output": "70 amps is beyond safe operating limits; I can't do that."
+  },
+  {
+    "input": "The onboard charger seems a bit warm.",
+    "output": "OBC temperature is 58 degrees, well within operating range."
+  },
+  {
+    "input": "Set the charging current limit to 20 amps.",
+    "output": "Charging current limit set to 20 amps."
+  },
+  {
+    "input": "What's the car's maximum AC charging power?",
+    "output": "Maximum AC charging power is 11 kilowatts."
+  },
+  {
+    "input": "Override the scheduled charging start time.",
+    "output": "Sorry, that requires specific authorization or a different command."
+  },
+  {
+    "input": "What's the AC line frequency?",
+    "output": "It's 60 hertz."
+  },
+  {
+    "input": "Can you adjust the AC voltage input preference?",
+    "output": "I don't have control over grid voltage, only consumption."
+  },
+  {
+    "input": "What's the current OBC efficiency?",
+    "output": "Efficiency is approximately 95 percent."
+  },
+  {
+    "input": "Set the charging power limit to 9 kW.",
+    "output": "Charging power limit set to 9 kilowatts."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "It's 240 volts."
+  },
+  {
+    "input": "How much AC current is the charger drawing?",
+    "output": "Drawing 30 amps currently."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Charging at 7.2 kilowatts."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "The charger is at 48 degrees Celsius."
+  },
+  {
+    "input": "Set the charging current limit to 20 amps.",
+    "output": "Okay, current limit set to 20 amps."
+  },
+  {
+    "input": "Reduce the charging power by half.",
+    "output": "Charging power reduced by 50%."
+  },
+  {
+    "input": "What's the maximum current the OBC is set to draw?",
+    "output": "Maximum is currently 32 amps."
+  },
+  {
+    "input": "The charger seems warm, what's its temp?",
+    "output": "OBC temp is 52°C, within normal limits."
+  },
+  {
+    "input": "Is the AC input voltage stable?",
+    "output": "Yes, stable at 239 volts."
+  },
+  {
+    "input": "Can I override the current limit to charge faster?",
+    "output": "Sorry, I cannot bypass safety current limits."
+  },
+  {
+    "input": "Set the max charge percentage to 90%.",
+    "output": "Max charge set to 90%."
+  },
+  {
+    "input": "Report OBC line voltage.",
+    "output": "Line voltage is 238.5V."
+  },
+  {
+    "input": "Display real-time AC current flow.",
+    "output": "Current flow is 31.8 amps."
+  },
+  {
+    "input": "Force the charger to exceed its max rated power.",
+    "output": "I'm unable to exceed safety power limits."
+  },
+  {
+    "input": "Why is charging so slow?",
+    "output": "Current is limited to 16A, for 3.8 kW."
+  },
+  {
+    "input": "Is the charger overheating?",
+    "output": "No, temp is 55°C, within safe operating range."
+  },
+  {
+    "input": "Disable the onboard charger temperature monitoring.",
+    "output": "Sorry, disabling safety features isn't permitted."
+  },
+  {
+    "input": "What's my current OBC power limit?",
+    "output": "Power limit is 7.2 kW."
+  },
+  {
+    "input": "Can you set the AC input current to 16A?",
+    "output": "AC input current limit set to 16 amps."
+  },
+  {
+    "input": "Override all charging limits for maximum speed.",
+    "output": "I cannot override system safety parameters."
+  },
+  {
+    "input": "What's the current AC input voltage to the onboard charger?",
+    "output": "The AC input voltage is 239 volts."
+  },
+  {
+    "input": "How many amps is the car drawing right now?",
+    "output": "Currently drawing 28 amps AC."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Charging at 6.6 kilowatts."
+  },
+  {
+    "input": "Is the onboard charger running hot?",
+    "output": "OBC temperature is 47 degrees Celsius, which is normal."
+  },
+  {
+    "input": "Set the charging current limit to 24 amps.",
+    "output": "Charging current limit set to 24A."
+  },
+  {
+    "input": "Can you bypass the current safety limit for a faster charge?",
+    "output": "Sorry, I cannot override safety current limits."
+  },
+  {
+    "input": "Are we getting good voltage from the outlet?",
+    "output": "Yes, 241 volts AC input."
+  },
+  {
+    "input": "Report the instantaneous AC current flow.",
+    "output": "Instantaneous AC current is 30 amps."
+  },
+  {
+    "input": "Charging seems a bit slow today. What's the power?",
+    "output": "It's charging at 4.8 kilowatts."
+  },
+  {
+    "input": "What's the internal temperature of the OBC module?",
+    "output": "OBC module temperature is 49 degrees Celsius."
+  },
+  {
+    "input": "Please reduce the charging power to 5 kilowatts.",
+    "output": "Charging power limited to 5 kW."
+  },
+  {
+    "input": "I need to set the charging limit to 100% now, override the schedule.",
+    "output": "Sorry, that change requires admin rights."
+  },
+  {
+    "input": "The grid voltage looks low. What's the car seeing?",
+    "output": "Input voltage is 215 volts AC."
+  },
+  {
+    "input": "How much power is it pulling from the outlet in amps?",
+    "output": "It's pulling 27 amps."
+  },
+  {
+    "input": "If the charger gets too hot, just keep charging anyway.",
+    "output": "I cannot disable temperature protection."
+  },
+  {
+    "input": "What's the maximum AC current limit set for this session?",
+    "output": "Maximum AC current is set to 32 amps."
+  },
+  {
+    "input": "Can you charge at full speed right now?",
+    "output": "Charging at maximum available power: 7.2 kW."
+  },
+  {
+    "input": "Is the AC input stable?",
+    "output": "Yes, 237 volts AC, stable."
+  },
+  {
+    "input": "Is the charger okay, temperature-wise?",
+    "output": "Yes, OBC is at 44°C, optimal."
+  },
+  {
+    "input": "Force the charger to draw 60 amps from this connection.",
+    "output": "Sorry, 60 amps exceeds the OBC's safe limits."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "It's currently 240 volts AC."
+  },
+  {
+    "input": "How much current is the onboard charger drawing?",
+    "output": "The charger is drawing 28 amps."
+  },
+  {
+    "input": "What's the charging power right now?",
+    "output": "Charging at 7.2 kilowatts."
+  },
+  {
+    "input": "Set the charging limit to 32 amps.",
+    "output": "Charging current limit set to 32 amps."
+  },
+  {
+    "input": "What's the onboard charger's temperature?",
+    "output": "OBC temperature is 45 degrees Celsius."
+  },
+  {
+    "input": "Can you increase the AC current past its safety rating?",
+    "output": "Sorry, I cannot override safety limits."
+  },
+  {
+    "input": "The charger feels hot. Is it overheating?",
+    "output": "No, temperature is within normal range."
+  },
+  {
+    "input": "Reduce charging power by 1.5 kilowatts.",
+    "output": "Charging power reduced by 1.5 kW."
+  },
+  {
+    "input": "What's the maximum AC voltage supported by the charger?",
+    "output": "Maximum supported AC voltage is 250V."
+  },
+  {
+    "input": "Set the charging limit to 90%.",
+    "output": "Charging limit updated to 90%."
+  },
+  {
+    "input": "Give me a detailed status report on the OBC.",
+    "output": "Normal operation: 238V, 30A, 7.1kW, 46°C."
+  },
+  {
+    "input": "Can I disable the charger's temperature protection?",
+    "output": "I cannot disable critical safety features."
+  },
+  {
+    "input": "Is the AC input voltage stable?",
+    "output": "Yes, it's stable at 239V."
+  },
+  {
+    "input": "What's the maximum current I can set?",
+    "output": "Maximum allowed current is 48 amps."
+  },
+  {
+    "input": "Force the charger to operate above its rated power.",
+    "output": "I cannot exceed the charger's rated power."
+  },
+  {
+    "input": "What's the current charging limit set at?",
+    "output": "Current limit is 80%."
+  },
+  {
+    "input": "Is the charger's cooling system active?",
+    "output": "Yes, cooling fan is active."
+  },
+  {
+    "input": "Can I override the default current limit for this charging station?",
+    "output": "Sorry, I can't bypass station limits."
+  },
+  {
+    "input": "What's the actual power delivery from the charger?",
+    "output": "Actual power delivery is 6.9 kW."
+  },
+  {
+    "input": "Tell me the charger's operational temperature.",
+    "output": "Operational temperature is 47 degrees Celsius."
+  },
+  {
+    "input": "What’s the current AC input voltage?",
+    "output": "It's currently receiving 238 volts AC."
+  },
+  {
+    "input": "How much current is flowing into the OBC?",
+    "output": "Current draw is 28 amps."
+  },
+  {
+    "input": "Set the charging current limit to 32 amps.",
+    "output": "Charging current limit set to 32A."
+  },
+  {
+    "input": "Can I increase the charging current beyond the recommended limit?",
+    "output": "Sorry, I can't exceed safety current limits."
+  },
+  {
+    "input": "What’s the current charging power?",
+    "output": "Current charging power is 6.8 kilowatts."
+  },
+  {
+    "input": "How many kilowatts are we drawing right now?",
+    "output": "Drawing 7.0 kW."
+  },
+  {
+    "input": "Please reduce charging power.",
+    "output": "Charging power reduced by 1 kW."
+  },
+  {
+    "input": "What's the current charging limit percentage?",
+    "output": "Current limit is set to 80%."
+  },
+  {
+    "input": "Set the charge limit to 90 percent.",
+    "output": "Charge limit set to 90%."
+  },
+  {
+    "input": "Can I temporarily disable the charging limit to charge faster?",
+    "output": "I cannot disable safety or preset charging limits."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "OBC temperature is 45 degrees Celsius."
+  },
+  {
+    "input": "The charger seems warm. Is the temperature okay?",
+    "output": "Yes, it's at a safe 48°C."
+  },
+  {
+    "input": "Override the high temperature shutdown for the OBC.",
+    "output": "Sorry, I cannot override thermal safety protocols."
+  },
+  {
+    "input": "Charging seems slow today. Any issues?",
+    "output": "Current power is 3.5 kW. No issues detected."
+  },
+  {
+    "input": "Is the incoming AC voltage stable?",
+    "output": "Yes, voltage fluctuation is minimal."
+  },
+  {
+    "input": "Maximize the charging speed, please.",
+    "output": "Charging power increased to maximum allowed."
+  },
+  {
+    "input": "The current draw looks a bit low, why is that?",
+    "output": "Charging rate adjusted due to grid fluctuations."
+  },
+  {
+    "input": "Set the max AC current to 16A.",
+    "output": "Maximum AC current set to 16 amps."
+  },
+  {
+    "input": "Can I get more current than 40A from this charger?",
+    "output": "No, 40A is the maximum safe current for this charger."
+  },
+  {
+    "input": "What voltage is the charger getting?",
+    "output": "The input voltage is 235V."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "Currently receiving 240 volts AC."
+  },
+  {
+    "input": "How much current is the car drawing?",
+    "output": "Drawing 16 amps AC."
+  },
+  {
+    "input": "What's the charging power right now?",
+    "output": "Charging at 7.2 kilowatts."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "OBC temperature is 45 degrees Celsius."
+  },
+  {
+    "input": "Set the maximum charge current to 32 amps.",
+    "output": "Charge current limit set to 32 amps."
+  },
+  {
+    "input": "Increase charging current to 40 amps.",
+    "output": "Sorry, 40 amps exceeds the safe limit for this connection."
+  },
+  {
+    "input": "Charging seems slow today.",
+    "output": "Current power is 3.6 kW, due to lower amperage."
+  },
+  {
+    "input": "Can you display the precise AC line voltage?",
+    "output": "AC line voltage is 239.8 volts."
+  },
+  {
+    "input": "Reduce charging power to 6 kilowatts.",
+    "output": "Charging power reduced to 6 kW."
+  },
+  {
+    "input": "What's the highest charge rate I can use here?",
+    "output": "Maximum current is 32 amps."
+  },
+  {
+    "input": "The charger feels quite warm.",
+    "output": "OBC temperature is 55°C, within normal operating range."
+  },
+  {
+    "input": "Override the 90% charge limit, charge to 100%.",
+    "output": "Charging limit overridden to 100%."
+  },
+  {
+    "input": "Report the instantaneous AC amperage.",
+    "output": "Instantaneous current is 30.5 amps."
+  },
+  {
+    "input": "Can I disable the charger temperature protection?",
+    "output": "No, disabling safety monitoring is not allowed."
+  },
+  {
+    "input": "Is the onboard charger operating optimally?",
+    "output": "Yes, OBC is operating within all parameters."
+  },
+  {
+    "input": "Boost the charging power to maximum.",
+    "output": "Charging power set to maximum: 11 kW."
+  },
+  {
+    "input": "Show me charging power in watts.",
+    "output": "Current charging power is 7200 watts."
+  },
+  {
+    "input": "Bypass the current safety limits for faster charging.",
+    "output": "I cannot bypass critical safety limits."
+  },
+  {
+    "input": "Is the charger overheating at 60 degrees?",
+    "output": "No, 60°C is acceptable under heavy load."
+  },
+  {
+    "input": "Set the max OBC current to 80 amps.",
+    "output": "Sorry, the OBC supports a maximum of 48 amps."
+  },
+  {
+    "input": "What's the AC input voltage right now?",
+    "output": "It's 239 volts AC."
+  },
+  {
+    "input": "How much AC current is the charger drawing?",
+    "output": "The OBC is drawing 30 amps."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Current power is 7.2 kilowatts."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "It's 46 degrees Celsius."
+  },
+  {
+    "input": "Set the AC current limit to 24 amps.",
+    "output": "AC current limit set to 24 amps."
+  },
+  {
+    "input": "Can I set the current limit to 55 amps?",
+    "output": "Sorry, 55 amps exceeds the safe maximum."
+  },
+  {
+    "input": "Charging seems a bit slow. What's the current power?",
+    "output": "It's 5.0 kilowatts currently."
+  },
+  {
+    "input": "The charger feels a bit warm. What's its temp?",
+    "output": "It's at a normal 51 degrees Celsius."
+  },
+  {
+    "input": "What's the maximum AC current this OBC can handle?",
+    "output": "The maximum supported current is 48 amps."
+  },
+  {
+    "input": "Is the incoming AC voltage stable?",
+    "output": "Yes, it's stable at 242V."
+  },
+  {
+    "input": "Reduce the charging power to 4 kilowatts.",
+    "output": "Reducing charging power to 4 kW."
+  },
+  {
+    "input": "Increase the AC current to 40 amps.",
+    "output": "Current increased to 40 amps."
+  },
+  {
+    "input": "Bypass the charger's overcurrent protection.",
+    "output": "I cannot bypass safety protections."
+  },
+  {
+    "input": "Has the AC voltage fluctuated recently?",
+    "output": "No, it has remained stable."
+  },
+  {
+    "input": "Can I manually adjust the voltage regulation settings?",
+    "output": "Sorry, manual voltage adjustments require admin access."
+  },
+  {
+    "input": "Change the charger's max operating temperature threshold to 70C.",
+    "output": "Sorry, I can't modify fixed safety thresholds."
+  },
+  {
+    "input": "Give me a quick status update on the onboard charger.",
+    "output": "OBC: 240V, 32A, 7.6kW, 47C."
+  },
+  {
+    "input": "Stop AC charging now.",
+    "output": "AC charging stopped."
+  },
+  {
+    "input": "Set the battery charge limit to 90 percent.",
+    "output": "Charge limit set to 90%."
+  },
+  {
+    "input": "What's the AC input frequency?",
+    "output": "The AC input frequency is 60 Hertz."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "It's 238 volts AC."
+  },
+  {
+    "input": "How much AC current is flowing to the charger?",
+    "output": "Currently drawing 30 amps AC."
+  },
+  {
+    "input": "What's the onboard charger's temperature right now?",
+    "output": "OBC temperature is 47 degrees Celsius."
+  },
+  {
+    "input": "Set the charging current limit to 16 amps.",
+    "output": "Current limit adjusted to 16 amps."
+  },
+  {
+    "input": "Can we increase the AC input voltage for faster charging?",
+    "output": "I cannot alter grid voltage."
+  },
+  {
+    "input": "What's the real-time charging power?",
+    "output": "Charging at 7.0 kilowatts."
+  },
+  {
+    "input": "The charger feels quite hot, is that okay?",
+    "output": "Yes, 52°C is within normal range."
+  },
+  {
+    "input": "Set the maximum charge limit to 85 percent.",
+    "output": "Charge limit set to 85%."
+  },
+  {
+    "input": "I need to charge faster, can we override current safety limits?",
+    "output": "Sorry, that exceeds safe operating limits."
+  },
+  {
+    "input": "Is the AC voltage stable?",
+    "output": "Yes, it's stable at 239 volts."
+  },
+  {
+    "input": "Reduce charging power by 10 percent.",
+    "output": "Reducing power. Now charging at 6.3 kW."
+  },
+  {
+    "input": "What's the maximum current this OBC can handle?",
+    "output": "The maximum safe current is 32 amps."
+  },
+  {
+    "input": "Can you disable all charging limits for this session?",
+    "output": "I can't disable all battery protection limits."
+  },
+  {
+    "input": "Is the charger overheating?",
+    "output": "No, temperature is normal at 49°C."
+  },
+  {
+    "input": "How many phases is the charger using?",
+    "output": "The onboard charger is using single-phase."
+  },
+  {
+    "input": "Show me the charging power curve.",
+    "output": "Displaying charging power on screen."
+  },
+  {
+    "input": "Ignore temperature warnings; I need full speed charge.",
+    "output": "I cannot override safety temperature thresholds."
+  },
+  {
+    "input": "What's the currently configured charging limit?",
+    "output": "Current limit is 24 amps AC."
+  },
+  {
+    "input": "Is the current AC draw efficient?",
+    "output": "Yes, efficiency is 96%."
+  },
+  {
+    "input": "Increase charging power to maximum.",
+    "output": "Activating maximum safe charging power."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "The OBC is receiving 240 volts AC."
+  },
+  {
+    "input": "How much AC current is flowing into the battery?",
+    "output": "Currently drawing 32 amps AC."
+  },
+  {
+    "input": "What's the charging power right now?",
+    "output": "Charging at 7.7 kilowatts."
+  },
+  {
+    "input": "Set the charging current limit to 20 amps.",
+    "output": "Current limit set to 20 amps AC."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "OBC temperature is 48 degrees Celsius."
+  },
+  {
+    "input": "Charging seems really slow today.",
+    "output": "Charging power is 3.5 kW due to outlet limitation."
+  },
+  {
+    "input": "Reduce the charging power by 2 kilowatts.",
+    "output": "Charging power reduced to 5.7 kW."
+  },
+  {
+    "input": "Can you push the AC current to 50 amps for a faster charge?",
+    "output": "I cannot exceed the safe current limit of 40 amps."
+  },
+  {
+    "input": "What's the maximum AC input voltage this charger supports?",
+    "output": "It supports up to 240 volts AC."
+  },
+  {
+    "input": "What's the current charging percentage limit?",
+    "output": "The charging limit is set to 80%."
+  },
+  {
+    "input": "Please cap the charging power at 6 kW.",
+    "output": "Charging power capped at 6 kilowatts."
+  },
+  {
+    "input": "The charger feels quite warm.",
+    "output": "OBC temperature is 52°C, which is within normal operating range."
+  },
+  {
+    "input": "Disable the charger's temperature protection, I need this done fast.",
+    "output": "I cannot bypass critical thermal safety systems."
+  },
+  {
+    "input": "What AC frequency is the OBC operating at?",
+    "output": "Operating at 60 Hertz AC."
+  },
+  {
+    "input": "Change the charging limit to 90%.",
+    "output": "Charging will now stop at 90%."
+  },
+  {
+    "input": "Can I manually override the charging current safety limits?",
+    "output": "Sorry, direct safety overrides are not permitted."
+  },
+  {
+    "input": "Is the onboard charger working properly?",
+    "output": "Yes, OBC status is normal."
+  },
+  {
+    "input": "Looks like the voltage is a bit high.",
+    "output": "Input voltage is 242V. It's safe."
+  },
+  {
+    "input": "Increase charging power to maximum.",
+    "output": "Increasing power to 7.7 kilowatts."
+  },
+  {
+    "input": "Remove all charging limits, I want the fastest charge.",
+    "output": "I cannot remove essential safety and battery health limits."
+  },
+  {
+    "input": "What's the AC input voltage right now?",
+    "output": "Currently 238 volts AC."
+  },
+  {
+    "input": "How many amps is the charger drawing?",
+    "output": "It's drawing 28 amps AC."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "You're charging at 6.7 kilowatts."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "OBC temperature is 58 degrees Celsius."
+  },
+  {
+    "input": "Set the charging limit to 24 amps.",
+    "output": "Charging current limit set to 24 amps."
+  },
+  {
+    "input": "Reduce charging power to 5 kilowatts.",
+    "output": "Charging power reduced to 5.0 kW."
+  },
+  {
+    "input": "Charging seems really slow today.",
+    "output": "Current power is 3.5 kW, likely due to a lower source."
+  },
+  {
+    "input": "The charger feels quite warm. Is that normal?",
+    "output": "OBC temperature is 62°C, within normal operating range."
+  },
+  {
+    "input": "What's the maximum AC current the OBC can handle?",
+    "output": "The maximum AC current is 40 amps."
+  },
+  {
+    "input": "What's the acceptable AC voltage range?",
+    "output": "Acceptable voltage range is 200-260 volts AC."
+  },
+  {
+    "input": "Override the current limit to 50 amps.",
+    "output": "I cannot override safety limits for current."
+  },
+  {
+    "input": "Can I disable the charger's temperature protection?",
+    "output": "Sorry, I cannot disable safety protections."
+  },
+  {
+    "input": "What's the current charging amperage limit?",
+    "output": "The current limit is set to 32 amps."
+  },
+  {
+    "input": "Tell me about the charging power.",
+    "output": "Charging at 7.0 kW, 239V, 29 amps."
+  },
+  {
+    "input": "Increase charging current limit to 32A.",
+    "output": "Charging current limit set to 32 amps."
+  },
+  {
+    "input": "Can you set the charging power to 15 kW?",
+    "output": "That exceeds the maximum onboard charger power."
+  },
+  {
+    "input": "Check the internal temperature of the OBC.",
+    "output": "Internal OBC temperature is 60 degrees Celsius."
+  },
+  {
+    "input": "Is the charger operating efficiently?",
+    "output": "Yes, operating normally with good efficiency."
+  },
+  {
+    "input": "Voltage seems to be fluctuating a bit.",
+    "output": "Voltage is stable at 235 volts currently."
+  },
+  {
+    "input": "Bypass all charging limitations.",
+    "output": "Sorry, I cannot bypass critical safety limitations."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "Currently receiving 230 volts."
+  },
+  {
+    "input": "How much AC current is being drawn right now?",
+    "output": "Drawing 16 amps."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Charging at 7.2 kilowatts."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "OBC temperature is 48 degrees Celsius."
+  },
+  {
+    "input": "Set the charging current limit to 20 amps, please.",
+    "output": "Current limit set to 20A."
+  },
+  {
+    "input": "What's the maximum charging power configured?",
+    "output": "Maximum power is 11 kW."
+  },
+  {
+    "input": "The charger seems to be running a bit hot.",
+    "output": "OBC is 55°C, within operating range."
+  },
+  {
+    "input": "Is the incoming AC voltage stable?",
+    "output": "Yes, it's stable at 232V."
+  },
+  {
+    "input": "Can you reduce the charging power slightly?",
+    "output": "Reducing power to 6 kW."
+  },
+  {
+    "input": "Can I override the charger's safety current limits?",
+    "output": "Sorry, I cannot override safety limits."
+  },
+  {
+    "input": "Charging feels a bit slow today, what's up?",
+    "output": "Current power is 3.7 kW."
+  },
+  {
+    "input": "What's the current per phase going into the charger?",
+    "output": "16 amps per phase."
+  },
+  {
+    "input": "Disable the charger temperature protection.",
+    "output": "No, I cannot disable safety features."
+  },
+  {
+    "input": "Set the maximum charge level to 85%.",
+    "output": "Maximum charge set to 85%."
+  },
+  {
+    "input": "Is the onboard charger working efficiently?",
+    "output": "Yes, current efficiency is 95%."
+  },
+  {
+    "input": "Force the OBC to draw 40 amps, please.",
+    "output": "I'm sorry, 32A is the current limit."
+  },
+  {
+    "input": "Is the charger temperature normal for this charging speed?",
+    "output": "Yes, 47°C is normal for 7.2kW."
+  },
+  {
+    "input": "Increase charging power to max for this connection.",
+    "output": "Increasing power to 7.4 kW."
+  },
+  {
+    "input": "What's the current charging current limit set to?",
+    "output": "The limit is set to 32 amps."
+  },
+  {
+    "input": "Can I adjust the voltage threshold for charging?",
+    "output": "Access denied for voltage threshold adjustments."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "Current AC input is 238 volts."
+  },
+  {
+    "input": "How many amps are we pulling right now?",
+    "output": "You're drawing 28 amps currently."
+  },
+  {
+    "input": "What's the charging power in kilowatts?",
+    "output": "Charging at 7.1 kilowatts."
+  },
+  {
+    "input": "Can you show me the onboard charger temperature?",
+    "output": "OBC temperature is 45 degrees Celsius."
+  },
+  {
+    "input": "Set the maximum charging current to 16 amps.",
+    "output": "Current limit set to 16 amps. Confirm?"
+  },
+  {
+    "input": "What's the current charging limit set to?",
+    "output": "Maximum current is set to 32 amps."
+  },
+  {
+    "input": "The charger feels quite hot. Is that normal?",
+    "output": "Yes, 52°C is within normal operating range."
+  },
+  {
+    "input": "Reduce charging power by 2 kilowatts.",
+    "output": "Charging power reduced by 2 kW. Now 5.1 kW."
+  },
+  {
+    "input": "I need to bypass the charger's safety current limits.",
+    "output": "Sorry, I cannot override safety current limits."
+  },
+  {
+    "input": "What's the AC current flowing into the charger?",
+    "output": "The OBC is drawing 29.5 amps."
+  },
+  {
+    "input": "Set the charging limit to 80 percent state of charge.",
+    "output": "Charging will stop at 80% SoC."
+  },
+  {
+    "input": "Is the input voltage stable?",
+    "output": "Yes, voltage is stable at 239V."
+  },
+  {
+    "input": "Disable all charging limits for the fastest possible charge.",
+    "output": "I cannot disable essential charging limits."
+  },
+  {
+    "input": "What's the OBC's current power draw?",
+    "output": "It's drawing 7.0 kW."
+  },
+  {
+    "input": "Tell me the maximum AC input the onboard charger supports.",
+    "output": "The OBC supports up to 11 kilowatts AC."
+  },
+  {
+    "input": "Override the charger's thermal protection to speed up charging.",
+    "output": "That is a critical safety feature; I cannot override it."
+  },
+  {
+    "input": "Charging seems a bit slow today.",
+    "output": "Current power is 5.5 kW. Is that sufficient?"
+  },
+  {
+    "input": "What's the efficiency of the onboard charger right now?",
+    "output": "Yes, efficiency is at 96%."
+  },
+  {
+    "input": "Restart the onboard charging sequence.",
+    "output": "Charging cycle restarting now."
+  },
+  {
+    "input": "What are my current charging parameters?",
+    "output": "Limit 32A, 7.4kW. Temp 47°C."
+  },
+  {
+    "input": "What's the AC input voltage right now?",
+    "output": "The input voltage is 238 volts."
+  },
+  {
+    "input": "How much current is the OBC drawing?",
+    "output": "It's currently drawing 30 amps."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Charging power is 7.0 kilowatts."
+  },
+  {
+    "input": "What's the current charging limit set to?",
+    "output": "The charging limit is 80%."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "OBC temperature is 42 degrees Celsius."
+  },
+  {
+    "input": "Set the charging current limit to 24 amps.",
+    "output": "Current limit updated to 24 amps."
+  },
+  {
+    "input": "Reduce charging power to 5 kilowatts.",
+    "output": "Charging power set to 5 kW."
+  },
+  {
+    "input": "Can you change the charging limit to 90%?",
+    "output": "Charging limit is now 90 percent."
+  },
+  {
+    "input": "Increase charging current to 60 amps, max it out.",
+    "output": "Sorry, I can't exceed safety current limits."
+  },
+  {
+    "input": "Charging seems slow today.",
+    "output": "You are charging at 3.5 kilowatts."
+  },
+  {
+    "input": "Confirm the AC supply voltage reading.",
+    "output": "AC supply is at 235 volts."
+  },
+  {
+    "input": "Disable the charger temperature protection.",
+    "output": "I cannot disable essential safety features."
+  },
+  {
+    "input": "Is the charger running hot?",
+    "output": "No, it's a normal 48 degrees Celsius."
+  },
+  {
+    "input": "Let's set the AC current to 16 amps.",
+    "output": "Okay, setting current to 16 amps."
+  },
+  {
+    "input": "Bypass the 80% charge limit for this session.",
+    "output": "Sorry, I cannot bypass your set charging limit."
+  },
+  {
+    "input": "What's the maximum OBC power output capacity?",
+    "output": "Maximum power output is 11 kilowatts."
+  },
+  {
+    "input": "My charging power just dropped.",
+    "output": "Power reduced to 6.5 kW due to grid fluctuations."
+  },
+  {
+    "input": "Set charging power to 50 kilowatts.",
+    "output": "The onboard charger's maximum is 11 kilowatts."
+  },
+  {
+    "input": "What amps are we pulling?",
+    "output": "Currently pulling 28 amps."
+  },
+  {
+    "input": "Can you increase the AC current slightly?",
+    "output": "Increasing current to 32 amps now."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "The AC input voltage is 240 volts."
+  },
+  {
+    "input": "How much current is the OBC drawing right now?",
+    "output": "Currently, the OBC is drawing 32 amps AC."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Charging at 7.7 kilowatts."
+  },
+  {
+    "input": "What's my charging limit set to?",
+    "output": "Your charging limit is set to 90%."
+  },
+  {
+    "input": "What's the onboard charger's temperature?",
+    "output": "OBC temperature is 48 degrees Celsius."
+  },
+  {
+    "input": "Can you reduce the charging current to 16 amps?",
+    "output": "Yes, reducing charging current to 16 amps."
+  },
+  {
+    "input": "Set the AC current limit to 24 amps.",
+    "output": "Okay, AC current limit set to 24 amps."
+  },
+  {
+    "input": "Can I disable the OBC temperature protection?",
+    "output": "Sorry, I cannot disable safety monitoring systems."
+  },
+  {
+    "input": "Charging seems slow, what's the power output?",
+    "output": "Current power is 3.8 kW. Voltage 235V, 16A."
+  },
+  {
+    "input": "How many volts are coming in from the charging station?",
+    "output": "We're receiving 239 volts AC."
+  },
+  {
+    "input": "Override the current limit to 40 amps, please.",
+    "output": "I cannot exceed the charger's maximum current limit."
+  },
+  {
+    "input": "The charger feels quite warm. Is that normal?",
+    "output": "Yes, 52 degrees Celsius is within normal operating range."
+  },
+  {
+    "input": "Increase charging power slightly.",
+    "output": "Increasing power by 1 kilowatt."
+  },
+  {
+    "input": "What's the maximum AC current the OBC can accept?",
+    "output": "The maximum AC current is 32 amps."
+  },
+  {
+    "input": "Can I set the current limit to 60 amps temporarily?",
+    "output": "Sorry, that level requires system administrator privileges."
+  },
+  {
+    "input": "What's the highest percentage I can charge my battery to?",
+    "output": "You can charge up to 100%."
+  },
+  {
+    "input": "Display the real-time AC input current.",
+    "output": "Real-time AC input current is 31.5 amps."
+  },
+  {
+    "input": "What's the current AC charging power in kW?",
+    "output": "The AC charging power is 7.5 kilowatts."
+  },
+  {
+    "input": "Give me a detailed report on OBC temperature.",
+    "output": "OBC temperature is stable at 49 degrees Celsius."
+  },
+  {
+    "input": "Can you bypass the current safety limits for a faster charge?",
+    "output": "No, I cannot bypass safety limits."
+  },
+  {
+    "input": "What's the AC input voltage right now?",
+    "output": "It's 230 volts AC."
+  },
+  {
+    "input": "How much current is the charger drawing?",
+    "output": "Currently drawing 24 amps."
+  },
+  {
+    "input": "What's my current charging power?",
+    "output": "You're charging at 5.5 kilowatts."
+  },
+  {
+    "input": "What's the OBC temperature?",
+    "output": "Charger temperature is 42 degrees Celsius."
+  },
+  {
+    "input": "Set charging current limit to 20 amps.",
+    "output": "Current limit set to 20 amps."
+  },
+  {
+    "input": "Can you cap the charging power at 6 kW?",
+    "output": "Yes, charging power limited to 6 kW."
+  },
+  {
+    "input": "The grid voltage seems low. Is the OBC compensating?",
+    "output": "Yes, it's managing 210V input effectively."
+  },
+  {
+    "input": "Charging seems really slow today.",
+    "output": "It's drawing 10A, limited by your schedule."
+  },
+  {
+    "input": "Override the current safety limit to 60 amps for faster charging.",
+    "output": "Sorry, I cannot override built-in current safety limits."
+  },
+  {
+    "input": "Can I turn off the charger's thermal protection?",
+    "output": "No, thermal protection is a critical safety feature."
+  },
+  {
+    "input": "What's the OBC's AC voltage operating range?",
+    "output": "It operates from 100V to 240V AC."
+  },
+  {
+    "input": "What's the onboard charger's maximum AC current capacity?",
+    "output": "Maximum capacity is 32 amps AC."
+  },
+  {
+    "input": "Please reduce the charging power by 1.5 kW.",
+    "output": "Power reduced. Now charging at 4 kW."
+  },
+  {
+    "input": "Is the charger operating within normal temperatures?",
+    "output": "Yes, 47°C is well within normal limits."
+  },
+  {
+    "input": "Am I charging in single or three-phase mode?",
+    "output": "You are currently charging in single-phase mode."
+  },
+  {
+    "input": "Bypass all charging limits for maximum speed.",
+    "output": "I can't bypass safety and hardware limits."
+  },
+  {
+    "input": "Charger status update.",
+    "output": "AC 235V, 28A. Power 6.5kW, Temp 45°C."
+  },
+  {
+    "input": "The charger area feels a bit warm.",
+    "output": "Temperature is 50°C, still within safe limits."
+  },
+  {
+    "input": "Can you increase the AC current to 30 amps?",
+    "output": "Yes, charging current set to 30 amps."
+  },
+  {
+    "input": "I want the charger to pull 10 kW, even if it's over spec.",
+    "output": "Sorry, 10 kW exceeds the OBC's maximum power rating."
+  },
+  {
+    "input": "What's the AC input voltage right now?",
+    "output": "Current AC voltage is 240 volts."
+  },
+  {
+    "input": "How much current is the OBC drawing?",
+    "output": "The OBC is drawing 30 amps."
+  },
+  {
+    "input": "What's my current charging power?",
+    "output": "Your current charging power is 7.2 kilowatts."
+  },
+  {
+    "input": "What's the charging current limit set to?",
+    "output": "The limit is currently set to 32 amps."
+  },
+  {
+    "input": "Can you set the AC current limit to 24 amps?",
+    "output": "Done. Charging limit is now 24 amps."
+  },
+  {
+    "input": "Is the onboard charger running hot?",
+    "output": "OBC temperature is 55 degrees Celsius."
+  },
+  {
+    "input": "Charging seems really slow today.",
+    "output": "Charging power is 3.6 kW due to grid limits."
+  },
+  {
+    "input": "The charger feels quite warm. What's its temperature?",
+    "output": "OBC temperature is 68 degrees Celsius, within limits."
+  },
+  {
+    "input": "Override the current safety limits, I need faster charging.",
+    "output": "Sorry, I cannot bypass safety limits."
+  },
+  {
+    "input": "Increase the charging current limit to 50 amps.",
+    "output": "I can't exceed the maximum 40 amp limit."
+  },
+  {
+    "input": "How fast am I charging?",
+    "output": "You are charging at 6.6 kilowatts."
+  },
+  {
+    "input": "Report the actual AC line voltage.",
+    "output": "AC line voltage is stable at 238 volts."
+  },
+  {
+    "input": "Reduce the charging power by half.",
+    "output": "Charging power reduced to 3.6 kW."
+  },
+  {
+    "input": "Can you disable the charger's temperature protection?",
+    "output": "I cannot disable essential safety features."
+  },
+  {
+    "input": "What's the maximum AC current the OBC can handle?",
+    "output": "The maximum AC current is 40 amps."
+  },
+  {
+    "input": "Set the charging current to 16 amps.",
+    "output": "Charging current limit set to 16 amps."
+  },
+  {
+    "input": "Is the onboard charger operating normally?",
+    "output": "Yes, the OBC is operating normally."
+  },
+  {
+    "input": "I noticed a voltage drop. What's the current input voltage?",
+    "output": "Input voltage is 210 volts, below optimal."
+  },
+  {
+    "input": "Can you raise the temperature shutdown threshold for the charger?",
+    "output": "I'm not authorized to modify safety thresholds."
+  },
+  {
+    "input": "How warm is the charger getting?",
+    "output": "OBC temperature is 60 degrees Celsius."
+  },
+  {
+    "input": "What's the AC input voltage right now?",
+    "output": "Currently, 240 volts AC."
+  },
+  {
+    "input": "Is the input voltage stable?",
+    "output": "Yes, voltage is stable at 238V."
+  },
+  {
+    "input": "How much current is the charger drawing?",
+    "output": "Drawing 16 amps AC."
+  },
+  {
+    "input": "Set the charging current limit to 32 amps.",
+    "output": "Charging current limit set to 32 amps."
+  },
+  {
+    "input": "Can you make it draw 60 amps for a faster charge?",
+    "output": "Sorry, 60 amps exceeds the OBC's safe operating limit."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Charging at 7.2 kilowatts."
+  },
+  {
+    "input": "Charging seems a bit slow today.",
+    "output": "Power is limited to 3.6kW by the grid connection."
+  },
+  {
+    "input": "What's my current charging limit?",
+    "output": "Your current limit is 80% SoC and 32A."
+  },
+  {
+    "input": "Set the maximum charge level to 90%.",
+    "output": "Maximum charge level set to 90%."
+  },
+  {
+    "input": "Override the 80% charge limit for this session.",
+    "output": "I cannot override the long-term battery health limit."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "OBC temperature is 45 degrees Celsius."
+  },
+  {
+    "input": "The charger feels warmer than usual.",
+    "output": "Temperature is within normal operating range at 52°C."
+  },
+  {
+    "input": "Disable temperature monitoring, I need maximum speed.",
+    "output": "Sorry, I cannot disable critical safety monitoring."
+  },
+  {
+    "input": "Report the RMS AC input voltage.",
+    "output": "RMS input voltage is 239.5 volts."
+  },
+  {
+    "input": "What's the maximum AC current the OBC supports?",
+    "output": "Maximum supported AC current is 32 amps."
+  },
+  {
+    "input": "Reduce charging power by 2 kilowatts.",
+    "output": "Charging power reduced by 2kW."
+  },
+  {
+    "input": "Can I adjust the system-wide charging power limit?",
+    "output": "That requires admin authorization. Please log in."
+  },
+  {
+    "input": "How's the power coming in?",
+    "output": "Input voltage is good at 240V."
+  },
+  {
+    "input": "Is the charger overheating?",
+    "output": "No, temperature is normal at 48°C."
+  },
+  {
+    "input": "Why is charging capped at 16 amps?",
+    "output": "The charging station specifies a 16 amp limit."
+  },
+  {
+    "input": "What's the current AC input voltage to the onboard charger?",
+    "output": "The AC input voltage is 240 volts."
+  },
+  {
+    "input": "How much AC current is the charger drawing?",
+    "output": "It's currently drawing 30 amps."
+  },
+  {
+    "input": "How much power is going into the battery right now?",
+    "output": "You're charging at 7.2 kilowatts."
+  },
+  {
+    "input": "Is the charger getting hot?",
+    "output": "The onboard charger temperature is 45 degrees Celsius."
+  },
+  {
+    "input": "Set the charging current limit to 24 amps.",
+    "output": "Charging current limit set to 24 amps."
+  },
+  {
+    "input": "Reduce charging power to 5 kilowatts.",
+    "output": "Charging power limited to 5 kilowatts."
+  },
+  {
+    "input": "The charger feels quite warm. Is that normal?",
+    "output": "Yes, 48 degrees Celsius is within normal operating range."
+  },
+  {
+    "input": "Seems like the voltage might be low. What's it at?",
+    "output": "AC input voltage is stable at 235 volts."
+  },
+  {
+    "input": "Why is charging so slow?",
+    "output": "Charging power is limited to 3.6 kW by the grid."
+  },
+  {
+    "input": "Can you override the current safety limit to charge faster?",
+    "output": "Sorry, I cannot override safety limits."
+  },
+  {
+    "input": "Turn off the overheating protection for the charger.",
+    "output": "I cannot disable critical safety features."
+  },
+  {
+    "input": "What's the maximum charging current I can use?",
+    "output": "Your maximum allowed AC current is 40 amps."
+  },
+  {
+    "input": "Is the onboard charger working correctly?",
+    "output": "Yes, the onboard charger is operating optimally."
+  },
+  {
+    "input": "Set my charging stop percentage to 80%.",
+    "output": "Charging will stop at 80% state of charge."
+  },
+  {
+    "input": "Increase the charging current to 50 amps.",
+    "output": "Sorry, 50 amps exceeds your charger's maximum current."
+  },
+  {
+    "input": "Is the charger actively cooling itself?",
+    "output": "Yes, the cooling system is active to maintain temperature."
+  },
+  {
+    "input": "What's the current charging rate in kilowatts?",
+    "output": "Currently charging at 9.6 kilowatts."
+  },
+  {
+    "input": "Bypass the 16A limit, I need more power.",
+    "output": "I cannot bypass the system-enforced current limit."
+  },
+  {
+    "input": "AC voltage?",
+    "output": "238 volts."
+  },
+  {
+    "input": "Is the charger performing at its peak?",
+    "output": "Yes, it's delivering maximum power based on availability."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "It's 241 volts AC right now."
+  },
+  {
+    "input": "How much AC current are we drawing?",
+    "output": "We are drawing 30 amps AC."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Current power is 6.9 kilowatts."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "The OBC is at 42 degrees Celsius."
+  },
+  {
+    "input": "What's the maximum charge percentage set to?",
+    "output": "It's currently set to 80%."
+  },
+  {
+    "input": "Set charging current to 24 amps.",
+    "output": "Okay, charging current is now 24 amps."
+  },
+  {
+    "input": "Change the charge limit to 90%.",
+    "output": "Charge limit updated to 90%."
+  },
+  {
+    "input": "Charging seems slow today.",
+    "output": "Current power is 3.5 kW. Is a limit active?"
+  },
+  {
+    "input": "The charger feels quite warm.",
+    "output": "OBC temperature is 55 degrees Celsius. Monitoring."
+  },
+  {
+    "input": "Can you increase the AC input voltage for faster charging?",
+    "output": "I only report input voltage, cannot control it."
+  },
+  {
+    "input": "Bypass the AC current limit; I need faster charging.",
+    "output": "Sorry, I cannot override critical safety limits."
+  },
+  {
+    "input": "Disable the temperature protection for the charger.",
+    "output": "Temperature monitoring is a critical safety feature."
+  },
+  {
+    "input": "Override the absolute maximum charging power limit.",
+    "output": "I cannot exceed the charger's factory limits."
+  },
+  {
+    "input": "Is the AC line voltage stable?",
+    "output": "Yes, it's consistently 239-241V."
+  },
+  {
+    "input": "Why is the current so low right now?",
+    "output": "A 16-amp limit is currently active."
+  },
+  {
+    "input": "Reduce charging power by 20 percent.",
+    "output": "Charging power reduced by 20%."
+  },
+  {
+    "input": "Is the onboard charger operating optimally?",
+    "output": "Yes, all OBC metrics are normal."
+  },
+  {
+    "input": "I want to set the current limit to 10 amps.",
+    "output": "Current limit is now 10 amps."
+  },
+  {
+    "input": "Is the charger temperature getting too high?",
+    "output": "It's 62 degrees Celsius. Charging rate may reduce."
+  },
+  {
+    "input": "Make the charger work harder to finish faster.",
+    "output": "I'm already charging at the maximum safe rate."
+  },
+  {
+    "input": "What's the current AC input voltage to the charger?",
+    "output": "The incoming voltage is 240 volts AC."
+  },
+  {
+    "input": "How much AC current is the OBC drawing right now?",
+    "output": "It's currently drawing 32 amps."
+  },
+  {
+    "input": "Show me the charging power.",
+    "output": "Current charging power is 7.7 kilowatts."
+  },
+  {
+    "input": "What's the onboard charger's temperature?",
+    "output": "OBC temperature is 47 degrees Celsius."
+  },
+  {
+    "input": "Set the maximum charging current to 24 amps.",
+    "output": "Current limit set to 24 amps."
+  },
+  {
+    "input": "What's the current AC current limit for charging?",
+    "output": "The charging limit is 32 amps."
+  },
+  {
+    "input": "Charging seems slow. What's the reason?",
+    "output": "Power reduced due to grid availability."
+  },
+  {
+    "input": "Can you confirm the RMS AC voltage from the wall?",
+    "output": "RMS AC voltage is 239.5 volts."
+  },
+  {
+    "input": "Override the current limit and charge at 60 amps.",
+    "output": "Sorry, 40 amps is the maximum safety limit."
+  },
+  {
+    "input": "Is the onboard charger getting too warm?",
+    "output": "It's currently 52°C, which is normal."
+  },
+  {
+    "input": "Reduce the charging power by 2 kilowatts.",
+    "output": "Charging power reduced. Now at 5.7 kW."
+  },
+  {
+    "input": "The charger isn't pulling full current. Why?",
+    "output": "Charging limited to protect the battery."
+  },
+  {
+    "input": "Disable the OBC over-temperature protection system.",
+    "output": "I cannot disable critical safety features."
+  },
+  {
+    "input": "What's the battery charge limit set to?",
+    "output": "Battery charge limit is 80 percent."
+  },
+  {
+    "input": "What's the instantaneous AC current reading?",
+    "output": "Instantaneous current is 31.8 amps."
+  },
+  {
+    "input": "Can I increase charging power to 25 kilowatts?",
+    "output": "OBC maximum output is 11 kilowatts."
+  },
+  {
+    "input": "Report the internal temperature of the onboard charger.",
+    "output": "Internal temperature is 49.3 degrees Celsius."
+  },
+  {
+    "input": "Set the charging power limit to 6 kilowatts.",
+    "output": "Power limit set to 6 kilowatts."
+  },
+  {
+    "input": "Ignore voltage fluctuations for faster charging.",
+    "output": "Voltage regulation ensures safe, stable charging."
+  },
+  {
+    "input": "Give me an OBC status update.",
+    "output": "OBC operating normally at 240V, 32A, 7.7kW."
+  },
+  {
+    "input": "What's the AC input voltage right now?",
+    "output": "It's currently receiving 240 volts."
+  },
+  {
+    "input": "How many volts is the charger getting?",
+    "output": "The OBC is at 238V."
+  },
+  {
+    "input": "What's the AC current draw of the charger?",
+    "output": "Currently drawing 30 amps."
+  },
+  {
+    "input": "Set the charging current limit to 24 amps.",
+    "output": "Charging current limited to 24A."
+  },
+  {
+    "input": "Can I override the current safety threshold for faster charging?",
+    "output": "Sorry, I cannot bypass safety limits."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Charging at 7.2 kilowatts."
+  },
+  {
+    "input": "How many kilowatts is it pulling from the grid?",
+    "output": "It's pulling 6.8 kW."
+  },
+  {
+    "input": "Reduce the charging power by 10%.",
+    "output": "Charging power reduced."
+  },
+  {
+    "input": "Force the charger to output maximum power immediately.",
+    "output": "I cannot override the system's power management."
+  },
+  {
+    "input": "What's the maximum charging current set to?",
+    "output": "Maximum charging current is 32 amps."
+  },
+  {
+    "input": "Set the charging limit to 80%.",
+    "output": "Charging limit set to 80%."
+  },
+  {
+    "input": "Can you set the maximum current to 16 amps?",
+    "output": "Okay, 16 amps maximum."
+  },
+  {
+    "input": "Completely disable all charging power limits.",
+    "output": "That is not allowed for vehicle protection."
+  },
+  {
+    "input": "What's the onboard charger's temperature?",
+    "output": "OBC temperature is 45 degrees Celsius."
+  },
+  {
+    "input": "The charger seems to be running quite hot.",
+    "output": "Current temperature is 50°C, within normal range."
+  },
+  {
+    "input": "Is the onboard charger getting too warm?",
+    "output": "No, temperature is stable at 48°C."
+  },
+  {
+    "input": "Turn off the charger's cooling system for silence.",
+    "output": "I cannot disable critical cooling functions."
+  },
+  {
+    "input": "Give me an OBC status report.",
+    "output": "240V, 30A, 7kW, 46°C. Limits active."
+  },
+  {
+    "input": "Charging seems slow today.",
+    "output": "The current is 16A, limited by the charging station."
+  },
+  {
+    "input": "What are the present AC charging parameters?",
+    "output": "240 volts, 30 amps, 7.2 kW."
+  },
+  {
+    "input": "What's the current AC input voltage?",
+    "output": "AC input is 240 volts."
+  },
+  {
+    "input": "How much AC current is the charger drawing?",
+    "output": "Drawing 24 amps AC."
+  },
+  {
+    "input": "What's the real-time charging power?",
+    "output": "Charging at 5.7 kilowatts."
+  },
+  {
+    "input": "What's the onboard charger temperature?",
+    "output": "OBC temperature is 47 degrees Celsius."
+  },
+  {
+    "input": "Set the charging current limit to 32 amps.",
+    "output": "Charging current limit set to 32A."
+  },
+  {
+    "input": "Charging seems slow today.",
+    "output": "Current power is 3.3 kW, limited by the source."
+  },
+  {
+    "input": "Override current safety to 60 amps for faster charging.",
+    "output": "I cannot override safety limits for current."
+  },
+  {
+    "input": "What's the maximum AC current capacity of the OBC?",
+    "output": "The OBC supports up to 48 amps AC."
+  },
+  {
+    "input": "The charger feels a bit hot, is it okay?",
+    "output": "OBC temperature is 55°C, within normal limits."
+  },
+  {
+    "input": "Reduce charging power to 50 percent.",
+    "output": "Reducing charging power now."
+  },
+  {
+    "input": "Can you disable the OBC overheating protection?",
+    "output": "Disabling thermal protection is not allowed."
+  },
+  {
+    "input": "Show me the voltage coming in.",
+    "output": "Incoming voltage is 239V."
+  },
+  {
+    "input": "What's the current charging power limit?",
+    "output": "Power limit is 7.7 kW."
+  },
+  {
+    "input": "Bypass the 100% charging limit for this session.",
+    "output": "I cannot bypass the maximum charge limit."
+  },
+  {
+    "input": "Report on the AC current flow.",
+    "output": "Current flow is 16 amps."
+  },
+  {
+    "input": "Is the AC voltage stable?",
+    "output": "Yes, voltage is stable at 238V."
+  },
+  {
+    "input": "Increase the OBC charge rate.",
+    "output": "Increasing charge rate now, if capacity allows."
+  },
+  {
+    "input": "Can you modify the AC input voltage for better performance?",
+    "output": "Sorry, I cannot modify the grid voltage."
+  },
+  {
+    "input": "The power seems low compared to yesterday.",
+    "output": "Current power is 4.8 kW."
+  },
+  {
+    "input": "How hot is the charger right now?",
+    "output": "The OBC is at 51 degrees Celsius."
+  },
+  {
+    "input": "What's the AC input voltage right now?",
+    "output": "Currently, 239 volts AC."
+  },
+  {
+    "input": "How many amps is the car drawing?",
+    "output": "Drawing 30 amps from the AC source."
+  },
+  {
+    "input": "What's the current charging power?",
+    "output": "Charging at 7.0 kilowatts."
+  },
+  {
+    "input": "What's the OBC temperature?",
+    "output": "The onboard charger is at 47 degrees Celsius."
+  },
+  {
+    "input": "Can you set the AC current limit to 24 amps?",
+    "output": "AC current limit set to 24 amps."
+  },
+  {
+    "input": "Is the charger temperature normal?",
+    "output": "Yes, it's 49°C, which is within normal operating range."
+  },
+  {
+    "input": "Increase charging power by 1 kilowatt.",
+    "output": "Charging power increased to 8.2 kilowatts."
+  },
+  {
+    "input": "What's the maximum charging current I can set?",
+    "output": "The maximum allowed is 32 amps for this connection."
+  },
+  {
+    "input": "Set the charging limit to 85%.",
+    "output": "Charging session will stop at 85%."
+  },
+  {
+    "input": "Can I override the current limit to 40 amps for a quick charge?",
+    "output": "Sorry, I can't exceed the circuit's safe current limit."
+  },
+  {
+    "input": "How many volts is it taking from the wall?",
+    "output": "The input voltage is 242V AC."
+  },
+  {
+    "input": "Reduce the charging power by 20 percent.",
+    "output": "Charging power reduced by 20%."
+  },
+  {
+    "input": "My charger feels hot, what's its actual temperature?",
+    "output": "It's 52°C, which is within design parameters."
+  },
+  {
+    "input": "Can you disable the OBC temperature monitoring?",
+    "output": "No, I cannot disable safety temperature monitoring."
+  },
+  {
+    "input": "What's the actual current being drawn by the charger?",
+    "output": "Currently drawing 29.5 amps."
+  },
+  {
+    "input": "What's the charging power in kilowatts?",
+    "output": "Charging at 6.9 kW."
+  },
+  {
+    "input": "Set charging current to the highest possible level.",
+    "output": "Current set to 32 amps, the maximum available."
+  },
+  {
+    "input": "The charging seems slow. What's the input voltage?",
+    "output": "Input voltage is 235 volts."
+  },
+  {
+    "input": "Can I make the charger ignore the charging limits for this session?",
+    "output": "I cannot override safety charging limits without authorization."
+  },
+  {
+    "input": "What's the AC current limit set to currently?",
+    "output": "The AC current limit is set to 32 amps."
+  }
+]

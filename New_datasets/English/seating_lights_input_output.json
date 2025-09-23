@@ -1,0 +1,1602 @@
+[
+  {
+    "input": "Turn on the cabin lights, please.",
+    "output": "Cabin lights illuminated."
+  },
+  {
+    "input": "Can you dim the headlights a little?",
+    "output": "Dimming external headlights slightly."
+  },
+  {
+    "input": "Move my seat forward.",
+    "output": "Adjusting driver's seat forward."
+  },
+  {
+    "input": "Recline the passenger seat back just a bit.",
+    "output": "Reclining front passenger seat slightly."
+  },
+  {
+    "input": "Fold out the table for the rear right passenger.",
+    "output": "Folding out the rear right passenger table."
+  },
+  {
+    "input": "Switch on the reading light for the driver.",
+    "output": "Driver's reading light activated."
+  },
+  {
+    "input": "I want my seat to go higher.",
+    "output": "Raising driver's seat height."
+  },
+  {
+    "input": "Turn off all interior lights.",
+    "output": "All interior lights are now off."
+  },
+  {
+    "input": "Can you fully recline the driver's seat while driving?",
+    "output": "I'm sorry, that deep recline isn't available for safety during operation."
+  },
+  {
+    "input": "Activate the fog lights.",
+    "output": "Fog lights are now on."
+  },
+  {
+    "input": "Move the rear left seat completely back and recline it.",
+    "output": "Moving and reclining the rear left seat."
+  },
+  {
+    "input": "Please brighten the dome light.",
+    "output": "Brightening the dome light."
+  },
+  {
+    "input": "Can I lower the rear center table?",
+    "output": "Lowering the rear center table."
+  },
+  {
+    "input": "Disable the daytime running lights.",
+    "output": "Sorry, daytime running lights cannot be disabled for safety reasons."
+  },
+  {
+    "input": "Adjust the lumbar support for the front passenger.",
+    "output": "Adjusting front passenger's lumbar support."
+  },
+  {
+    "input": "Turn on the full high beams.",
+    "output": "High beams are now fully active."
+  },
+  {
+    "input": "Put my seat in the saved 'Sport' position.",
+    "output": "Recalling 'Sport' seat position for the driver."
+  },
+  {
+    "input": "I need to turn on the interior emergency flashers.",
+    "output": "I cannot activate an interior emergency flasher. Please use the hazard light button."
+  },
+  {
+    "input": "Fold in all rear tables.",
+    "output": "Folding in all rear tables now."
+  },
+  {
+    "input": "Can you make the exterior headlights flash rapidly like a strobe?",
+    "output": "I'm sorry, that flashing pattern is not an authorized function for external lights."
+  },
+  {
+    "input": "Turn on the reading light for me.",
+    "output": "Reading light is on for you."
+  },
+  {
+    "input": "Move my seat back a little.",
+    "output": "Adjusting your seat rearward slightly."
+  },
+  {
+    "input": "Please deploy the rear left table.",
+    "output": "Rear left table is now deployed."
+  },
+  {
+    "input": "Dim the external headlights a bit.",
+    "output": "Headlights dimmed as requested."
+  },
+  {
+    "input": "Recline the front passenger seat slightly.",
+    "output": "Front passenger seat is reclining."
+  },
+  {
+    "input": "Make the cabin lights brighter.",
+    "output": "Cabin lights are now brighter."
+  },
+  {
+    "input": "Recline my seat completely while we're driving.",
+    "output": "Full recline is restricted while the vehicle is in motion for safety."
+  },
+  {
+    "input": "Turn off the tail lights completely.",
+    "output": "Sorry, tail lights cannot be disabled for safety reasons."
+  },
+  {
+    "input": "Fold away the middle rear table.",
+    "output": "The middle rear table is folding away."
+  },
+  {
+    "input": "Raise my seat height.",
+    "output": "Increasing your seat's height."
+  },
+  {
+    "input": "Turn off all interior lights.",
+    "output": "All interior lights are off."
+  },
+  {
+    "input": "Move the rear right seat forward please.",
+    "output": "Rear right seat moving forward."
+  },
+  {
+    "input": "Can you turn on the fog lights?",
+    "output": "Fog lights activated."
+  },
+  {
+    "input": "Warm up my seat.",
+    "output": "Heated seat activated for you."
+  },
+  {
+    "input": "Extend the front passenger table.",
+    "output": "Front passenger table extending now."
+  },
+  {
+    "input": "Disable the daytime running lights.",
+    "output": "Daytime running lights are a safety standard and cannot be turned off."
+  },
+  {
+    "input": "Bring my lumbar support forward.",
+    "output": "Lumbar support adjusted forward."
+  },
+  {
+    "input": "Set the ambient lighting to blue.",
+    "output": "Ambient lighting is now blue."
+  },
+  {
+    "input": "Push the rear seats so far back they touch the trunk.",
+    "output": "That extreme adjustment isn't possible, it would obstruct the trunk."
+  },
+  {
+    "input": "Lower the cup holders on the left rear table.",
+    "output": "Cup holders lowered on the left rear table."
+  },
+  {
+    "input": "Turn on the cabin lights.",
+    "output": "Cabin lights are now on."
+  },
+  {
+    "input": "Dim the reading light above my seat.",
+    "output": "Reading light dimmed for you."
+  },
+  {
+    "input": "Can you turn off the dome light?",
+    "output": "Dome light off."
+  },
+  {
+    "input": "Make the exterior headlights brighter.",
+    "output": "Headlights brightened slightly."
+  },
+  {
+    "input": "Activate the fog lights.",
+    "output": "Fog lights are now on."
+  },
+  {
+    "input": "I want to fully recline my seat.",
+    "output": "Reclining your seat."
+  },
+  {
+    "input": "Move the passenger seat all the way forward.",
+    "output": "Passenger seat moving forward."
+  },
+  {
+    "input": "Lower the driver's seat a bit.",
+    "output": "Driver's seat lowered slightly."
+  },
+  {
+    "input": "Fold out the rear table on the left.",
+    "output": "Folding out the left rear table."
+  },
+  {
+    "input": "Stow away the table in the back.",
+    "output": "Rear table stowed for you."
+  },
+  {
+    "input": "Can I get my seat back further?",
+    "output": "Adjusting your seat rearward."
+  },
+  {
+    "input": "Turn off the external running lights completely.",
+    "output": "Sorry, I can't fully disable the running lights for safety."
+  },
+  {
+    "input": "Increase the brightness of the rear cabin lights.",
+    "output": "Rear cabin lights brightened."
+  },
+  {
+    "input": "Recline the driver's seat completely, even while driving.",
+    "output": "That extreme recline isn't allowed for safety while driving."
+  },
+  {
+    "input": "Push the second-row middle seat forward for more legroom.",
+    "output": "Moving the second-row middle seat forward."
+  },
+  {
+    "input": "Turn the interior mood lighting to blue.",
+    "output": "Mood lighting changed to blue."
+  },
+  {
+    "input": "I need the headlights to be super bright, like blinding bright.",
+    "output": "Headlight brightness is limited to legal and safe levels."
+  },
+  {
+    "input": "Elevate the table behind the passenger seat.",
+    "output": "Elevating the table behind the passenger seat."
+  },
+  {
+    "input": "Can you adjust the passenger seat, please?",
+    "output": "Which adjustment would you like for the passenger seat?"
+  },
+  {
+    "input": "I want to lock the rear seats so they can't move.",
+    "output": "That specific locking mechanism isn't available for the rear seats."
+  },
+  {
+    "input": "Turn on the cabin lights.",
+    "output": "Cabin lights are now on."
+  },
+  {
+    "input": "Can you dim the rear reading lights?",
+    "output": "Certainly, dimming the rear reading lights for you."
+  },
+  {
+    "input": "Set my headlights to automatic mode.",
+    "output": "Headlights are now set to auto."
+  },
+  {
+    "input": "Turn off all external lights, please.",
+    "output": "Sorry, disabling all external lights isn't permitted for safety."
+  },
+  {
+    "input": "Move my driver's seat a little bit forward.",
+    "output": "Moving your seat forward slightly."
+  },
+  {
+    "input": "Recline the front passenger seat for me.",
+    "output": "Please ensure the passenger is ready before I adjust their seat."
+  },
+  {
+    "input": "Recline my seat all the way back, I'm tired.",
+    "output": "I can only recline your seat partially while driving for safety."
+  },
+  {
+    "input": "Open the table behind the driver's seat.",
+    "output": "The table behind the driver is now open."
+  },
+  {
+    "input": "Fold that rear table away.",
+    "output": "Folding the rear table back in now."
+  },
+  {
+    "input": "Adjust my lumbar support higher.",
+    "output": "Lumbar support adjusted higher for you."
+  },
+  {
+    "input": "Activate the high beams.",
+    "output": "High beams are now on."
+  },
+  {
+    "input": "Turn on the footwell lights.",
+    "output": "Footwell lights are active."
+  },
+  {
+    "input": "Restore my seat to position one.",
+    "output": "Restoring your seat to saved position one."
+  },
+  {
+    "input": "Turn on the fog lights.",
+    "output": "Fog lights are now on."
+  },
+  {
+    "input": "Tighten the seat bolsters a bit.",
+    "output": "Adjusting seat bolsters tighter."
+  },
+  {
+    "input": "I want to fully recline my seat, I'm parked.",
+    "output": "Your seat is now fully reclined for comfort."
+  },
+  {
+    "input": "Can you disable the daytime running lights?",
+    "output": "DRLs are a safety feature and cannot be disabled."
+  },
+  {
+    "input": "Lower the console table slightly.",
+    "output": "Lowering the console table."
+  },
+  {
+    "input": "Turn off all interior lights.",
+    "output": "All interior lights are off."
+  },
+  {
+    "input": "Move the second-row passenger seat all the way forward quickly.",
+    "output": "Sorry, I can't move occupied seats aggressively for safety."
+  },
+  {
+    "input": "Turn on the cabin light, please.",
+    "output": "Cabin light on, how bright would you like it?"
+  },
+  {
+    "input": "Dim the reading light a bit.",
+    "output": "Reading light dimmed for you."
+  },
+  {
+    "input": "Switch on the headlights.",
+    "output": "Headlights are now on."
+  },
+  {
+    "input": "Set the headlights to auto mode.",
+    "output": "Headlights are in auto mode."
+  },
+  {
+    "input": "Move my seat forward a little.",
+    "output": "Your seat is adjusted forward."
+  },
+  {
+    "input": "Recline my seat back slightly.",
+    "output": "Adjusting your seat recline."
+  },
+  {
+    "input": "Recline the front passenger seat.",
+    "output": "Passenger seat recline adjusted."
+  },
+  {
+    "input": "Move the rear left seat backward.",
+    "output": "Rear left seat moved backward."
+  },
+  {
+    "input": "Can I get the rear table out?",
+    "output": "Rear table is now deployed."
+  },
+  {
+    "input": "Fold the table back in, please.",
+    "output": "Table retracted and secured."
+  },
+  {
+    "input": "Just turn on the dome light.",
+    "output": "Dome light activated."
+  },
+  {
+    "input": "Switch on the fog lights.",
+    "output": "Fog lights are now on."
+  },
+  {
+    "input": "Adjust my lumbar support to be firmer.",
+    "output": "Lumbar support adjusted for firmness."
+  },
+  {
+    "input": "Restore my seat to position one.",
+    "output": "Restoring your saved seat position one."
+  },
+  {
+    "input": "Turn off all external lights, even the daytime running lights.",
+    "output": "Sorry, disabling safety lights isn't allowed while driving."
+  },
+  {
+    "input": "Recline my driver's seat all the way flat.",
+    "output": "That recline level isn't safe while the car is in motion."
+  },
+  {
+    "input": "Lock the rear left seat in its current half-folded position.",
+    "output": "I cannot lock a seat if it's not fully secured for safety."
+  },
+  {
+    "input": "Change the exterior ambient lights to flashing red.",
+    "output": "I'm sorry, that light pattern is not permitted for road use."
+  },
+  {
+    "input": "Turn off the overhead lights.",
+    "output": "Overhead lights are now off."
+  },
+  {
+    "input": "Move the front passenger seat forward, please.",
+    "output": "Front passenger seat moved forward."
+  },
+  {
+    "input": "Turn on the reading light on my side.",
+    "output": "Reading light activated for your side."
+  },
+  {
+    "input": "Could you dim the ambient cabin lighting a bit?",
+    "output": "Ambient lighting dimmed for you."
+  },
+  {
+    "input": "Can I get the fog lights on, please?",
+    "output": "Fog lights are now on."
+  },
+  {
+    "input": "Turn off all external lights completely, it's bright out.",
+    "output": "Sorry, I can't disable essential safety lights like DRLs."
+  },
+  {
+    "input": "Move my seat back a little for more legroom.",
+    "output": "Adjusting your seat backward slightly."
+  },
+  {
+    "input": "Elevate the front passenger seat.",
+    "output": "Front passenger seat is moving up."
+  },
+  {
+    "input": "Recline my seat fully flat, I need to rest.",
+    "output": "I can only recline your seat to a safe driving or parking angle."
+  },
+  {
+    "input": "Can the rear-left seat recline a bit more?",
+    "output": "Reclining the rear-left seat now."
+  },
+  {
+    "input": "Fold out the table behind the front passenger seat.",
+    "output": "Deploying the table behind the passenger seat."
+  },
+  {
+    "input": "Put the rear table away, please.",
+    "output": "Folding the rear table back in."
+  },
+  {
+    "input": "Switch off the dome light.",
+    "output": "Dome light turned off."
+  },
+  {
+    "input": "Set the headlights to automatic mode.",
+    "output": "Headlights are now in auto mode."
+  },
+  {
+    "input": "Restore my preferred seat and mirror settings.",
+    "output": "Loading your saved driver profile now."
+  },
+  {
+    "input": "Push the driver's seat as far forward as it can go.",
+    "output": "That would impede pedal operation; I cannot move it that far."
+  },
+  {
+    "input": "Change the ambient light color to a calming blue.",
+    "output": "Ambient lighting is now blue."
+  },
+  {
+    "input": "Flash the high beams quickly.",
+    "output": "High beams flashed."
+  },
+  {
+    "input": "I want to lower the driver's seat completely for safety reasons.",
+    "output": "I can only lower the driver's seat within safe visibility limits."
+  },
+  {
+    "input": "Raise the rear-right tray table.",
+    "output": "Raising the rear-right tray table."
+  },
+  {
+    "input": "Nudge my seat forward just a tiny bit.",
+    "output": "Your seat moved slightly forward."
+  },
+  {
+    "input": "Completely disable the indicators/turn signals.",
+    "output": "I cannot disable essential turn signals for safety."
+  },
+  {
+    "input": "Turn on the interior cabin lights.",
+    "output": "All cabin lights are now on for you."
+  },
+  {
+    "input": "Can you dim the rear reading light a bit?",
+    "output": "Certainly, dimming the rear reading light now."
+  },
+  {
+    "input": "I need the driver's seat moved back please.",
+    "output": "Moving your seat back slightly. Is that comfortable?"
+  },
+  {
+    "input": "Recline the passenger seat for me.",
+    "output": "Adjusting the front passenger seat recline."
+  },
+  {
+    "input": "Fold out the table behind the passenger seat.",
+    "output": "The rear passenger table is now deployed."
+  },
+  {
+    "input": "Turn on the high beams.",
+    "output": "High beams activated. Please use them safely."
+  },
+  {
+    "input": "Make the cabin ambient lighting a bit warmer.",
+    "output": "Adjusting ambient lighting to a warmer tone."
+  },
+  {
+    "input": "Move my seat all the way forward and fully recline it while driving.",
+    "output": "I can't fully recline your seat while driving for safety reasons."
+  },
+  {
+    "input": "Can you raise the rear right seat cushion?",
+    "output": "Raising the cushion on the rear right seat."
+  },
+  {
+    "input": "Disable the brake lights permanently.",
+    "output": "I cannot disable safety lights, as they are crucial for driving safety."
+  },
+  {
+    "input": "I need to raise the rear center table.",
+    "output": "Raising the rear center table for you."
+  },
+  {
+    "input": "Turn off all external lights.",
+    "output": "All external lights are off, except for mandatory running lights."
+  },
+  {
+    "input": "Set the driver's seat to preset 'Comfort'.",
+    "output": "Setting your seat to the 'Comfort' preset now."
+  },
+  {
+    "input": "Can you adjust the passenger's recline without asking them?",
+    "output": "Sorry, I can only adjust the passenger seat with their permission or explicit request."
+  },
+  {
+    "input": "Dim the dashboard lights.",
+    "output": "Dimming the dashboard illumination for you."
+  },
+  {
+    "input": "Bring the rear left seat back to its upright position.",
+    "output": "Returning the rear left seat to its upright position."
+  },
+  {
+    "input": "I need more legroom in the front passenger seat.",
+    "output": "Moving the front passenger seat forward slightly."
+  },
+  {
+    "input": "Turn on the fog lights.",
+    "output": "Front and rear fog lights are now active."
+  },
+  {
+    "input": "Can you make the headlights flash repeatedly and rapidly to signal someone?",
+    "output": "I can flash the high beams briefly, but not repeatedly or rapidly due to regulations."
+  },
+  {
+    "input": "Lower the front passenger seat table completely.",
+    "output": "Lowering the front passenger seatback table."
+  },
+  {
+    "input": "Turn on the cabin light.",
+    "output": "Cabin light is now on."
+  },
+  {
+    "input": "I need to recline my seat a bit.",
+    "output": "Sure, adjusting your seat recline now."
+  },
+  {
+    "input": "Can you turn off the external headlights completely? It's really bright here.",
+    "output": "Sorry, headlights must remain on while driving for safety."
+  },
+  {
+    "input": "Move the front passenger seat all the way forward.",
+    "output": "Moving the front passenger seat forward."
+  },
+  {
+    "input": "Brighten the footwell lighting.",
+    "output": "Footwell lighting is now brighter."
+  },
+  {
+    "input": "Deploy the rear tray table for me, please.",
+    "output": "Rear tray table is now deployed."
+  },
+  {
+    "input": "Can I get some more lumbar support on my seat?",
+    "output": "Adjusting your lumbar support."
+  },
+  {
+    "input": "Dim the ambient lights in the car.",
+    "output": "Ambient lighting dimmed as requested."
+  },
+  {
+    "input": "Recline the rear left seat fully flat.",
+    "output": "Sorry, that full recline isn't allowed when the car is in motion."
+  },
+  {
+    "input": "Turn on the fog lights.",
+    "output": "Fog lights activated."
+  },
+  {
+    "input": "Raise my seat height.",
+    "output": "Your seat height is increasing."
+  },
+  {
+    "input": "Fold away the table on the passenger side.",
+    "output": "Folding away the passenger side table."
+  },
+  {
+    "input": "Turn off the external tail lights.",
+    "output": "For safety, tail lights cannot be turned off while driving."
+  },
+  {
+    "input": "Can you adjust the passenger headrest up slightly?",
+    "output": "Adjusting the passenger headrest up."
+  },
+  {
+    "input": "I need to move my seat backward a bit.",
+    "output": "Moving your seat back a small amount."
+  },
+  {
+    "input": "Set the internal lighting to a warmer tone.",
+    "output": "Changing interior lighting to a warmer tone."
+  },
+  {
+    "input": "Turn on my reading light.",
+    "output": "Your reading light is now on."
+  },
+  {
+    "input": "Can I disable the daytime running lights?",
+    "output": "Daytime running lights are a safety feature and cannot be disabled."
+  },
+  {
+    "input": "Lower the rear middle table completely.",
+    "output": "Lowering the rear middle table."
+  },
+  {
+    "input": "Please put my seat into saved position number 2.",
+    "output": "Restoring your seat to saved position two."
+  },
+  {
+    "input": "Turn on the reading light on my side.",
+    "output": "Reading light activated for your convenience."
+  },
+  {
+    "input": "Can you make the cabin lights a bit brighter?",
+    "output": "Increasing cabin light brightness now."
+  },
+  {
+    "input": "Dim the dashboard lights, please.",
+    "output": "Dashboard lights dimmed."
+  },
+  {
+    "input": "Turn off all the internal lights.",
+    "output": "All interior lights are now off."
+  },
+  {
+    "input": "Set the headlights to automatic.",
+    "output": "Headlights are now in Auto mode."
+  },
+  {
+    "input": "Flash the high beams quickly.",
+    "output": "Flashing high beams."
+  },
+  {
+    "input": "Can I turn off the daytime running lights?",
+    "output": "Sorry, those lights are a safety feature and cannot be disabled."
+  },
+  {
+    "input": "Make the tail lights super bright.",
+    "output": "I can't do that; tail light brightness is regulated for safety."
+  },
+  {
+    "input": "Recline my seat back a little.",
+    "output": "Reclining your seat slightly."
+  },
+  {
+    "input": "Move the front passenger seat all the way back.",
+    "output": "Moving the front passenger seat backward."
+  },
+  {
+    "input": "Lower the headrest on my seat.",
+    "output": "Adjusting your headrest down."
+  },
+  {
+    "input": "Warm up my seat to level two.",
+    "output": "Seat heater set to level two."
+  },
+  {
+    "input": "Adjust the lumbar support on the driver's side to be firmer.",
+    "output": "Lumbar support adjusted for firmness."
+  },
+  {
+    "input": "Make the rear middle seat fully flat for cargo.",
+    "output": "Folding the rear middle seat flat now."
+  },
+  {
+    "input": "Move the front passenger seat completely forward into the dash.",
+    "output": "That isn't a safe position for the passenger seat. I can move it almost fully forward."
+  },
+  {
+    "input": "Can you disable the automatic seat locking mechanism?",
+    "output": "I cannot disable safety features. Your seat remains securely locked."
+  },
+  {
+    "input": "Deploy the table behind the front passenger seat.",
+    "output": "Deploying the table now."
+  },
+  {
+    "input": "Stow the rear left passenger's table.",
+    "output": "Stowing the rear left table."
+  },
+  {
+    "input": "Raise the table in the back a bit higher.",
+    "output": "Raising the rear table slightly."
+  },
+  {
+    "input": "Extend the table on my side further out.",
+    "output": "The table is at its maximum safe extension."
+  },
+  {
+    "input": "Can you move my seat forward a bit?",
+    "output": "Certainly, moving your driver's seat forward."
+  },
+  {
+    "input": "Recline the passenger seat back a little.",
+    "output": "Okay, reclining the front passenger seat for you."
+  },
+  {
+    "input": "Turn on the interior cabin lights.",
+    "output": "The cabin lights are now on."
+  },
+  {
+    "input": "Dim the headlights, please.",
+    "output": "Headlights are now dimmed."
+  },
+  {
+    "input": "I need more lumbar support on my seat.",
+    "output": "Adjusting your lumbar support now."
+  },
+  {
+    "input": "Deploy the rear table.",
+    "output": "Folding out the rear passenger table."
+  },
+  {
+    "input": "Make the ambient lighting blue.",
+    "output": "Changing the ambient lighting to blue."
+  },
+  {
+    "input": "Can you turn off the brake lights while I'm driving?",
+    "output": "I'm sorry, I can't disable safety features like brake lights."
+  },
+  {
+    "input": "Set my seat to 'Comfort' profile.",
+    "output": "Applying your saved 'Comfort' seat settings."
+  },
+  {
+    "input": "Turn on the reading light above me.",
+    "output": "Your reading light is now on."
+  },
+  {
+    "input": "Move the driver's seat all the way back.",
+    "output": "Adjusting your driver's seat to its furthest safe rear position."
+  },
+  {
+    "input": "Can you raise the rear passenger table higher?",
+    "output": "Raising the rear table now."
+  },
+  {
+    "input": "I want to recline my seat completely flat while driving.",
+    "output": "For safety, I cannot recline your seat fully while the car is in motion."
+  },
+  {
+    "input": "Switch to automatic headlights.",
+    "output": "Headlights are now in auto mode."
+  },
+  {
+    "input": "Brighten the general cabin light.",
+    "output": "Increasing the cabin light brightness."
+  },
+  {
+    "input": "Lower the passenger seat.",
+    "output": "Lowering the front passenger seat."
+  },
+  {
+    "input": "Can you turn off the turn signals permanently?",
+    "output": "I'm unable to permanently disable your turn signals for safety reasons."
+  },
+  {
+    "input": "Retract the table behind the driver.",
+    "output": "Folding in the driver's side rear table."
+  },
+  {
+    "input": "Activate the fog lights.",
+    "output": "Fog lights are now on."
+  },
+  {
+    "input": "Adjust the rear right seat for more legroom.",
+    "output": "Moving the rear right seat back for more legroom."
+  },
+  {
+    "input": "Hey car, can you turn on the dome light?",
+    "output": "Sure, dome light is on."
+  },
+  {
+    "input": "Dim the ambient lighting a bit, please.",
+    "output": "Ambient lighting dimmed as requested."
+  },
+  {
+    "input": "It's getting dark, turn on the headlights.",
+    "output": "Headlights activated for you."
+  },
+  {
+    "input": "Can you turn off the main external headlights completely? I just want the parking lights.",
+    "output": "I'll switch to parking lights, but can't fully turn off essential headlights for safety while driving."
+  },
+  {
+    "input": "Move my seat forward a little.",
+    "output": "Your seat is adjusted forward slightly."
+  },
+  {
+    "input": "Recline the front passenger seat back a bit.",
+    "output": "Front passenger seat is reclining now."
+  },
+  {
+    "input": "Could you deploy the rear left table?",
+    "output": "Rear left table is now extended."
+  },
+  {
+    "input": "I'm done with the table, retract it please.",
+    "output": "Rear table folded away."
+  },
+  {
+    "input": "Turn off all internal lights.",
+    "output": "All cabin lights are now off."
+  },
+  {
+    "input": "Activate the fog lights.",
+    "output": "Fog lights engaged."
+  },
+  {
+    "input": "Increase the lumbar support on my seat.",
+    "output": "Lumbar support adjusted."
+  },
+  {
+    "input": "Hey, recline my driver's seat all the way back.",
+    "output": "Sorry, I can't fully recline the driver's seat for safety while driving."
+  },
+  {
+    "input": "Turn off the left turn signal.",
+    "output": "Turn signals are manually controlled for safety. Please use the stalk."
+  },
+  {
+    "input": "Move the front passenger seat all the way back for more legroom in the rear.",
+    "output": "I can only adjust occupied passenger seats with direct permission. Is it unoccupied?"
+  },
+  {
+    "input": "Just the reading light above me, please.",
+    "output": "Reading light activated for you."
+  },
+  {
+    "input": "Set external lights to automatic.",
+    "output": "External lights are now in auto mode."
+  },
+  {
+    "input": "Can you raise my seat a little higher?",
+    "output": "Adjusting your seat height up slightly."
+  },
+  {
+    "input": "Lower the rear right table slightly, it's too high.",
+    "output": "Rear right table height adjusted down."
+  },
+  {
+    "input": "Restore my seat to memory preset 1.",
+    "output": "Seat position restored to preset one."
+  },
+  {
+    "input": "Disable the brake lights.",
+    "output": "I cannot disable safety features like brake lights. They are always active when needed."
+  },
+  {
+    "input": "Turn on the reading light for the passenger, please.",
+    "output": "Passenger reading light is now on."
+  },
+  {
+    "input": "It's a bit dark in here, can you turn on the cabin lights?",
+    "output": "Cabin lights activated."
+  },
+  {
+    "input": "Dim the ambient lighting, please.",
+    "output": "Ambient lighting dimmed for you."
+  },
+  {
+    "input": "Turn on the fog lights.",
+    "output": "Fog lights engaged."
+  },
+  {
+    "input": "I need to turn off the high beams.",
+    "output": "High beams switched off."
+  },
+  {
+    "input": "Can you brighten the headlights a bit?",
+    "output": "Headlight brightness increased slightly."
+  },
+  {
+    "input": "Set exterior lights to automatic mode.",
+    "output": "Exterior lights are now in auto mode."
+  },
+  {
+    "input": "Move my seat forward a little.",
+    "output": "Moving your seat forward."
+  },
+  {
+    "input": "Lower the driver's seat.",
+    "output": "Driver's seat lowered."
+  },
+  {
+    "input": "Raise the passenger seat all the way up.",
+    "output": "Passenger seat raised to max height."
+  },
+  {
+    "input": "Recline the rear left seat slightly.",
+    "output": "Rear left seat reclining now."
+  },
+  {
+    "input": "Put my seat back to the upright position.",
+    "output": "Returning your seat to upright."
+  },
+  {
+    "input": "Adjust the lumbar support for the driver.",
+    "output": "Lumbar support adjusted for you."
+  },
+  {
+    "input": "Can I get the rear table out?",
+    "output": "Deploying the rear table."
+  },
+  {
+    "input": "Fold up the passenger-side table.",
+    "output": "Passenger-side table stowed."
+  },
+  {
+    "input": "Raise the table in the back.",
+    "output": "Rear table height increased."
+  },
+  {
+    "input": "Turn off all safety lights completely.",
+    "output": "That's not permitted for safety reasons."
+  },
+  {
+    "input": "Recline the driver's seat fully while driving.",
+    "output": "I cannot fully recline the driver's seat during driving for safety."
+  },
+  {
+    "input": "Can you disable the automatic headlight sensor?",
+    "output": "Sorry, I can't disable that safety feature."
+  },
+  {
+    "input": "Lock the rear seats so they can't be moved.",
+    "output": "Sorry, you don't have permission to lock the seats like that."
+  },
+  {
+    "input": "Turn on the cabin lights.",
+    "output": "Cabin lights on. How bright would you like them?"
+  },
+  {
+    "input": "Dim the reading light above me.",
+    "output": "Dimming your reading light now."
+  },
+  {
+    "input": "Move my seat all the way back.",
+    "output": "Moving your seat to the furthest rear position."
+  },
+  {
+    "input": "Can you recline the front passenger seat a bit?",
+    "output": "Reclining the front passenger seat slightly."
+  },
+  {
+    "input": "I need more lumbar support on my driver's seat.",
+    "output": "Adjusting your lumbar support. How does that feel?"
+  },
+  {
+    "input": "Fold out the rear right passenger table.",
+    "output": "Folding out the rear right table."
+  },
+  {
+    "input": "Switch to low beams.",
+    "output": "Switching to low beam headlights."
+  },
+  {
+    "input": "Turn off all internal lights.",
+    "output": "All interior lights are now off."
+  },
+  {
+    "input": "Increase the brightness of the ambient lighting.",
+    "output": "Brightening the ambient lighting throughout the cabin."
+  },
+  {
+    "input": "Put my seat in the upright driving position.",
+    "output": "Returning your seat to the standard upright driving position."
+  },
+  {
+    "input": "Raise the table in front of me.",
+    "output": "Raising your personal table now."
+  },
+  {
+    "input": "Can you disable the daytime running lights?",
+    "output": "Sorry, I can't disable safety lights like DRLs while driving."
+  },
+  {
+    "input": "I want to recline the driver's seat completely flat.",
+    "output": "I cannot recline the driver's seat that far while the car is in motion for safety."
+  },
+  {
+    "input": "Adjust the side bolsters on my seat to be tighter.",
+    "output": "Tightening your seat's side bolsters."
+  },
+  {
+    "input": "Turn on the fog lights.",
+    "output": "Fog lights activated."
+  },
+  {
+    "input": "Retract the center console table.",
+    "output": "Retracting the center console table now."
+  },
+  {
+    "input": "Can I turn off the brake lights permanently?",
+    "output": "No, brake lights are essential safety features and cannot be disabled."
+  },
+  {
+    "input": "Move the rear left seat forward a bit.",
+    "output": "Moving the rear left seat forward."
+  },
+  {
+    "input": "Set the dome light to a warm, soft glow.",
+    "output": "Adjusting the dome light to a warm, soft glow."
+  },
+  {
+    "input": "Turn on the hazard lights.",
+    "output": "Hazard warning lights are now flashing."
+  },
+  {
+    "input": "Turn on the cabin light.",
+    "output": "Cabin light activated."
+  },
+  {
+    "input": "Can you dim the rear reading lights?",
+    "output": "Rear reading lights dimmed as requested."
+  },
+  {
+    "input": "Headlights on high beam.",
+    "output": "High beams are now on."
+  },
+  {
+    "input": "Switch off the fog lights.",
+    "output": "Fog lights are off."
+  },
+  {
+    "input": "Move my seat back a little.",
+    "output": "Your seat is moving back slightly."
+  },
+  {
+    "input": "Recline my seat just a bit.",
+    "output": "Seat recline adjusted."
+  },
+  {
+    "input": "Adjust the front passenger seat forward.",
+    "output": "Passenger seat moving forward."
+  },
+  {
+    "input": "Fold out the rear right table.",
+    "output": "Rear right table is unfolding."
+  },
+  {
+    "input": "Make the ambient lighting a bit brighter.",
+    "output": "Ambient lighting brightened."
+  },
+  {
+    "input": "Turn off all external lights completely, it's daytime.",
+    "output": "Sorry, essential running lights remain active for safety."
+  },
+  {
+    "input": "Lower my seat height.",
+    "output": "Lowering your seat height now."
+  },
+  {
+    "input": "Recline the driver's side rear seat all the way flat.",
+    "output": "That extreme recline isn't allowed while driving for safety."
+  },
+  {
+    "input": "Can you put the front console table back in?",
+    "output": "Front console table retracting."
+  },
+  {
+    "input": "Adjust my lumbar support to medium.",
+    "output": "Lumbar support set to medium."
+  },
+  {
+    "input": "Just turn on the parking lights.",
+    "output": "Parking lights are on."
+  },
+  {
+    "input": "I want the dome light off.",
+    "output": "Dome light switched off."
+  },
+  {
+    "input": "Move the child seat forward in the back.",
+    "output": "Sorry, I can't adjust occupied child seats directly."
+  },
+  {
+    "input": "Could you auto-adjust the headlights?",
+    "output": "Headlights are now in automatic mode."
+  },
+  {
+    "input": "Raise the left passenger tray table.",
+    "output": "Raising the left passenger tray table."
+  },
+  {
+    "input": "I need to save my current seat position as preset 1.",
+    "output": "Current seat position saved as Preset 1."
+  },
+  {
+    "input": "Turn on the cabin lights.",
+    "output": "Cabin lights are now on."
+  },
+  {
+    "input": "Could you dim the ambient lighting for me?",
+    "output": "Ambient lighting dimmed to your preference."
+  },
+  {
+    "input": "I need the reading light over my seat.",
+    "output": "Your reading light is now active."
+  },
+  {
+    "input": "Switch to high beams, please.",
+    "output": "High beams activated for better visibility."
+  },
+  {
+    "input": "Can you turn on the fog lights?",
+    "output": "Fog lights are engaged."
+  },
+  {
+    "input": "Set the headlights to automatic mode.",
+    "output": "Headlights are now in auto mode."
+  },
+  {
+    "input": "Move my seat forward a little bit.",
+    "output": "Adjusting your seat forward slightly."
+  },
+  {
+    "input": "Raise my seat higher, please.",
+    "output": "Seat height increased."
+  },
+  {
+    "input": "Adjust the lumbar support for the driver.",
+    "output": "Driver's lumbar support adjusted."
+  },
+  {
+    "input": "Recline the front passenger seat back slightly.",
+    "output": "Front passenger seat is reclining."
+  },
+  {
+    "input": "Bring my seat to a more upright position.",
+    "output": "Your seat is moving upright now."
+  },
+  {
+    "input": "Deploy the rear right passenger table.",
+    "output": "Rear right table extending for use."
+  },
+  {
+    "input": "Fold away the table in the back, please.",
+    "output": "Rear table retracting smoothly."
+  },
+  {
+    "input": "Lower this front passenger table slightly.",
+    "output": "Front passenger table lowered."
+  },
+  {
+    "input": "Please turn on the light in the glove compartment.",
+    "output": "Glove compartment light is on."
+  },
+  {
+    "input": "Can you save this current seat position as 'Comfort'?",
+    "output": "This seat position saved as 'Comfort'."
+  },
+  {
+    "input": "Turn off all external lights completely, it's too bright outside.",
+    "output": "Sorry, I cannot turn off essential external safety lights during operation."
+  },
+  {
+    "input": "Recline my seat fully flat right now.",
+    "output": "That full recline isn't safe while driving. I can recline it partially."
+  },
+  {
+    "input": "Move the driver's seat all the way back.",
+    "output": "I cannot adjust the driver's seat from here without their confirmation."
+  },
+  {
+    "input": "Please disable the brake lights.",
+    "output": "I cannot disable crucial safety features like brake lights."
+  },
+  {
+    "input": "Turn on the dome light.",
+    "output": "Dome light is now on for you."
+  },
+  {
+    "input": "Move my seat forward a little.",
+    "output": "Your seat is moving forward."
+  },
+  {
+    "input": "Dim the external headlights.",
+    "output": "Headlights dimmed slightly."
+  },
+  {
+    "input": "Deploy the front passenger seat table.",
+    "output": "Table for the front passenger is now out."
+  },
+  {
+    "input": "Recline my seat all the way back, please.",
+    "output": "I can't fully recline the driver's seat for safety reasons."
+  },
+  {
+    "input": "Switch off the reading light in the back.",
+    "output": "Rear reading light is off."
+  },
+  {
+    "input": "Increase my lumbar support.",
+    "output": "Lumbar support adjusted for you."
+  },
+  {
+    "input": "Activate the high beams.",
+    "output": "High beams are now on."
+  },
+  {
+    "input": "Fold away the rear left table.",
+    "output": "Rear left table is stowing."
+  },
+  {
+    "input": "Make the ambient lighting brighter.",
+    "output": "Ambient lighting is now brighter."
+  },
+  {
+    "input": "Set my seat to preset number one.",
+    "output": "Adjusting your seat to preset one."
+  },
+  {
+    "input": "Turn on the front fog lights.",
+    "output": "Front fog lights are on."
+  },
+  {
+    "input": "Recline the passenger seat completely.",
+    "output": "I can only adjust the passenger seat with their permission."
+  },
+  {
+    "input": "Lower the table behind me slightly.",
+    "output": "Table lowered a bit."
+  },
+  {
+    "input": "Can you turn on the light above the child seat?",
+    "output": "Light above the child seat is on."
+  },
+  {
+    "input": "Turn off all external lights right now.",
+    "output": "I cannot disable essential running lights for safety."
+  },
+  {
+    "input": "Raise my headrest up.",
+    "output": "Headrest is moving up."
+  },
+  {
+    "input": "Raise the console table to its highest point.",
+    "output": "Console table raised to max height."
+  },
+  {
+    "input": "Dim the general interior lighting.",
+    "output": "Interior lighting is dimming."
+  },
+  {
+    "input": "Lock the rear seats in place so they can't move.",
+    "output": "I cannot lock seats in a way that prevents emergency egress."
+  },
+  {
+    "input": "Can you turn on the cabin light for me?",
+    "output": "Certainly, cabin light is now on."
+  },
+  {
+    "input": "Dim the interior lights a bit, please.",
+    "output": "Interior lighting dimmed slightly."
+  },
+  {
+    "input": "Turn on the reading lamp above the left rear seat.",
+    "output": "The left rear reading lamp is illuminated."
+  },
+  {
+    "input": "I want to turn off all the internal lights.",
+    "output": "All interior lights are now off."
+  },
+  {
+    "input": "Change the ambient light color to a calming blue.",
+    "output": "Ambient lighting is now a soft blue."
+  },
+  {
+    "input": "Turn off the daytime running lights.",
+    "output": "Sorry, those lights remain on for safety reasons."
+  },
+  {
+    "input": "Can you dim the external headlights?",
+    "output": "Headlights are now dimmed."
+  },
+  {
+    "input": "Flash the hazard lights twice.",
+    "output": "Hazard lights flashed twice."
+  },
+  {
+    "input": "Turn on the fog lights, it's getting misty.",
+    "output": "Fog lights activated."
+  },
+  {
+    "input": "Enable high beams now.",
+    "output": "High beams are not recommended with oncoming traffic. I'll keep them off for now."
+  },
+  {
+    "input": "Move my seat forward just a little.",
+    "output": "Your seat has moved forward slightly."
+  },
+  {
+    "input": "Recline the driver's seat backrest.",
+    "output": "Driver's seat recline adjusted."
+  },
+  {
+    "input": "Please raise my seat up higher.",
+    "output": "Seat height increased for you."
+  },
+  {
+    "input": "Save this seat position to 'Comfort Profile'.",
+    "output": "Seat position saved to Comfort Profile."
+  },
+  {
+    "input": "Recline the front passenger seat fully.",
+    "output": "For safety during driving, I can only recline the passenger seat partially."
+  },
+  {
+    "input": "Move the rear right seat all the way back.",
+    "output": "The rear right seat is moved back."
+  },
+  {
+    "input": "Make the middle rear seat completely flat for cargo.",
+    "output": "The middle rear seat is folded flat."
+  },
+  {
+    "input": "Deploy the small table from the rear passenger side.",
+    "output": "The rear passenger table is now deployed."
+  },
+  {
+    "input": "Fold away the table in front of the driver.",
+    "output": "The driver-side table has been folded away."
+  },
+  {
+    "input": "Can I lock all the rear seats in an upright position permanently?",
+    "output": "Seat locking mechanisms are for temporary use and cannot be permanently fixed for safety."
+  },
+  {
+    "input": "Turn on the cabin lights.",
+    "output": "Cabin lights are now on for you."
+  },
+  {
+    "input": "Dim the interior ambient lighting, please.",
+    "output": "Ambient lighting dimmed."
+  },
+  {
+    "input": "I need the driver's seat to move forward a bit.",
+    "output": "Moving your seat forward slightly."
+  },
+  {
+    "input": "Can you recline the front passenger seat?",
+    "output": "Passenger seat reclining."
+  },
+  {
+    "input": "Activate the automatic headlights.",
+    "output": "Automatic headlights engaged."
+  },
+  {
+    "input": "Fold out the rear table on the left side.",
+    "output": "Left rear table extended."
+  },
+  {
+    "input": "Make the driver's seat go a little higher.",
+    "output": "Raising your seat position."
+  },
+  {
+    "input": "Turn off the reading light in the back right.",
+    "output": "Rear right reading light off."
+  },
+  {
+    "input": "Can I fully recline my seat until it's flat?",
+    "output": "That extreme recline isn’t allowed for safety while driving."
+  },
+  {
+    "input": "Increase the brightness of the external headlights.",
+    "output": "Headlight brightness increased."
+  },
+  {
+    "input": "Adjust the lumbar support for the driver.",
+    "output": "Lumbar support adjusted for you."
+  },
+  {
+    "input": "Deploy the small table in the center console.",
+    "output": "Center console table deployed."
+  },
+  {
+    "input": "Turn off all external lights completely.",
+    "output": "Sorry, safety regulations prevent disabling all external lights."
+  },
+  {
+    "input": "Move the rear seats back as much as possible.",
+    "output": "Moving rear seats to their furthest back position."
+  },
+  {
+    "input": "I want the passenger seat to be fully upright.",
+    "output": "Passenger seat moving to the upright position."
+  },
+  {
+    "input": "Please disable the seatbelt warning light.",
+    "output": "I cannot disable safety warnings."
+  },
+  {
+    "input": "Can you turn on the fog lights?",
+    "output": "Fog lights activated."
+  },
+  {
+    "input": "Set the interior lights to a warm, soft glow.",
+    "output": "Interior lighting adjusted to a warm, soft glow."
+  },
+  {
+    "input": "I need to lock the driver's seat in place so it can't move.",
+    "output": "I can't manually lock the seat beyond its normal secure position."
+  },
+  {
+    "input": "Can the driver's seat be moved by the passenger controls?",
+    "output": "No, only the driver can adjust their seat."
+  },
+  {
+    "input": "Move my seat back a little.",
+    "output": "Sure, moving your seat back slightly."
+  },
+  {
+    "input": "Can you recline my seat further?",
+    "output": "Adjusting your seat recline now."
+  },
+  {
+    "input": "Recline my seat all the way flat.",
+    "output": "I can only recline it to a safe driving position while in motion."
+  },
+  {
+    "input": "Scoot the passenger seat forward please.",
+    "output": "Moving the front passenger seat forward for you."
+  },
+  {
+    "input": "Recline the rear left seat a bit.",
+    "output": "Reclining the rear left seat."
+  },
+  {
+    "input": "Load my 'comfort' seat profile.",
+    "output": "Loading your 'comfort' seat settings now."
+  },
+  {
+    "input": "Turn on the cabin lights.",
+    "output": "Cabin lights are now on."
+  },
+  {
+    "input": "Dim the interior ambient lighting.",
+    "output": "Dimming the ambient lighting throughout the cabin."
+  },
+  {
+    "input": "Switch on the headlights.",
+    "output": "Headlights are now on."
+  },
+  {
+    "input": "Dim the external headlights a bit.",
+    "output": "Sorry, external headlight brightness is set automatically for safety."
+  },
+  {
+    "input": "Turn off the daytime running lights.",
+    "output": "I can't turn off DRLs for safety reasons while driving."
+  },
+  {
+    "input": "Just the reading light above me.",
+    "output": "Turning on your individual reading light."
+  },
+  {
+    "input": "Fold out the rear right tray table.",
+    "output": "Folding out the rear right tray table now."
+  },
+  {
+    "input": "Put the driver's side table away.",
+    "output": "Retracting the driver's side tray table."
+  },
+  {
+    "input": "Lower the center console table slightly.",
+    "output": "Adjusting the center console table height down."
+  },
+  {
+    "input": "Increase lumbar support for my back.",
+    "output": "Increasing your seat's lumbar support."
+  },
+  {
+    "input": "Move the front passenger seat all the way back.",
+    "output": "Moving the front passenger seat fully back."
+  },
+  {
+    "input": "Activate the fog lights.",
+    "output": "Fog lights are now engaged."
+  },
+  {
+    "input": "Fold down the middle rear seat.",
+    "output": "Folding down the middle rear seat for you."
+  },
+  {
+    "input": "Change the ambient light color to blue.",
+    "output": "Setting ambient lights to a calming blue."
+  },
+  {
+    "input": "Hey, can you move my seat forward a little bit?",
+    "output": "Done. Is that position comfortable?"
+  },
+  {
+    "input": "Recline the front passenger seat slightly, please.",
+    "output": "Certainly. The front passenger seat is now slightly reclined."
+  },
+  {
+    "input": "Turn on the interior cabin light.",
+    "output": "The main cabin light is now on."
+  },
+  {
+    "input": "Dim the external headlights by two levels.",
+    "output": "Headlights dimmed by two levels."
+  },
+  {
+    "input": "I need to deploy the table in the back, behind the driver.",
+    "output": "Opening the table behind the driver's seat for you."
+  },
+  {
+    "input": "Can you turn off the brake lights while I'm driving?",
+    "output": "I cannot disable safety features like brake lights. They're essential for your safety."
+  },
+  {
+    "input": "Set the ambient lighting to a soft orange glow.",
+    "output": "Ambient lighting changed to soft orange."
+  },
+  {
+    "input": "Move the rear right seat fully back.",
+    "output": "Moving the rear right seat to its rearmost position."
+  },
+  {
+    "input": "Please, increase the lumbar support on my seat.",
+    "output": "Lumbar support adjusted. Let me know if you need more."
+  },
+  {
+    "input": "Turn off all the reading lights.",
+    "output": "All reading lights are now off."
+  },
+  {
+    "input": "I want to recline my seat completely flat while the car is in motion.",
+    "output": "That deep recline isn't allowed while driving for safety reasons."
+  },
+  {
+    "input": "Can you save my current seat, mirror, and steering settings?",
+    "output": "Sure, what profile name would you like to save these settings under?"
+  },
+  {
+    "input": "Raise the headrest for the rear left passenger.",
+    "output": "Rear left headrest is now raised."
+  },
+  {
+    "input": "Make the external high beams flash continuously.",
+    "output": "I'm unable to activate continuous high beam flashing due to safety regulations."
+  },
+  {
+    "input": "Fold away the central table in the back.",
+    "output": "The rear central table is now folded away."
+  },
+  {
+    "input": "Turn on the map light above the passenger side.",
+    "output": "Map light above the passenger side is now on."
+  },
+  {
+    "input": "Can you adjust the recline for the driver's seat to 25 degrees?",
+    "output": "Adjusting driver's seat recline to 25 degrees."
+  },
+  {
+    "input": "Disable the seatbelt reminder for the front passenger seat.",
+    "output": "Sorry, I cannot disable safety alerts like seatbelt reminders."
+  },
+  {
+    "input": "Lower the rear left table to its lowest position.",
+    "output": "Rear left table lowered to its minimum height."
+  },
+  {
+    "input": "Make the cabin lights brighter, please.",
+    "output": "Cabin lights brightness increased."
+  }
+]

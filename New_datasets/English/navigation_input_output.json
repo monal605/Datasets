@@ -1,0 +1,4002 @@
+[
+  {
+    "input": "Navigate to 123 Main Street.",
+    "output": "Routing to 123 Main Street. Confirmed."
+  },
+  {
+    "input": "Take me to the nearest gas station.",
+    "output": "Finding nearest gas station. Navigating."
+  },
+  {
+    "input": "Drive me to John's house.",
+    "output": "Navigating to John's address. Confirmed."
+  },
+  {
+    "input": "Actually, change my destination to the airport.",
+    "output": "Changing destination to the airport. Re-routing."
+  },
+  {
+    "input": "Add a stop at the grocery store on the way.",
+    "output": "Adding grocery store stop. Updating route."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation cancelled. Drive safely."
+  },
+  {
+    "input": "Can you pause the navigation for a bit?",
+    "output": "Navigation paused. Resuming on command."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Resuming navigation now."
+  },
+  {
+    "input": "What's our estimated arrival time?",
+    "output": "Estimated arrival at 3:45 PM."
+  },
+  {
+    "input": "Is there much traffic ahead?",
+    "output": "Moderate traffic reported. Slight delay."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes now."
+  },
+  {
+    "input": "Avoid highways on this route.",
+    "output": "Avoiding highways. Re-calculating."
+  },
+  {
+    "input": "Please avoid toll roads.",
+    "output": "Toll roads avoided. Re-routing."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "Currently on Elm Street, near Oak Avenue."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn left in 200 feet."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your home address. Confirmed."
+  },
+  {
+    "input": "Go to work.",
+    "output": "Navigating to your work address."
+  },
+  {
+    "input": "Confirm destination.",
+    "output": "Destination confirmed. Starting route."
+  },
+  {
+    "input": "No, that's not it. Try again.",
+    "output": "My apologies. Please state your destination."
+  },
+  {
+    "input": "Find parking near our destination.",
+    "output": "Searching for nearby parking. Displaying options."
+  },
+  {
+    "input": "Turn down the navigation volume.",
+    "output": "Navigation volume decreased."
+  },
+  {
+    "input": "Mute navigation voice.",
+    "output": "Navigation voice muted."
+  },
+  {
+    "input": "Unmute navigation.",
+    "output": "Navigation voice unmuted."
+  },
+  {
+    "input": "Can I see the whole route?",
+    "output": "Displaying the complete route now."
+  },
+  {
+    "input": "Are there any coffee shops nearby?",
+    "output": "Searching for coffee shops. Displaying results."
+  },
+  {
+    "input": "This route seems incorrect.",
+    "output": "Acknowledged. Re-evaluating route for accuracy."
+  },
+  {
+    "input": "How long until our next stop?",
+    "output": "Approximately 15 minutes to your next stop."
+  },
+  {
+    "input": "Could you repeat that last instruction?",
+    "output": "Certainly. Turn left in 500 feet."
+  },
+  {
+    "input": "Optimize this route for time.",
+    "output": "Optimizing for shortest time. Recalculating route."
+  },
+  {
+    "input": "Switch to 3D view.",
+    "output": "Switching to 3D navigation view."
+  },
+  {
+    "input": "Take me to the nearest coffee shop.",
+    "output": "Searching for coffee shops. Confirm selection."
+  },
+  {
+    "input": "Set my destination to Central Park.",
+    "output": "Navigating to Central Park now."
+  },
+  {
+    "input": "What's our estimated arrival time?",
+    "output": "ETA is 3:45 PM."
+  },
+  {
+    "input": "How's the traffic ahead?",
+    "output": "Moderate traffic expected on route."
+  },
+  {
+    "input": "Can we find a gas station?",
+    "output": "Finding nearby gas stations. Which one?"
+  },
+  {
+    "input": "Pull over here, please.",
+    "output": "Pulling over safely now."
+  },
+  {
+    "input": "Speed up a little bit.",
+    "output": "Increasing speed slightly."
+  },
+  {
+    "input": "Change lanes to the left.",
+    "output": "Initiating left lane change."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store to route."
+  },
+  {
+    "input": "Cancel this route.",
+    "output": "Route cancelled. Where next?"
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "Currently on Main Street."
+  },
+  {
+    "input": "Find the nearest electric car charger.",
+    "output": "Searching for nearby charging stations."
+  },
+  {
+    "input": "Take the fastest route.",
+    "output": "Calculating fastest route now."
+  },
+  {
+    "input": "Avoid highways.",
+    "output": "Recalculating to avoid highways."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn right on Elm Street."
+  },
+  {
+    "input": "Skip this stop.",
+    "output": "Skipping current stop. Continuing route."
+  },
+  {
+    "input": "Is there a rest area nearby?",
+    "output": "Searching for nearby rest areas."
+  },
+  {
+    "input": "Drive more cautiously.",
+    "output": "Adjusting driving style to cautious."
+  },
+  {
+    "input": "How much battery is left?",
+    "output": "Battery at 78%."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to home address."
+  },
+  {
+    "input": "Pause navigation.",
+    "output": "Navigation paused. Resume anytime."
+  },
+  {
+    "input": "Find a parking spot near the destination.",
+    "output": "Searching for parking near destination."
+  },
+  {
+    "input": "What's the speed limit here?",
+    "output": "The current speed limit is 45."
+  },
+  {
+    "input": "Go straight for now.",
+    "output": "Confirming straight ahead."
+  },
+  {
+    "input": "Is there an alternate route with less traffic?",
+    "output": "Checking for less congested routes."
+  },
+  {
+    "input": "Show me the map.",
+    "output": "Displaying map view."
+  },
+  {
+    "input": "Stop for a moment, please.",
+    "output": "Stopping safely when possible."
+  },
+  {
+    "input": "Can we go around that construction?",
+    "output": "Recalculating to avoid construction."
+  },
+  {
+    "input": "Dim the screen.",
+    "output": "Dimming display screen."
+  },
+  {
+    "input": "I need to get to the airport quickly.",
+    "output": "Navigating to the nearest airport."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your saved home address."
+  },
+  {
+    "input": "Go to 123 Main Street, Anytown.",
+    "output": "Setting destination to 123 Main Street. Confirm?"
+  },
+  {
+    "input": "What's the estimated arrival time?",
+    "output": "You will arrive in approximately 15 minutes."
+  },
+  {
+    "input": "Find the nearest gas station.",
+    "output": "Searching for nearby gas stations now."
+  },
+  {
+    "input": "Cancel current route.",
+    "output": "Current navigation has been canceled."
+  },
+  {
+    "input": "Take the fastest route.",
+    "output": "Optimizing route for fastest arrival."
+  },
+  {
+    "input": "Avoid highways.",
+    "output": "Adjusting route to avoid all highways."
+  },
+  {
+    "input": "Are we there yet?",
+    "output": "We are 2 miles from your destination."
+  },
+  {
+    "input": "Change destination to the airport.",
+    "output": "Confirming airport as your new destination."
+  },
+  {
+    "input": "Stop at the next available parking spot.",
+    "output": "Searching for the next available parking spot."
+  },
+  {
+    "input": "Go back to the previous location.",
+    "output": "Returning to your previous drop-off point."
+  },
+  {
+    "input": "How much longer will this take?",
+    "output": "Estimated 25 minutes remaining until arrival."
+  },
+  {
+    "input": "Can you take a scenic route?",
+    "output": "Searching for a scenic route option."
+  },
+  {
+    "input": "Don't go through the tunnel.",
+    "output": "Rerouting to avoid the tunnel ahead."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes on screen."
+  },
+  {
+    "input": "Is there traffic ahead?",
+    "output": "Minor traffic ahead. No significant delays."
+  },
+  {
+    "input": "Take the next left.",
+    "output": "Acknowledged. Preparing for the next left turn."
+  },
+  {
+    "input": "Pause navigation.",
+    "output": "Navigation paused. Ready to resume."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Navigation resumed. Continuing on route."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "You are currently on Elm Street."
+  },
+  {
+    "input": "What's the speed limit here?",
+    "output": "The current speed limit is 45 MPH."
+  },
+  {
+    "input": "Report a problem with the route.",
+    "output": "Please describe the route problem."
+  },
+  {
+    "input": "Can we make a quick stop at the coffee shop?",
+    "output": "Searching for nearby coffee shops as a stopover."
+  },
+  {
+    "input": "Ignore this road closure.",
+    "output": "Acknowledged. Rerouting due to road closure."
+  },
+  {
+    "input": "Take me to the closest hospital.",
+    "output": "Navigating to the nearest hospital now."
+  },
+  {
+    "input": "What's my current speed?",
+    "output": "Your current speed is 30 miles per hour."
+  },
+  {
+    "input": "How do I get to the stadium from here?",
+    "output": "Setting destination to the stadium. Confirm?"
+  },
+  {
+    "input": "I need to get there by 5 PM.",
+    "output": "Optimizing route to arrive by 5 PM."
+  },
+  {
+    "input": "Can you repeat the last instruction?",
+    "output": "Please turn left at the next intersection."
+  },
+  {
+    "input": "Find parking near my destination.",
+    "output": "Searching for parking near your destination."
+  },
+  {
+    "input": "Navigate to 123 Elm Street, Springfield.",
+    "output": "Route confirmed. Proceeding to Elm Street."
+  },
+  {
+    "input": "Find the nearest coffee shop.",
+    "output": "Searching for nearby coffee shops. Select one."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your home address now."
+  },
+  {
+    "input": "Go to work.",
+    "output": "Setting destination to your workplace."
+  },
+  {
+    "input": "Change my destination to the city center.",
+    "output": "Destination updated. Rerouting to city center."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store to your route. Confirm?"
+  },
+  {
+    "input": "Start navigation.",
+    "output": "Navigation started. Follow the route."
+  },
+  {
+    "input": "Stop navigation.",
+    "output": "Navigation canceled. Where next?"
+  },
+  {
+    "input": "Pause navigation for a moment.",
+    "output": "Navigation paused. Resume when ready."
+  },
+  {
+    "input": "Resume route.",
+    "output": "Navigation resumed. Proceeding to destination."
+  },
+  {
+    "input": "Reroute me, please.",
+    "output": "Rerouting to find an alternative route."
+  },
+  {
+    "input": "Avoid toll roads.",
+    "output": "Avoiding toll roads. Rerouting now."
+  },
+  {
+    "input": "No highways on this trip.",
+    "output": "Avoiding highways. Rerouting accordingly."
+  },
+  {
+    "input": "Show me traffic ahead.",
+    "output": "Displaying current traffic conditions ahead."
+  },
+  {
+    "input": "What's our estimated time of arrival?",
+    "output": "Estimated arrival in 35 minutes."
+  },
+  {
+    "input": "Where exactly are we right now?",
+    "output": "Currently on Main Street, near Oak Avenue."
+  },
+  {
+    "input": "What's the next turn coming up?",
+    "output": "Next, turn left onto Maple Street."
+  },
+  {
+    "input": "Can we go a little faster?",
+    "output": "Adjusting speed to match flow."
+  },
+  {
+    "input": "Please slow down.",
+    "output": "Slowing down now. Speed adjusted."
+  },
+  {
+    "input": "Find parking near my destination.",
+    "output": "Searching for available parking near destination."
+  },
+  {
+    "input": "Take me to the airport.",
+    "output": "Navigating to the nearest airport."
+  },
+  {
+    "input": "Is there a gas station nearby?",
+    "output": "Searching for gas stations. Displaying options."
+  },
+  {
+    "input": "How much battery is left?",
+    "output": "Battery remaining: 78 percent."
+  },
+  {
+    "input": "Increase navigation volume.",
+    "output": "Navigation volume increased."
+  },
+  {
+    "input": "Mute the navigation voice.",
+    "output": "Navigation voice muted."
+  },
+  {
+    "input": "Repeat the last instruction.",
+    "output": "Repeat: In 200 feet, turn right."
+  },
+  {
+    "input": "Why did we just take that turn?",
+    "output": "That turn avoids heavy traffic."
+  },
+  {
+    "input": "Is this the correct destination?",
+    "output": "Yes, this is your confirmed destination."
+  },
+  {
+    "input": "Okay, let's proceed.",
+    "output": "Acknowledged. Proceeding with the route."
+  },
+  {
+    "input": "Thanks for the ride.",
+    "output": "You're welcome. Have a great day."
+  },
+  {
+    "input": "Take me to the nearest coffee shop.",
+    "output": "Searching for nearby coffee shops now."
+  },
+  {
+    "input": "Navigate to 123 Main Street, New York.",
+    "output": "Setting destination to 123 Main Street."
+  },
+  {
+    "input": "What's our estimated time of arrival?",
+    "output": "ETA is 3:45 PM."
+  },
+  {
+    "input": "Add a stop at the gas station on the way.",
+    "output": "Adding a gas station stop to your route."
+  },
+  {
+    "input": "Cancel the current trip.",
+    "output": "Navigation canceled. Where would you like to go?"
+  },
+  {
+    "input": "Are we going the fastest way?",
+    "output": "Yes, this is currently the fastest route."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes now."
+  },
+  {
+    "input": "Go home.",
+    "output": "Navigating to your saved home address."
+  },
+  {
+    "input": "Where exactly are we right now?",
+    "output": "We are currently on Oak Street."
+  },
+  {
+    "input": "Find a parking spot near our destination.",
+    "output": "Searching for available parking near your destination."
+  },
+  {
+    "input": "Avoid toll roads for this trip.",
+    "output": "Toll roads will be avoided."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn left onto Elm Avenue."
+  },
+  {
+    "input": "Is there much traffic ahead?",
+    "output": "Moderate traffic detected ahead."
+  },
+  {
+    "input": "Pull over when it's safe.",
+    "output": "Pulling over at the next safe opportunity."
+  },
+  {
+    "input": "Can you repeat the last instruction?",
+    "output": "Turn right in 200 feet."
+  },
+  {
+    "input": "Change my destination to the airport.",
+    "output": "Updating destination to the airport."
+  },
+  {
+    "input": "How far until our next stop?",
+    "output": "Approximately 5 miles to your next stop."
+  },
+  {
+    "input": "Pause navigation for a bit.",
+    "output": "Navigation paused. Resume anytime."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Navigation resumed."
+  },
+  {
+    "input": "I need to get to the hospital urgently.",
+    "output": "Plotting fastest route to nearest hospital."
+  },
+  {
+    "input": "Take the scenic route.",
+    "output": "Calculating a scenic route now."
+  },
+  {
+    "input": "What's the current speed limit?",
+    "output": "The current speed limit is 45 MPH."
+  },
+  {
+    "input": "Are we on the right road?",
+    "output": "Yes, we are on the correct road."
+  },
+  {
+    "input": "Delete the stop at the grocery store.",
+    "output": "Grocery store stop removed."
+  },
+  {
+    "input": "Where's the closest electric charging station?",
+    "output": "Searching for the closest charging station."
+  },
+  {
+    "input": "Can you show me the route overview?",
+    "output": "Displaying the full route overview."
+  },
+  {
+    "input": "Is there a rest area soon?",
+    "output": "A rest area is 15 miles ahead."
+  },
+  {
+    "input": "Turn off navigation voice prompts.",
+    "output": "Voice prompts disabled."
+  },
+  {
+    "input": "Turn navigation voice prompts back on.",
+    "output": "Voice prompts re-enabled."
+  },
+  {
+    "input": "What time do we arrive?",
+    "output": "Your arrival time is 4:10 PM."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to home address."
+  },
+  {
+    "input": "Drive to the nearest gas station.",
+    "output": "Finding nearest gas station."
+  },
+  {
+    "input": "Set my destination to the Eiffel Tower.",
+    "output": "Route to Eiffel Tower confirmed."
+  },
+  {
+    "input": "What's the estimated time of arrival?",
+    "output": "ETA is 3:45 PM."
+  },
+  {
+    "input": "Are we there yet?",
+    "output": "Still 10 minutes away."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store to route."
+  },
+  {
+    "input": "Change my destination to 123 Main Street.",
+    "output": "New destination set."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation cancelled."
+  },
+  {
+    "input": "Avoid highways.",
+    "output": "Recalculating to avoid highways."
+  },
+  {
+    "input": "Find an alternative route, please.",
+    "output": "Searching for alternative routes."
+  },
+  {
+    "input": "Mute voice guidance.",
+    "output": "Voice guidance muted."
+  },
+  {
+    "input": "Repeat the last instruction.",
+    "output": "Turn left at the next intersection."
+  },
+  {
+    "input": "Zoom in on the map.",
+    "output": "Map zoomed in."
+  },
+  {
+    "input": "What's the traffic like ahead?",
+    "output": "Moderate traffic ahead."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "Currently on Oak Street."
+  },
+  {
+    "input": "Take me to work.",
+    "output": "Routing to your workplace."
+  },
+  {
+    "input": "Is there a rest stop nearby?",
+    "output": "Searching for nearby rest stops."
+  },
+  {
+    "input": "Show me the full route.",
+    "output": "Displaying full route on screen."
+  },
+  {
+    "input": "Unmute navigation.",
+    "output": "Voice guidance unmuted."
+  },
+  {
+    "input": "How far is the next turn?",
+    "output": "Next turn is in 0.5 miles."
+  },
+  {
+    "input": "Find parking near my destination.",
+    "output": "Searching for nearby parking."
+  },
+  {
+    "input": "Can we avoid toll roads?",
+    "output": "Avoiding toll roads now."
+  },
+  {
+    "input": "What's my current speed?",
+    "output": "Current speed is 60 MPH."
+  },
+  {
+    "input": "Pause navigation for a bit.",
+    "output": "Navigation paused."
+  },
+  {
+    "input": "Continue navigation.",
+    "output": "Navigation resumed."
+  },
+  {
+    "input": "Is this the fastest route?",
+    "output": "Yes, this is the fastest route."
+  },
+  {
+    "input": "Show me points of interest along the way.",
+    "output": "Displaying points of interest."
+  },
+  {
+    "input": "Can you find a coffee shop?",
+    "output": "Searching for coffee shops nearby."
+  },
+  {
+    "input": "Where's the closest charger?",
+    "output": "Finding nearest charging station."
+  },
+  {
+    "input": "What's the weather forecast for our destination?",
+    "output": "Checking destination weather forecast."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Confirming trip to home."
+  },
+  {
+    "input": "Navigate to 123 Main Street, Anytown.",
+    "output": "Setting destination. Anytown, Main Street."
+  },
+  {
+    "input": "Change my destination to the airport.",
+    "output": "Changing destination to the airport."
+  },
+  {
+    "input": "Add a stop at the nearest coffee shop.",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "Remove the next stop from my itinerary.",
+    "output": "Next stop removed."
+  },
+  {
+    "input": "How long until we arrive?",
+    "output": "Estimated arrival in 25 minutes."
+  },
+  {
+    "input": "Are we there yet?",
+    "output": "Approaching destination shortly."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "Currently on Elm Street, heading north."
+  },
+  {
+    "input": "Find the fastest route, please.",
+    "output": "Recalculating for the fastest route."
+  },
+  {
+    "input": "Avoid highways on this trip.",
+    "output": "Adjusting route to avoid highways."
+  },
+  {
+    "input": "Can we take a more scenic route?",
+    "output": "Searching for scenic route options."
+  },
+  {
+    "input": "Pull over when it's safe.",
+    "output": "Pulling over at the next safe spot."
+  },
+  {
+    "input": "Stop the vehicle here.",
+    "output": "Stopping the vehicle now."
+  },
+  {
+    "input": "Proceed with the current route.",
+    "output": "Proceeding on current route."
+  },
+  {
+    "input": "Go a little faster, please.",
+    "output": "Increasing speed to flow of traffic."
+  },
+  {
+    "input": "Slow down a bit.",
+    "output": "Decreasing speed slightly."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn right on Oak Street."
+  },
+  {
+    "input": "Cancel current navigation.",
+    "output": "Navigation canceled."
+  },
+  {
+    "input": "Pause the trip for a moment.",
+    "output": "Trip paused. Awaiting further instructions."
+  },
+  {
+    "input": "Resume driving.",
+    "output": "Resuming drive now."
+  },
+  {
+    "input": "Find the nearest gas station.",
+    "output": "Displaying nearest gas stations."
+  },
+  {
+    "input": "Is there a rest stop nearby?",
+    "output": "Searching for nearby rest areas."
+  },
+  {
+    "input": "Confirm the address for me.",
+    "output": "Confirming destination address now."
+  },
+  {
+    "input": "What was that last instruction?",
+    "output": "Last instruction: turn left ahead."
+  },
+  {
+    "input": "Turn off voice guidance.",
+    "output": "Voice guidance muted."
+  },
+  {
+    "input": "Turn voice guidance back on.",
+    "output": "Voice guidance resumed."
+  },
+  {
+    "input": "Can you drive more smoothly?",
+    "output": "Adjusting driving style for smoother ride."
+  },
+  {
+    "input": "Show me the map.",
+    "output": "Displaying full route map."
+  },
+  {
+    "input": "Are there any tolls on this route?",
+    "output": "One toll booth on your route."
+  },
+  {
+    "input": "When do we expect to arrive?",
+    "output": "Anticipated arrival at 3:30 PM."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your home address now."
+  },
+  {
+    "input": "Go to the nearest coffee shop.",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "Set the destination to 123 Oak Street, Cityville.",
+    "output": "Destination confirmed. Starting route."
+  },
+  {
+    "input": "What's our estimated arrival time?",
+    "output": "Estimated arrival in 25 minutes."
+  },
+  {
+    "input": "Are there any delays ahead?",
+    "output": "Minor delays reported ahead."
+  },
+  {
+    "input": "Find an alternative route.",
+    "output": "Searching for faster routes now."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Please specify the grocery store."
+  },
+  {
+    "input": "Skip the next stop.",
+    "output": "Next stop has been removed."
+  },
+  {
+    "input": "How much longer until we get there?",
+    "output": "Approximately 15 minutes remaining."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation cancelled. Have a good day."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "Currently on Main Street near Elm Avenue."
+  },
+  {
+    "input": "Show me the map overview.",
+    "output": "Displaying map overview."
+  },
+  {
+    "input": "Avoid toll roads.",
+    "output": "Toll roads will be avoided."
+  },
+  {
+    "input": "Is this the fastest way?",
+    "output": "Yes, this is currently the fastest route."
+  },
+  {
+    "input": "Slow down a bit.",
+    "output": "Adjusting speed slightly."
+  },
+  {
+    "input": "Pull over when it's safe.",
+    "output": "Finding a safe spot to pull over."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Turn left in 500 feet."
+  },
+  {
+    "input": "Can we stop for a break soon?",
+    "output": "Searching for nearby rest areas."
+  },
+  {
+    "input": "Find a parking garage near the destination.",
+    "output": "Searching for parking garages."
+  },
+  {
+    "input": "I need to go to the airport.",
+    "output": "Which airport please?"
+  },
+  {
+    "input": "Is there a gas station nearby?",
+    "output": "Searching for nearby gas stations."
+  },
+  {
+    "input": "Drive a little faster, please.",
+    "output": "Increasing speed cautiously."
+  },
+  {
+    "input": "Mute navigation voice.",
+    "output": "Navigation voice muted."
+  },
+  {
+    "input": "Unmute navigation.",
+    "output": "Navigation voice unmuted."
+  },
+  {
+    "input": "Why are we stopped?",
+    "output": "We are waiting at a red light."
+  },
+  {
+    "input": "Can you repeat that?",
+    "output": "Certainly, repeating last instruction."
+  },
+  {
+    "input": "Change the destination to downtown.",
+    "output": "Which location in downtown?"
+  },
+  {
+    "input": "What's the weather like at our destination?",
+    "output": "Checking destination weather."
+  },
+  {
+    "input": "Take the next exit.",
+    "output": "Taking the next exit now."
+  },
+  {
+    "input": "End trip here.",
+    "output": "Ending trip. Safely stopping."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to home. Confirmed."
+  },
+  {
+    "input": "Navigate to 123 Main Street, Anytown.",
+    "output": "Setting destination to 123 Main Street."
+  },
+  {
+    "input": "What's the fastest way to the airport?",
+    "output": "Calculating fastest route to the airport."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store as an intermediate stop."
+  },
+  {
+    "input": "Cancel the current route.",
+    "output": "Route guidance cancelled. Where to next?"
+  },
+  {
+    "input": "How much longer until we arrive?",
+    "output": "You will arrive in approximately 25 minutes."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn left onto Elm Street."
+  },
+  {
+    "input": "Are we on schedule?",
+    "output": "Yes, currently on schedule."
+  },
+  {
+    "input": "Avoid highways for this trip.",
+    "output": "Adjusting route to avoid highways."
+  },
+  {
+    "input": "Find the nearest gas station.",
+    "output": "Searching for nearby gas stations."
+  },
+  {
+    "input": "Pause navigation for now.",
+    "output": "Navigation paused. Say 'resume' to continue."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Resuming route guidance."
+  },
+  {
+    "input": "Change my destination to the hospital.",
+    "output": "Updating destination to the nearest hospital."
+  },
+  {
+    "input": "Is there a faster route?",
+    "output": "Checking for alternative faster routes."
+  },
+  {
+    "input": "Show me the route on the map.",
+    "output": "Displaying current route on screen."
+  },
+  {
+    "input": "Turn off voice guidance.",
+    "output": "Voice guidance turned off."
+  },
+  {
+    "input": "Turn voice guidance back on.",
+    "output": "Voice guidance enabled."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "You are currently on Oak Avenue."
+  },
+  {
+    "input": "How far is the next exit?",
+    "output": "Next exit is 3 miles ahead."
+  },
+  {
+    "input": "Can we stop for coffee?",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "Take the scenic route.",
+    "output": "Adjusting route for scenic options."
+  },
+  {
+    "input": "Avoid tolls.",
+    "output": "Routing to avoid tolls."
+  },
+  {
+    "input": "Is this the correct address?",
+    "output": "Yes, confirming destination."
+  },
+  {
+    "input": "Start navigation.",
+    "output": "Navigation started. Please confirm."
+  },
+  {
+    "input": "Are there any traffic delays?",
+    "output": "Minor traffic delays ahead."
+  },
+  {
+    "input": "I need to go to the train station.",
+    "output": "Navigating to the nearest train station."
+  },
+  {
+    "input": "Remove the last added stop.",
+    "output": "Last added stop removed."
+  },
+  {
+    "input": "Can you drive a little slower?",
+    "output": "Adjusting speed. Driving more smoothly."
+  },
+  {
+    "input": "Find parking near our destination.",
+    "output": "Searching for nearby parking options."
+  },
+  {
+    "input": "What's the estimated time of arrival?",
+    "output": "Estimated arrival is 4:30 PM."
+  },
+  {
+    "input": "Take me to the airport, please.",
+    "output": "Confirmed. Navigating to the airport."
+  },
+  {
+    "input": "Change my destination to 123 Main Street.",
+    "output": "Updating destination to Main Street."
+  },
+  {
+    "input": "Is there much traffic ahead?",
+    "output": "Moderate traffic for the next mile."
+  },
+  {
+    "input": "Find a coffee shop nearby.",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "What's our estimated arrival time?",
+    "output": "Your estimated arrival is 4:15 PM."
+  },
+  {
+    "input": "Can we take the fastest route?",
+    "output": "Prioritizing the fastest route now."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store to your route."
+  },
+  {
+    "input": "Cancel current navigation.",
+    "output": "Navigation canceled as requested."
+  },
+  {
+    "input": "Where exactly are we right now?",
+    "output": "You are currently on Oak Street."
+  },
+  {
+    "input": "Slow down a bit, please.",
+    "output": "Acknowledged. Reducing speed slightly."
+  },
+  {
+    "input": "Is there a scenic route to the beach?",
+    "output": "Suggesting a scenic route to the beach."
+  },
+  {
+    "input": "Find the nearest electric charging station.",
+    "output": "Searching for nearby charging stations."
+  },
+  {
+    "input": "Turn the audio volume up.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Are we going the right way?",
+    "output": "Yes, you are on the correct route."
+  },
+  {
+    "input": "Can you park here?",
+    "output": "Searching for a suitable parking spot."
+  },
+  {
+    "input": "Avoid highways if possible.",
+    "output": "Adjusting route to avoid highways."
+  },
+  {
+    "input": "What's the weather like at our destination?",
+    "output": "Weather at destination is sunny, 70 degrees."
+  },
+  {
+    "input": "How far until our next turn?",
+    "output": "Next turn in half a mile."
+  },
+  {
+    "input": "Can you repeat the last instruction?",
+    "output": "Please turn left at the next intersection."
+  },
+  {
+    "input": "Find a highly-rated restaurant.",
+    "output": "Searching for highly-rated restaurants nearby."
+  },
+  {
+    "input": "Take me to the closest hospital.",
+    "output": "Navigating to the nearest hospital."
+  },
+  {
+    "input": "End the trip here.",
+    "output": "Confirmed. Ending trip shortly."
+  },
+  {
+    "input": "What's the name of this street?",
+    "output": "You are on Elmwood Avenue."
+  },
+  {
+    "input": "Can we take a detour through the park?",
+    "output": "Calculating a detour through the park."
+  },
+  {
+    "input": "Mute navigation instructions.",
+    "output": "Navigation instructions muted."
+  },
+  {
+    "input": "Find the address for the city hall.",
+    "output": "City Hall address is 100 Plaza Way."
+  },
+  {
+    "input": "How much longer will this trip take?",
+    "output": "Approximately 25 minutes remaining."
+  },
+  {
+    "input": "Can we avoid left turns?",
+    "output": "Adjusting route to minimize left turns."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes now."
+  },
+  {
+    "input": "Is it possible to add a quick stop for coffee?",
+    "output": "Searching for coffee shops on route."
+  },
+  {
+    "input": "Take me to the Empire State Building.",
+    "output": "Setting destination. Confirming Empire State Building."
+  },
+  {
+    "input": "Navigate to 123 Main Street, Anytown.",
+    "output": "Route to Main Street confirmed. Starting navigation."
+  },
+  {
+    "input": "What's our estimated arrival time?",
+    "output": "Arriving in 25 minutes, at 3:15 PM."
+  },
+  {
+    "input": "Is there a faster route available?",
+    "output": "Checking for faster routes now."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Please specify the grocery store name or address."
+  },
+  {
+    "input": "Cancel current destination.",
+    "output": "Navigation cancelled. Where would you like to go?"
+  },
+  {
+    "input": "How much longer until we get there?",
+    "output": "You will arrive in approximately 18 minutes."
+  },
+  {
+    "input": "Go to the nearest gas station.",
+    "output": "Navigating to the closest gas station now."
+  },
+  {
+    "input": "Find a restaurant nearby.",
+    "output": "Searching for nearby restaurants. What cuisine?"
+  },
+  {
+    "input": "Why are we slowing down?",
+    "output": "Traffic ahead requires reduced speed."
+  },
+  {
+    "input": "Pull over when it's safe.",
+    "output": "Pulling over at the next safe location."
+  },
+  {
+    "input": "Change my destination to the airport.",
+    "output": "Updating destination to the airport. Confirming."
+  },
+  {
+    "input": "Are we on the right track?",
+    "output": "Yes, we are on the planned route."
+  },
+  {
+    "input": "Avoid toll roads.",
+    "output": "Toll roads avoided for this route."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Turn left in 300 feet."
+  },
+  {
+    "input": "Can you repeat that?",
+    "output": "Please specify what you would like repeated."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your saved home address."
+  },
+  {
+    "input": "Where exactly are we right now?",
+    "output": "We are currently on Oak Street."
+  },
+  {
+    "input": "Is there traffic up ahead?",
+    "output": "Moderate traffic detected ahead. Route adjusted."
+  },
+  {
+    "input": "Play some music.",
+    "output": "Sorry, I can only assist with navigation."
+  },
+  {
+    "input": "Find parking near my destination.",
+    "output": "Searching for parking options near your destination."
+  },
+  {
+    "input": "Report a problem with the vehicle.",
+    "output": "Please describe the problem. Contacting support."
+  },
+  {
+    "input": "Slow down, please.",
+    "output": "Slowing vehicle speed now."
+  },
+  {
+    "input": "Can we take the scenic route?",
+    "output": "Searching for scenic route options. Please confirm."
+  },
+  {
+    "input": "Switch to voice guidance only.",
+    "output": "Switching to voice guidance mode."
+  },
+  {
+    "input": "Go back to the previous stop.",
+    "output": "Returning to the previous stop now."
+  },
+  {
+    "input": "Confirm this destination: New York Public Library.",
+    "output": "Confirmed: New York Public Library. Starting route."
+  },
+  {
+    "input": "Stop navigation completely.",
+    "output": "Navigation has been stopped."
+  },
+  {
+    "input": "Optimize my route for fuel efficiency.",
+    "output": "Optimizing route for fuel efficiency."
+  },
+  {
+    "input": "How long until the next charge point?",
+    "output": "Next charging station in 45 miles."
+  },
+  {
+    "input": "Navigate to 123 Main Street.",
+    "output": "Setting destination to Main Street. Confirm?"
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your home address."
+  },
+  {
+    "input": "Find the nearest coffee shop.",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "Go to the airport.",
+    "output": "Which airport are you referring to?"
+  },
+  {
+    "input": "Set destination to the Louvre Museum, Paris.",
+    "output": "Confirming route to the Louvre Museum."
+  },
+  {
+    "input": "Drive to work.",
+    "output": "Starting route to your workplace."
+  },
+  {
+    "input": "Can you take me to the stadium?",
+    "output": "Which stadium would you like to go to?"
+  },
+  {
+    "input": "Find a gas station on our way.",
+    "output": "Searching for gas stations along the route."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store as a stop."
+  },
+  {
+    "input": "Avoid tolls on this route.",
+    "output": "Recalculating to avoid toll roads."
+  },
+  {
+    "input": "Find an alternative route.",
+    "output": "Searching for alternative routes."
+  },
+  {
+    "input": "Remove the next stop.",
+    "output": "Removing next stop from itinerary."
+  },
+  {
+    "input": "Can we stop for lunch?",
+    "output": "Searching for restaurants nearby."
+  },
+  {
+    "input": "Change my destination to the park.",
+    "output": "Recalculating route to the park."
+  },
+  {
+    "input": "What's our ETA?",
+    "output": "Your estimated arrival time is 3:45 PM."
+  },
+  {
+    "input": "How much further?",
+    "output": "You have 15 miles remaining."
+  },
+  {
+    "input": "Is there traffic ahead?",
+    "output": "Traffic conditions are normal ahead."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn left onto Oak Avenue."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "You are currently on Elm Street."
+  },
+  {
+    "input": "Are we taking the fastest route?",
+    "output": "Yes, this is currently the fastest route."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation has been cancelled."
+  },
+  {
+    "input": "Pause navigation.",
+    "output": "Navigation paused. Resume when ready."
+  },
+  {
+    "input": "Repeat that instruction.",
+    "output": "Turn right in 200 feet."
+  },
+  {
+    "input": "Turn down the volume.",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Show me the map.",
+    "output": "Displaying full map view."
+  },
+  {
+    "input": "Hide the map.",
+    "output": "Minimizing map view."
+  },
+  {
+    "input": "I need to go to the hospital.",
+    "output": "Searching for the nearest hospital."
+  },
+  {
+    "input": "Is this the correct way?",
+    "output": "Yes, you are on the correct route."
+  },
+  {
+    "input": "Thank you.",
+    "output": "You're welcome."
+  },
+  {
+    "input": "I want to go to the library.",
+    "output": "Which library are you referring to?"
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your home address."
+  },
+  {
+    "input": "Drive to the nearest gas station.",
+    "output": "Searching for nearby fuel stations."
+  },
+  {
+    "input": "Set the destination to 123 Main Street, Anytown.",
+    "output": "Route set to Main Street."
+  },
+  {
+    "input": "I need to go to the airport.",
+    "output": "Routing to the nearest airport."
+  },
+  {
+    "input": "Find a good Italian restaurant nearby.",
+    "output": "Searching for highly-rated Italian restaurants."
+  },
+  {
+    "input": "Let's go to the beach.",
+    "output": "Confirming route to the beach."
+  },
+  {
+    "input": "Change destination to the public library.",
+    "output": "Updating route to the library."
+  },
+  {
+    "input": "Stop the car at the next safe spot.",
+    "output": "Pulling over safely now."
+  },
+  {
+    "input": "Pause navigation temporarily.",
+    "output": "Navigation paused."
+  },
+  {
+    "input": "Resume driving please.",
+    "output": "Resuming route."
+  },
+  {
+    "input": "Reroute to avoid this construction.",
+    "output": "Checking for an alternate route."
+  },
+  {
+    "input": "Cancel the current trip.",
+    "output": "Trip canceled, safely stopping."
+  },
+  {
+    "input": "Take the next exit on the right.",
+    "output": "Preparing to take the next exit."
+  },
+  {
+    "input": "Skip this waypoint.",
+    "output": "Skipping current stop."
+  },
+  {
+    "input": "What's our estimated arrival time?",
+    "output": "Arriving in approximately 18 minutes."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "Currently on Elmwood Avenue."
+  },
+  {
+    "input": "What's the next turn I should expect?",
+    "output": "Turn left in 500 feet."
+  },
+  {
+    "input": "How much further do we have to go?",
+    "output": "Distance remaining, 7 miles."
+  },
+  {
+    "input": "Are we on schedule?",
+    "output": "Yes, you are on schedule."
+  },
+  {
+    "input": "Avoid highways for this trip.",
+    "output": "Adjusting route to avoid highways."
+  },
+  {
+    "input": "Allow toll roads.",
+    "output": "Enabling toll roads for this trip."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes now."
+  },
+  {
+    "input": "Is it clear to turn left here?",
+    "output": "Path ahead is clear."
+  },
+  {
+    "input": "What's our current speed?",
+    "output": "Current speed is 30 miles per hour."
+  },
+  {
+    "input": "Did you get that?",
+    "output": "Yes, I understood."
+  },
+  {
+    "input": "Could you repeat that last instruction?",
+    "output": "Repeating last instruction."
+  },
+  {
+    "input": "Find the nearest charging station.",
+    "output": "Searching for electric charging stations."
+  },
+  {
+    "input": "Take the scenic route.",
+    "output": "Recalculating for a scenic route."
+  },
+  {
+    "input": "When do we arrive?",
+    "output": "Arrival expected in 12 minutes."
+  },
+  {
+    "input": "Go slower.",
+    "output": "Decreasing speed safely."
+  },
+  {
+    "input": "Navigate to 123 Main Street, Anytown.",
+    "output": "Navigating to 123 Main Street. Confirm destination?"
+  },
+  {
+    "input": "What's our estimated arrival time?",
+    "output": "Your ETA is 3:45 PM."
+  },
+  {
+    "input": "Cancel this route.",
+    "output": "Navigation canceled. Where would you like to go?"
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Which grocery store would you like to add?"
+  },
+  {
+    "input": "Are there any tolls on this route?",
+    "output": "Yes, this route includes tolls."
+  },
+  {
+    "input": "Avoid highways, please.",
+    "output": "Recalculating to avoid highways."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "You are currently on Elm Street."
+  },
+  {
+    "input": "Mute navigation instructions.",
+    "output": "Navigation audio muted."
+  },
+  {
+    "input": "Unmute navigation.",
+    "output": "Navigation audio unmuted."
+  },
+  {
+    "input": "Repeat the last instruction.",
+    "output": "Turn left in 200 feet."
+  },
+  {
+    "input": "Change my destination to the airport.",
+    "output": "Confirming destination: local airport?"
+  },
+  {
+    "input": "How far is it to our destination?",
+    "output": "15 miles remaining to your destination."
+  },
+  {
+    "input": "Find the quickest route.",
+    "output": "Optimizing for the quickest route."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes on screen."
+  },
+  {
+    "input": "Go home.",
+    "output": "Navigating home. Confirm address?"
+  },
+  {
+    "input": "Pause navigation.",
+    "output": "Navigation paused. Ready to resume?"
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Navigation resumed. Proceeding to destination."
+  },
+  {
+    "input": "Is there traffic ahead?",
+    "output": "Minor traffic congestion reported ahead."
+  },
+  {
+    "input": "Set a new destination.",
+    "output": "Please state your new destination."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn right onto Oak Avenue."
+  },
+  {
+    "input": "Can we avoid this specific road?",
+    "output": "Please specify the road to avoid."
+  },
+  {
+    "input": "Update my current location.",
+    "output": "Current location updated."
+  },
+  {
+    "input": "Show the map in 3D.",
+    "output": "Map display changed to 3D view."
+  },
+  {
+    "input": "Zoom in on the map.",
+    "output": "Zooming in on the map."
+  },
+  {
+    "input": "Decrease navigation volume.",
+    "output": "Navigation volume decreased."
+  },
+  {
+    "input": "Increase navigation volume.",
+    "output": "Navigation volume increased."
+  },
+  {
+    "input": "Why did we take this route?",
+    "output": "This is the fastest route based on current traffic."
+  },
+  {
+    "input": "Take me to the nearest gas station.",
+    "output": "Searching for gas stations nearby."
+  },
+  {
+    "input": "Stop driving, please.",
+    "output": "Initiating safe stop protocol."
+  },
+  {
+    "input": "Find parking near our destination.",
+    "output": "Searching for parking near your destination."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your home address."
+  },
+  {
+    "input": "Set the destination to the nearest supermarket.",
+    "output": "Searching for nearby supermarkets now."
+  },
+  {
+    "input": "What's our estimated time of arrival?",
+    "output": "ETA is 3:15 PM."
+  },
+  {
+    "input": "Are we going to be stuck in traffic much longer?",
+    "output": "Expect moderate delays for ten minutes."
+  },
+  {
+    "input": "Find a gas station on our route.",
+    "output": "Displaying gas stations along your route."
+  },
+  {
+    "input": "Change the destination to 123 Main Street.",
+    "output": "Updating destination to Main Street."
+  },
+  {
+    "input": "Add a stop at the post office.",
+    "output": "Adding post office to your itinerary."
+  },
+  {
+    "input": "Avoid toll roads for this trip.",
+    "output": "Rerouting to avoid tolls now."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn left in 500 feet."
+  },
+  {
+    "input": "Cancel current navigation.",
+    "output": "Navigation canceled. Where to next?"
+  },
+  {
+    "input": "Is there an alternative route?",
+    "output": "Checking for faster alternative routes."
+  },
+  {
+    "input": "Go to the airport.",
+    "output": "Confirming navigation to the airport."
+  },
+  {
+    "input": "How far are we from our destination?",
+    "output": "You are 15 miles from destination."
+  },
+  {
+    "input": "Can you pause the current trip?",
+    "output": "Trip paused. Awaiting your command."
+  },
+  {
+    "input": "Resume driving.",
+    "output": "Resuming navigation now."
+  },
+  {
+    "input": "Find a restaurant near here.",
+    "output": "Searching for restaurants nearby."
+  },
+  {
+    "input": "What's the current speed limit?",
+    "output": "The current speed limit is 45 MPH."
+  },
+  {
+    "input": "Are we taking the scenic route?",
+    "output": "Currently on the fastest route."
+  },
+  {
+    "input": "Display the map overview.",
+    "output": "Showing full route overview."
+  },
+  {
+    "input": "Zoom in on the map.",
+    "output": "Zooming in on the map."
+  },
+  {
+    "input": "What's the traffic like ahead?",
+    "output": "Moderate traffic expected ahead."
+  },
+  {
+    "input": "Take me to work.",
+    "output": "Navigating to your work address."
+  },
+  {
+    "input": "Is this the fastest way?",
+    "output": "Yes, this is the optimal route."
+  },
+  {
+    "input": "When will we arrive?",
+    "output": "Arrival expected in 25 minutes."
+  },
+  {
+    "input": "Can you repeat the last instruction?",
+    "output": "Turn right at the next intersection."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "Currently on Elm Street, near Oak Avenue."
+  },
+  {
+    "input": "Find a charging station.",
+    "output": "Locating charging stations nearby."
+  },
+  {
+    "input": "What time is it?",
+    "output": "The current time is 10:30 AM."
+  },
+  {
+    "input": "Avoid highways.",
+    "output": "Rerouting to avoid highways."
+  },
+  {
+    "input": "How many miles left?",
+    "output": "Remaining distance is 8 miles."
+  },
+  {
+    "input": "Navigate to the nearest coffee shop.",
+    "output": "Searching for coffee shops nearby."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your home address."
+  },
+  {
+    "input": "Set destination to 123 Main Street.",
+    "output": "Confirming 123 Main Street as destination."
+  },
+  {
+    "input": "Drive to the airport.",
+    "output": "Route to the airport confirmed."
+  },
+  {
+    "input": "Find a gas station.",
+    "output": "Locating nearby gas stations."
+  },
+  {
+    "input": "Go to Central Park.",
+    "output": "Routing to Central Park."
+  },
+  {
+    "input": "Can you take me to the movie theater?",
+    "output": "Searching for nearby movie theaters."
+  },
+  {
+    "input": "I want to go to the grocery store on Elm Street.",
+    "output": "Routing to the grocery store on Elm Street."
+  },
+  {
+    "input": "Add a stop at the post office.",
+    "output": "Adding post office as a stop."
+  },
+  {
+    "input": "Change my destination to the library.",
+    "output": "Rerouting to the library."
+  },
+  {
+    "input": "Avoid tolls on this route.",
+    "output": "Adjusting route to avoid tolls."
+  },
+  {
+    "input": "Find an alternative route.",
+    "output": "Searching for alternative routes."
+  },
+  {
+    "input": "Can we stop for coffee first?",
+    "output": "Adding coffee shop to your route."
+  },
+  {
+    "input": "Don't take the highway.",
+    "output": "Rerouting to avoid highways."
+  },
+  {
+    "input": "Remove the next stop.",
+    "output": "Next stop removed. Rerouting."
+  },
+  {
+    "input": "Go home after this.",
+    "output": "Adding home as your next destination."
+  },
+  {
+    "input": "What's my estimated arrival time?",
+    "output": "Checking estimated arrival time."
+  },
+  {
+    "input": "How far is it to my destination?",
+    "output": "Checking distance to destination."
+  },
+  {
+    "input": "Are there any traffic delays?",
+    "output": "Checking for traffic delays."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Your next turn is ahead."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation cancelled."
+  },
+  {
+    "input": "How much longer will this take?",
+    "output": "Checking remaining travel time."
+  },
+  {
+    "input": "Show me the map.",
+    "output": "Displaying map view."
+  },
+  {
+    "input": "Turn up the navigation volume.",
+    "output": "Navigation volume increased."
+  },
+  {
+    "input": "Change the voice to a male voice.",
+    "output": "Changing navigation voice to male."
+  },
+  {
+    "input": "Mute navigation instructions.",
+    "output": "Navigation instructions muted."
+  },
+  {
+    "input": "Did you say 'Main Street'?",
+    "output": "Yes, Main Street confirmed."
+  },
+  {
+    "input": "Confirm destination.",
+    "output": "Destination confirmed."
+  },
+  {
+    "input": "Where am I?",
+    "output": "Displaying your current location."
+  },
+  {
+    "input": "Repeat that.",
+    "output": "Repeating last instruction."
+  },
+  {
+    "input": "Navigate to the nearest coffee shop.",
+    "output": "Searching for coffee shops. Confirming Starbucks on Main Street."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your saved home address. Proceeding now."
+  },
+  {
+    "input": "What's our estimated time of arrival?",
+    "output": "Your ETA is 3:45 PM."
+  },
+  {
+    "input": "Find a gas station on our route.",
+    "output": "Locating gas stations. Shell station 2 miles ahead."
+  },
+  {
+    "input": "Can we avoid highways?",
+    "output": "Recalculating route to avoid highways."
+  },
+  {
+    "input": "Is there a faster way to get there?",
+    "output": "Checking for faster routes. A new route is available."
+  },
+  {
+    "input": "Cancel this navigation.",
+    "output": "Navigation canceled. Ready for a new destination."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Turn left in 500 feet onto Oak Avenue."
+  },
+  {
+    "input": "Are we nearly there?",
+    "output": "You will arrive in approximately 10 minutes."
+  },
+  {
+    "input": "Where exactly are we right now?",
+    "output": "We are currently on Elm Street near Park Road."
+  },
+  {
+    "input": "Change destination to the city library.",
+    "output": "Navigating to the city library. Route updated."
+  },
+  {
+    "input": "Are there any traffic delays ahead?",
+    "output": "Minor traffic congestion reported 3 miles ahead."
+  },
+  {
+    "input": "Can you repeat that instruction?",
+    "output": "Please turn right at the next intersection."
+  },
+  {
+    "input": "Show me the map.",
+    "output": "Displaying navigation map on the screen."
+  },
+  {
+    "input": "Find a restaurant with good reviews.",
+    "output": "Searching for highly-rated restaurants nearby."
+  },
+  {
+    "input": "Pause navigation for a moment.",
+    "output": "Navigation paused. Ready to resume when you are."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Resuming navigation to your destination."
+  },
+  {
+    "input": "Go to 123 Main Street, Anytown.",
+    "output": "Confirming destination: 123 Main Street, Anytown. Proceeding."
+  },
+  {
+    "input": "What's the current speed limit?",
+    "output": "The current speed limit is 45 miles per hour."
+  },
+  {
+    "input": "Avoid toll roads, please.",
+    "output": "Recalculating to avoid all toll roads."
+  },
+  {
+    "input": "How much longer until we arrive?",
+    "output": "Approximately 15 minutes remaining."
+  },
+  {
+    "input": "Zoom out on the map.",
+    "output": "Zooming out on the navigation map."
+  },
+  {
+    "input": "Take me to the airport.",
+    "output": "Navigating to the nearest airport. Please confirm terminal."
+  },
+  {
+    "input": "Find a parking garage near the destination.",
+    "output": "Searching for parking garages. Several options found."
+  },
+  {
+    "input": "Why are we taking this route?",
+    "output": "This is the fastest route given current traffic."
+  },
+  {
+    "input": "Is this the quickest way?",
+    "output": "Yes, this is currently the quickest route."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Please specify the grocery store or address."
+  },
+  {
+    "input": "Can we take a more scenic route?",
+    "output": "Searching for scenic route options to your destination."
+  },
+  {
+    "input": "What's the address of our destination?",
+    "output": "Your destination address is 456 Oak Street."
+  },
+  {
+    "input": "Stop at the next rest area.",
+    "output": "Locating rest areas. Exiting at the next one."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to home. Proceeding."
+  },
+  {
+    "input": "Set my destination to 123 Main Street, Anytown.",
+    "output": "Confirming 123 Main Street. Route calculated."
+  },
+  {
+    "input": "Find the nearest gas station.",
+    "output": "Searching for nearby gas stations."
+  },
+  {
+    "input": "What's my estimated time of arrival?",
+    "output": "ETA is 3:45 PM."
+  },
+  {
+    "input": "Are we there yet?",
+    "output": "Approaching destination in 2 miles."
+  },
+  {
+    "input": "Cancel current route.",
+    "output": "Route canceled. Ready for new destination."
+  },
+  {
+    "input": "Avoid highways.",
+    "output": "Avoiding highways. Recalculating route."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes now."
+  },
+  {
+    "input": "Where am I right now?",
+    "output": "You are on Oak Avenue."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Turn left in 500 feet."
+  },
+  {
+    "input": "Increase navigation volume.",
+    "output": "Navigation volume increased."
+  },
+  {
+    "input": "Switch to satellite view.",
+    "output": "Switching to satellite map view."
+  },
+  {
+    "input": "Find a coffee shop near here.",
+    "output": "Searching for coffee shops."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding a stop. Please specify."
+  },
+  {
+    "input": "Pause navigation guidance.",
+    "output": "Navigation guidance paused."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Resuming navigation."
+  },
+  {
+    "input": "How far is it to my destination?",
+    "output": "Distance to destination: 15 miles."
+  },
+  {
+    "input": "Change units to kilometers.",
+    "output": "Units changed to kilometers."
+  },
+  {
+    "input": "Is there traffic ahead?",
+    "output": "Minor traffic ahead. No delays."
+  },
+  {
+    "input": "Take me to work.",
+    "output": "Navigating to work. Proceeding."
+  },
+  {
+    "input": "Find parking near the stadium.",
+    "output": "Searching for parking near stadium."
+  },
+  {
+    "input": "Silence voice guidance.",
+    "output": "Voice guidance silenced."
+  },
+  {
+    "input": "Show me the full route on the map.",
+    "output": "Displaying full route now."
+  },
+  {
+    "input": "What's the speed limit here?",
+    "output": "The current speed limit is 45."
+  },
+  {
+    "input": "Re-route to avoid tolls.",
+    "output": "Avoiding tolls. Recalculating route."
+  },
+  {
+    "input": "Can you repeat that?",
+    "output": "Turn right at the next intersection."
+  },
+  {
+    "input": "Is this the fastest way?",
+    "output": "Yes, this is currently the fastest route."
+  },
+  {
+    "input": "Take me to the airport.",
+    "output": "Which airport would you like?"
+  },
+  {
+    "input": "Go to the post office.",
+    "output": "Searching for nearby post offices."
+  },
+  {
+    "input": "Set destination to the nearest hospital.",
+    "output": "Navigating to the nearest hospital."
+  },
+  {
+    "input": "Navigate to 123 Main Street, Anytown.",
+    "output": "Navigating to 123 Main Street."
+  },
+  {
+    "input": "Take me to the nearest gas station.",
+    "output": "Finding nearest gas station."
+  },
+  {
+    "input": "Go home.",
+    "output": "Navigating home."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store to your route."
+  },
+  {
+    "input": "Remove the next stop.",
+    "output": "Next stop removed."
+  },
+  {
+    "input": "Change my destination to the airport.",
+    "output": "Rerouting to the airport."
+  },
+  {
+    "input": "Avoid tolls on this route.",
+    "output": "Avoiding tolls. Rerouting."
+  },
+  {
+    "input": "What's my estimated arrival time?",
+    "output": "Your ETA is 3:45 PM."
+  },
+  {
+    "input": "How much further?",
+    "output": "Approximately 10 miles remaining."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Turn left in 200 feet."
+  },
+  {
+    "input": "Mute navigation.",
+    "output": "Navigation muted."
+  },
+  {
+    "input": "Unmute navigation.",
+    "output": "Navigation unmuted."
+  },
+  {
+    "input": "Repeat the last instruction.",
+    "output": "Repeating last instruction."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation cancelled."
+  },
+  {
+    "input": "Any traffic ahead?",
+    "output": "Minor traffic reported ahead."
+  },
+  {
+    "input": "Find an alternative route.",
+    "output": "Searching for alternative routes."
+  },
+  {
+    "input": "Zoom in.",
+    "output": "Map zoomed in."
+  },
+  {
+    "input": "Zoom out.",
+    "output": "Map zoomed out."
+  },
+  {
+    "input": "Where am I?",
+    "output": "You are on Oak Street."
+  },
+  {
+    "input": "Pause navigation.",
+    "output": "Navigation paused."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Navigation resumed."
+  },
+  {
+    "input": "Show me restaurants in downtown.",
+    "output": "Displaying restaurants in downtown."
+  },
+  {
+    "input": "Find a coffee shop near here.",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "Turn down the volume.",
+    "output": "Voice volume decreased."
+  },
+  {
+    "input": "Don't use highways.",
+    "output": "Avoiding highways. Rerouting."
+  },
+  {
+    "input": "Yes, that's correct, navigate there.",
+    "output": "Starting navigation."
+  },
+  {
+    "input": "Can we make a quick stop at the ATM?",
+    "output": "Finding nearby ATMs."
+  },
+  {
+    "input": "Why are we going this way?",
+    "output": "This is the fastest route."
+  },
+  {
+    "input": "Clear my entire trip plan.",
+    "output": "All stops and destination cleared."
+  },
+  {
+    "input": "Take me to my last destination.",
+    "output": "Navigating to your last destination."
+  },
+  {
+    "input": "Navigate to the nearest coffee shop.",
+    "output": "Navigating to Starbucks on Main Street."
+  },
+  {
+    "input": "Take me home, please.",
+    "output": "Route to home initiated."
+  },
+  {
+    "input": "What's my estimated time of arrival?",
+    "output": "ETA is 2:45 PM."
+  },
+  {
+    "input": "Add a stop at the gas station on the way.",
+    "output": "Adding gas station to your route."
+  },
+  {
+    "input": "Cancel the current navigation.",
+    "output": "Navigation canceled."
+  },
+  {
+    "input": "How's the traffic ahead?",
+    "output": "Traffic is moderate for the next two miles."
+  },
+  {
+    "input": "Find the quickest route to downtown.",
+    "output": "Calculating quickest route to downtown."
+  },
+  {
+    "input": "Repeat the last instruction.",
+    "output": "Turn left in 500 feet."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying three alternative routes now."
+  },
+  {
+    "input": "Avoid highways on this trip.",
+    "output": "Recalculating to avoid highways."
+  },
+  {
+    "input": "What's the address of our current destination?",
+    "output": "123 Main Street, Anytown."
+  },
+  {
+    "input": "Change destination to the airport.",
+    "output": "Setting destination to the airport."
+  },
+  {
+    "input": "Are there any tolls on this route?",
+    "output": "No tolls on the current route."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "You are on Oak Avenue."
+  },
+  {
+    "input": "Pause navigation.",
+    "output": "Navigation paused."
+  },
+  {
+    "input": "Continue navigation.",
+    "output": "Navigation resumed."
+  },
+  {
+    "input": "How much longer until we arrive?",
+    "output": "You will arrive in 15 minutes."
+  },
+  {
+    "input": "Take me to the library.",
+    "output": "Routing to the city library."
+  },
+  {
+    "input": "Remove the next stop.",
+    "output": "Next stop removed from your itinerary."
+  },
+  {
+    "input": "Find a parking garage nearby.",
+    "output": "Searching for nearby parking garages."
+  },
+  {
+    "input": "What's the distance to our destination?",
+    "output": "Distance remaining is 10 miles."
+  },
+  {
+    "input": "Show me the map overview.",
+    "output": "Displaying route overview on screen."
+  },
+  {
+    "input": "Is this the fastest way?",
+    "output": "Yes, this is currently the fastest route."
+  },
+  {
+    "input": "Navigate to work.",
+    "output": "Routing to your work address."
+  },
+  {
+    "input": "Avoid unpaved roads.",
+    "output": "Recalculating to avoid unpaved roads."
+  },
+  {
+    "input": "Can we take a more scenic route?",
+    "output": "Searching for scenic route options."
+  },
+  {
+    "input": "When is the next turn?",
+    "output": "Next turn is in half a mile."
+  },
+  {
+    "input": "What's the name of this street?",
+    "output": "This is Elm Street."
+  },
+  {
+    "input": "Take me to my friend John's house.",
+    "output": "Navigating to John's saved address."
+  },
+  {
+    "input": "Start navigation to 10 Downing Street.",
+    "output": "Route to 10 Downing Street initiated."
+  },
+  {
+    "input": "Take me to the nearest coffee shop.",
+    "output": "Searching for coffee shops. Confirming destination."
+  },
+  {
+    "input": "Go home, please.",
+    "output": "Navigating to your saved home address."
+  },
+  {
+    "input": "Change destination to the city library.",
+    "output": "New route to city library calculated."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store to your route."
+  },
+  {
+    "input": "How long until we arrive?",
+    "output": "Estimated arrival in 25 minutes."
+  },
+  {
+    "input": "Can we avoid tolls?",
+    "output": "Recalculating to avoid toll roads."
+  },
+  {
+    "input": "Is there a faster route?",
+    "output": "Checking for quicker route options."
+  },
+  {
+    "input": "Pull over when it's safe.",
+    "output": "Acknowledged. Finding a safe place to stop."
+  },
+  {
+    "input": "Turn left at the next intersection.",
+    "output": "Turning left at the next intersection."
+  },
+  {
+    "input": "Go a bit faster, please.",
+    "output": "Increasing speed, within limits."
+  },
+  {
+    "input": "Slow down, this road is bumpy.",
+    "output": "Decreasing speed now."
+  },
+  {
+    "input": "What's the speed limit here?",
+    "output": "Current speed limit is 45 miles per hour."
+  },
+  {
+    "input": "Open the driver's side window a little.",
+    "output": "Opening driver's window slightly."
+  },
+  {
+    "input": "Set the temperature to 72 degrees.",
+    "output": "Setting cabin temperature to 72 degrees."
+  },
+  {
+    "input": "Play some classical music.",
+    "output": "Playing classical music from your library."
+  },
+  {
+    "input": "Stop navigation.",
+    "output": "Navigation ended. Proceeding manually."
+  },
+  {
+    "input": "Are we on schedule?",
+    "output": "Yes, currently on schedule."
+  },
+  {
+    "input": "What's our current location?",
+    "output": "We are on Main Street, near Elm Avenue."
+  },
+  {
+    "input": "Lock all doors.",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "Can you repeat the last instruction?",
+    "output": "Please prepare to turn right in 500 feet."
+  },
+  {
+    "input": "Find the nearest gas station.",
+    "output": "Searching for nearest gas station."
+  },
+  {
+    "input": "Cancel that last command.",
+    "output": "Command canceled. Reverting."
+  },
+  {
+    "input": "Explain why you're taking this route.",
+    "output": "This route avoids heavy traffic ahead."
+  },
+  {
+    "input": "Turn off the radio.",
+    "output": "Radio turned off."
+  },
+  {
+    "input": "Can you park here?",
+    "output": "This is not a designated parking area."
+  },
+  {
+    "input": "Let's take the scenic route.",
+    "output": "Finding a more scenic route."
+  },
+  {
+    "input": "Report a road hazard ahead.",
+    "output": "Acknowledged. Reporting hazard."
+  },
+  {
+    "input": "Dim the interior lights.",
+    "output": "Dimming interior lights now."
+  },
+  {
+    "input": "Where should I get out?",
+    "output": "We are approaching your destination."
+  },
+  {
+    "input": "Is traffic bad up ahead?",
+    "output": "Moderate traffic detected ahead."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your home address."
+  },
+  {
+    "input": "Navigate to the nearest coffee shop.",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "What's our estimated time of arrival?",
+    "output": "ETA is 3:45 PM."
+  },
+  {
+    "input": "Find a gas station on our route.",
+    "output": "One moment, searching for gas stations."
+  },
+  {
+    "input": "Change destination to the city library.",
+    "output": "Setting destination to the city library."
+  },
+  {
+    "input": "Are there any traffic delays ahead?",
+    "output": "No significant delays reported."
+  },
+  {
+    "input": "Please repeat the last instruction.",
+    "output": "Please turn left in 200 feet."
+  },
+  {
+    "input": "Add a stop at the supermarket.",
+    "output": "Adding supermarket to your route."
+  },
+  {
+    "input": "Cancel current navigation.",
+    "output": "Navigation canceled."
+  },
+  {
+    "input": "How much further until we arrive?",
+    "output": "You will arrive in 15 minutes."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes now."
+  },
+  {
+    "input": "Avoid highways on this trip.",
+    "output": "Adjusting route to avoid highways."
+  },
+  {
+    "input": "Is this the fastest route?",
+    "output": "Yes, this is the fastest route."
+  },
+  {
+    "input": "Turn off voice guidance for now.",
+    "output": "Voice guidance is now off."
+  },
+  {
+    "input": "Where exactly are we right now?",
+    "output": "You are currently on Main Street."
+  },
+  {
+    "input": "Find a parking garage near the destination.",
+    "output": "Searching for parking garages nearby."
+  },
+  {
+    "input": "Can we go a bit faster?",
+    "output": "Adjusting speed to traffic conditions."
+  },
+  {
+    "input": "Go to the airport.",
+    "output": "Which airport do you mean?"
+  },
+  {
+    "input": "Remind me to turn left at the next intersection.",
+    "output": "Acknowledged. Turning left ahead."
+  },
+  {
+    "input": "What's the address of our current destination?",
+    "output": "The address is 123 Oak Avenue."
+  },
+  {
+    "input": "Set my work address as the destination.",
+    "output": "Navigating to your work address."
+  },
+  {
+    "input": "Are there any tolls on this route?",
+    "output": "No tolls on this specific route."
+  },
+  {
+    "input": "Can you display the map in 3D?",
+    "output": "Map displayed in 3D."
+  },
+  {
+    "input": "Make the voice guidance louder.",
+    "output": "Voice guidance volume increased."
+  },
+  {
+    "input": "I need to make an emergency stop.",
+    "output": "Pulling over to the nearest safe location."
+  },
+  {
+    "input": "How long will this stop take?",
+    "output": "Approximately 10 minutes at this stop."
+  },
+  {
+    "input": "Remove the next stop from the itinerary.",
+    "output": "Next stop removed from your route."
+  },
+  {
+    "input": "Show me points of interest along the way.",
+    "output": "Displaying points of interest."
+  },
+  {
+    "input": "Start navigation from my current location.",
+    "output": "Navigation starting from here."
+  },
+  {
+    "input": "Is there a scenic route available?",
+    "output": "Searching for scenic route options."
+  },
+  {
+    "input": "Take me to 10 Downing Street.",
+    "output": "Navigating to 10 Downing Street."
+  },
+  {
+    "input": "What's the fastest way to the airport?",
+    "output": "Calculating the fastest route to the airport."
+  },
+  {
+    "input": "Find the nearest coffee shop.",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "Add a stop at the post office.",
+    "output": "Adding post office to your route."
+  },
+  {
+    "input": "Cancel the current navigation.",
+    "output": "Navigation canceled. Where would you like to go?"
+  },
+  {
+    "input": "How long until we arrive?",
+    "output": "Estimated arrival in 25 minutes."
+  },
+  {
+    "input": "Avoid toll roads on this trip.",
+    "output": "Updating route to avoid tolls."
+  },
+  {
+    "input": "Where am I right now?",
+    "output": "You are currently on Elm Street."
+  },
+  {
+    "input": "Go home.",
+    "output": "Heading home now."
+  },
+  {
+    "input": "Are there any gas stations nearby?",
+    "output": "Displaying nearby gas stations."
+  },
+  {
+    "input": "Change my destination to Central Park.",
+    "output": "Destination updated to Central Park."
+  },
+  {
+    "input": "What's the traffic situation ahead?",
+    "output": "Traffic appears light ahead."
+  },
+  {
+    "input": "Show me alternate routes.",
+    "output": "Calculating alternative routes."
+  },
+  {
+    "input": "Pause navigation.",
+    "output": "Navigation paused. Ready to resume?"
+  },
+  {
+    "input": "Resume guidance.",
+    "output": "Resuming navigation now."
+  },
+  {
+    "input": "I need to find a pharmacy.",
+    "output": "Searching for the nearest pharmacy."
+  },
+  {
+    "input": "Can we take a more scenic route?",
+    "output": "Searching for a scenic route option."
+  },
+  {
+    "input": "Is this the shortest route?",
+    "output": "Yes, this is currently the shortest route."
+  },
+  {
+    "input": "Take me to my friend John's house.",
+    "output": "Navigating to John's address."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn left on Maple Avenue."
+  },
+  {
+    "input": "Mute voice guidance.",
+    "output": "Voice guidance muted."
+  },
+  {
+    "input": "Unmute navigation voice.",
+    "output": "Voice guidance unmuted."
+  },
+  {
+    "input": "Show me restaurants that are open late.",
+    "output": "Searching for late-night restaurants."
+  },
+  {
+    "input": "Remove the stop at the grocery store.",
+    "output": "Grocery store stop removed."
+  },
+  {
+    "input": "I want to go to the Eiffel Tower.",
+    "output": "Navigating to the Eiffel Tower."
+  },
+  {
+    "input": "What's my estimated time of arrival?",
+    "output": "You will arrive around 4:15 PM."
+  },
+  {
+    "input": "Find a parking garage near my destination.",
+    "output": "Searching for nearby parking garages."
+  },
+  {
+    "input": "Is there a way to avoid this construction?",
+    "output": "Checking for routes around construction."
+  },
+  {
+    "input": "Confirm this destination.",
+    "output": "Destination confirmed: Main Street."
+  },
+  {
+    "input": "I think I missed my exit.",
+    "output": "Recalculating route. Please make a U-turn."
+  },
+  {
+    "input": "Navigate to 123 Main Street, Anytown.",
+    "output": "Setting destination to 123 Main Street."
+  },
+  {
+    "input": "Take me to the nearest gas station.",
+    "output": "Navigating to the closest gas station."
+  },
+  {
+    "input": "Find a coffee shop nearby.",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "Go to the place I went yesterday.",
+    "output": "Confirming destination from your history."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your home address."
+  },
+  {
+    "input": "I want to go to the park.",
+    "output": "Which park would you like?"
+  },
+  {
+    "input": "Set a new destination.",
+    "output": "Please provide the address or name."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation has been cancelled."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store as a stop."
+  },
+  {
+    "input": "Avoid highways on this route.",
+    "output": "Recalculating to avoid highways."
+  },
+  {
+    "input": "Find a faster route to avoid traffic.",
+    "output": "Searching for faster route options."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes now."
+  },
+  {
+    "input": "What's my estimated arrival time?",
+    "output": "You will arrive at your destination soon."
+  },
+  {
+    "input": "How far is it to my destination?",
+    "output": "Remaining distance is available on screen."
+  },
+  {
+    "input": "Where am I right now?",
+    "output": "Your current location is displayed."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn as instructed."
+  },
+  {
+    "input": "Is there traffic ahead?",
+    "output": "Moderate traffic reported ahead."
+  },
+  {
+    "input": "How much longer until we get there?",
+    "output": "Remaining travel time is available."
+  },
+  {
+    "input": "Pause navigation.",
+    "output": "Navigation is paused."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Navigation resumed."
+  },
+  {
+    "input": "End navigation.",
+    "output": "Navigation has ended."
+  },
+  {
+    "input": "Go to the library.",
+    "output": "Please specify which library."
+  },
+  {
+    "input": "Are we going to the grocery store now?",
+    "output": "Yes, proceeding to the grocery store."
+  },
+  {
+    "input": "Repeat the last instruction.",
+    "output": "Repeating last instruction."
+  },
+  {
+    "input": "Show me the map.",
+    "output": "Displaying navigation map."
+  },
+  {
+    "input": "Zoom in on the map.",
+    "output": "Zooming in on the map."
+  },
+  {
+    "input": "Find parking near my destination.",
+    "output": "Searching for nearby parking options."
+  },
+  {
+    "input": "Change the navigation voice.",
+    "output": "Please choose a new voice."
+  },
+  {
+    "input": "Is this the fastest way?",
+    "output": "Yes, this is currently the fastest route."
+  },
+  {
+    "input": "Help.",
+    "output": "How can I assist you?"
+  },
+  {
+    "input": "Navigate to Central Park.",
+    "output": "Setting destination to Central Park. Confirm?"
+  },
+  {
+    "input": "Actually, let's go to the airport instead.",
+    "output": "Changing destination to the airport."
+  },
+  {
+    "input": "Add a stop at the grocery store on the way.",
+    "output": "Adding grocery store to your route."
+  },
+  {
+    "input": "Cancel the next stop, please.",
+    "output": "Removing the upcoming stop."
+  },
+  {
+    "input": "What's our estimated arrival time?",
+    "output": "Estimated arrival is 4:30 PM."
+  },
+  {
+    "input": "Show me the current route.",
+    "output": "Displaying your current route."
+  },
+  {
+    "input": "Can we avoid toll roads?",
+    "output": "Recalculating to avoid all tolls."
+  },
+  {
+    "input": "Please take surface streets, no highways.",
+    "output": "Avoiding highways on this route."
+  },
+  {
+    "input": "Are there any alternative routes with less traffic?",
+    "output": "Searching for alternative, less congested routes."
+  },
+  {
+    "input": "Could you go a little faster, please?",
+    "output": "Increasing speed slightly."
+  },
+  {
+    "input": "Slow down a bit, I'm not in a hurry.",
+    "output": "Decreasing speed to a relaxed pace."
+  },
+  {
+    "input": "Try for a smoother ride, if possible.",
+    "output": "Prioritizing a smoother driving style."
+  },
+  {
+    "input": "Change to the left lane when safe.",
+    "output": "Executing left lane change when safe."
+  },
+  {
+    "input": "Pull over and stop right here.",
+    "output": "Stopping safely at this location."
+  },
+  {
+    "input": "Find me the nearest parking garage.",
+    "output": "Searching for nearby parking garages."
+  },
+  {
+    "input": "Okay, I'm ready. Let's go.",
+    "output": "Resuming journey now."
+  },
+  {
+    "input": "Wait here for five minutes.",
+    "output": "Waiting here for five minutes."
+  },
+  {
+    "input": "Where exactly are we right now?",
+    "output": "You are currently on Main Street."
+  },
+  {
+    "input": "What's the traffic like ahead?",
+    "output": "Traffic ahead is moderate."
+  },
+  {
+    "input": "Excuse me, what was that last instruction?",
+    "output": "I said 'Turn right at the next intersection'."
+  },
+  {
+    "input": "Cancel that last command, please.",
+    "output": "Canceling the previous command."
+  },
+  {
+    "input": "Turn the navigation voice back on.",
+    "output": "Navigation voice is now on."
+  },
+  {
+    "input": "Mute the navigation voice.",
+    "output": "Navigation voice muted."
+  },
+  {
+    "input": "Proceed to pick up my passenger.",
+    "output": "Proceeding to passenger pickup location."
+  },
+  {
+    "input": "Turn up the volume for navigation prompts.",
+    "output": "Increasing navigation volume."
+  },
+  {
+    "input": "Why are we stopping here?",
+    "output": "Stopping for a red light."
+  },
+  {
+    "input": "Is there a gas station near our route?",
+    "output": "Searching for gas stations on your route."
+  },
+  {
+    "input": "Let's start the trip.",
+    "output": "Starting your trip now."
+  },
+  {
+    "input": "Park in that open spot over there.",
+    "output": "Attempting to park in the specified spot."
+  },
+  {
+    "input": "Take the next highway exit.",
+    "output": "Taking the next exit."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Confirming route to home."
+  },
+  {
+    "input": "Navigate to the nearest coffee shop.",
+    "output": "Searching for coffee shops."
+  },
+  {
+    "input": "What's the estimated time of arrival?",
+    "output": "ETA is 25 minutes."
+  },
+  {
+    "input": "Change destination to the airport.",
+    "output": "Setting course for airport."
+  },
+  {
+    "input": "Are there any traffic delays ahead?",
+    "output": "No significant delays reported."
+  },
+  {
+    "input": "Find a gas station on our route.",
+    "output": "Searching for gas stations."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store to route."
+  },
+  {
+    "input": "Cancel the current trip.",
+    "output": "Route cancelled. Where next?"
+  },
+  {
+    "input": "Repeat the last instruction.",
+    "output": "Repeating last instruction."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes."
+  },
+  {
+    "input": "Avoid highways on this trip.",
+    "output": "Adjusting route to avoid highways."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Next, turn right in half a mile."
+  },
+  {
+    "input": "Go to 123 Main Street, Anytown.",
+    "output": "Navigating to 123 Main Street."
+  },
+  {
+    "input": "How much longer will this take?",
+    "output": "You will arrive in 18 minutes."
+  },
+  {
+    "input": "Silence navigation prompts.",
+    "output": "Navigation voice muted."
+  },
+  {
+    "input": "Unmute navigation.",
+    "output": "Navigation voice resumed."
+  },
+  {
+    "input": "Find the nearest electric charging station.",
+    "output": "Searching for charging stations."
+  },
+  {
+    "input": "Is this the fastest route?",
+    "output": "Yes, this is the fastest available route."
+  },
+  {
+    "input": "Pull over when safe.",
+    "output": "Pulling over shortly."
+  },
+  {
+    "input": "Stop here.",
+    "output": "Stopping now."
+  },
+  {
+    "input": "Zoom in on the map.",
+    "output": "Map zoomed in."
+  },
+  {
+    "input": "Zoom out.",
+    "output": "Map zoomed out."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "Current location displayed."
+  },
+  {
+    "input": "Are we on schedule?",
+    "output": "Currently on schedule."
+  },
+  {
+    "input": "What's our current speed?",
+    "output": "Current speed is 45 miles per hour."
+  },
+  {
+    "input": "Take the scenic route.",
+    "output": "Searching for scenic route options."
+  },
+  {
+    "input": "Can you find a parking spot near our destination?",
+    "output": "Searching for nearby parking."
+  },
+  {
+    "input": "How far have we traveled?",
+    "output": "Traveled 15 miles so far."
+  },
+  {
+    "input": "Optimize the route for fuel efficiency.",
+    "output": "Optimizing route for efficiency."
+  },
+  {
+    "input": "Show me points of interest.",
+    "output": "Displaying nearby points of interest."
+  },
+  {
+    "input": "Navigate to 123 Main Street, Anytown.",
+    "output": "Destination set. Routing to 123 Main Street."
+  },
+  {
+    "input": "Take me to the nearest Starbucks.",
+    "output": "Finding nearest Starbucks. Routing now."
+  },
+  {
+    "input": "Go home.",
+    "output": "Navigating to home. ETA 25 minutes."
+  },
+  {
+    "input": "Drive to work.",
+    "output": "Routing to work. Expect traffic delays."
+  },
+  {
+    "input": "Navigate to the last restaurant I visited.",
+    "output": "Confirming last restaurant. Routing initiated."
+  },
+  {
+    "input": "Take me to the mall.",
+    "output": "Multiple malls found. Please specify."
+  },
+  {
+    "input": "Is this address correct? 456 Oak Avenue.",
+    "output": "Yes, 456 Oak Avenue is the current destination."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation canceled. Destination cleared."
+  },
+  {
+    "input": "Pause navigation.",
+    "output": "Navigation paused. Resuming when ready."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Navigation resumed. Proceed to route."
+  },
+  {
+    "input": "What's my estimated arrival time?",
+    "output": "Your estimated arrival time is 3:45 PM."
+  },
+  {
+    "input": "How much further do we have to go?",
+    "output": "You have 15 miles remaining."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Turn left in 500 feet."
+  },
+  {
+    "input": "Avoid tolls on this route.",
+    "output": "Recalculating route to avoid tolls."
+  },
+  {
+    "input": "No highways, please.",
+    "output": "Adjusting route to avoid highways."
+  },
+  {
+    "input": "Find a gas station nearby.",
+    "output": "Searching for gas stations. Displaying options."
+  },
+  {
+    "input": "Where can I get some lunch?",
+    "output": "Searching for nearby restaurants. Displaying results."
+  },
+  {
+    "input": "What's the current speed limit?",
+    "output": "The current speed limit is 45 miles per hour."
+  },
+  {
+    "input": "Change destination to the airport.",
+    "output": "Understood. Routing to the airport now."
+  },
+  {
+    "input": "Are there any alternative routes?",
+    "output": "Checking for alternatives. One found, displaying now."
+  },
+  {
+    "input": "Zoom in on the map.",
+    "output": "Map zoomed in."
+  },
+  {
+    "input": "Zoom out.",
+    "output": "Map zoomed out."
+  },
+  {
+    "input": "Mute navigation voice.",
+    "output": "Voice guidance muted."
+  },
+  {
+    "input": "Unmute the navigation.",
+    "output": "Voice guidance unmuted."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "You are currently on Elm Street, Anytown."
+  },
+  {
+    "input": "Is there traffic ahead?",
+    "output": "No significant traffic reported on your route."
+  },
+  {
+    "input": "Pull over when it's safe.",
+    "output": "Acknowledged. Looking for a safe place to stop."
+  },
+  {
+    "input": "Ignore that last turn, I want to go straight.",
+    "output": "Recalculating route based on your input."
+  },
+  {
+    "input": "What can I ask you to do?",
+    "output": "I can assist with navigation and vehicle controls."
+  },
+  {
+    "input": "Add a stop at the post office.",
+    "output": "Adding post office as a stop. Recalculating route."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating home. Please confirm."
+  },
+  {
+    "input": "Go to the nearest gas station.",
+    "output": "Finding nearest gas station. Confirm selection."
+  },
+  {
+    "input": "Set destination to 123 Main Street, Anytown.",
+    "output": "Route to Main Street, Anytown. Starting now."
+  },
+  {
+    "input": "How far until we arrive?",
+    "output": "Approximately 15 miles remaining."
+  },
+  {
+    "input": "Are we on the fastest route?",
+    "output": "Yes, currently on the fastest route."
+  },
+  {
+    "input": "Avoid highways on this trip.",
+    "output": "Avoiding highways. Recalculating route."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Searching for nearby grocery stores."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Turn left in 500 feet."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation canceled. Drive safe."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes now."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "You are currently on Oak Avenue."
+  },
+  {
+    "input": "Increase the navigation volume.",
+    "output": "Navigation volume increased."
+  },
+  {
+    "input": "Pause navigation instructions.",
+    "output": "Navigation instructions paused."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Navigation instructions resumed."
+  },
+  {
+    "input": "Find a coffee shop near here.",
+    "output": "Searching for coffee shops nearby."
+  },
+  {
+    "input": "How long until we get there?",
+    "output": "Estimated arrival in 25 minutes."
+  },
+  {
+    "input": "Change my destination to the airport.",
+    "output": "Setting airport as new destination."
+  },
+  {
+    "input": "Is there traffic ahead?",
+    "output": "Minor traffic ahead. No delays expected."
+  },
+  {
+    "input": "Go to my office.",
+    "output": "Navigating to your office. Proceeding."
+  },
+  {
+    "input": "Can you repeat that?",
+    "output": "Turn right in 300 feet."
+  },
+  {
+    "input": "Avoid toll roads.",
+    "output": "Toll roads avoided. Recalculating."
+  },
+  {
+    "input": "Show me the map.",
+    "output": "Displaying map view now."
+  },
+  {
+    "input": "Zoom in on the map.",
+    "output": "Map zoomed in."
+  },
+  {
+    "input": "Zoom out.",
+    "output": "Map zoomed out."
+  },
+  {
+    "input": "Are we almost there?",
+    "output": "You will arrive in 5 minutes."
+  },
+  {
+    "input": "Clear all stops.",
+    "output": "All intermediate stops cleared."
+  },
+  {
+    "input": "Find parking near the destination.",
+    "output": "Searching for nearby parking."
+  },
+  {
+    "input": "What's the speed limit here?",
+    "output": "Current speed limit is 45 MPH."
+  },
+  {
+    "input": "I want to go to the city center.",
+    "output": "Navigating to city center. Please confirm."
+  },
+  {
+    "input": "Stop navigation voice guidance.",
+    "output": "Voice guidance turned off."
+  },
+  {
+    "input": "Take me home.",
+    "output": "Navigating to your home address."
+  },
+  {
+    "input": "Set the destination to the nearest coffee shop.",
+    "output": "Finding the closest coffee shop."
+  },
+  {
+    "input": "Change destination to 123 Main Street.",
+    "output": "Updating destination to Main Street."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation canceled. Where to next?"
+  },
+  {
+    "input": "What's our estimated arrival time?",
+    "output": "You will arrive at 3:45 PM."
+  },
+  {
+    "input": "How far are we from our destination?",
+    "output": "Fifty miles remaining."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "You are currently on Oak Avenue."
+  },
+  {
+    "input": "Is there any traffic ahead?",
+    "output": "No significant delays reported."
+  },
+  {
+    "input": "Show me alternative routes.",
+    "output": "Displaying alternative routes now."
+  },
+  {
+    "input": "Add a stop at the gas station.",
+    "output": "Adding a stop for fuel."
+  },
+  {
+    "input": "How fast are we going?",
+    "output": "Current speed is 45 miles per hour."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Turn left in 200 feet."
+  },
+  {
+    "input": "Please slow down a bit.",
+    "output": "Decreasing speed slightly."
+  },
+  {
+    "input": "Pull over when it's safe.",
+    "output": "Acknowledged. Looking for a safe spot."
+  },
+  {
+    "input": "Find parking near the destination.",
+    "output": "Searching for nearby parking."
+  },
+  {
+    "input": "How much battery is left?",
+    "output": "Battery charge is 70%."
+  },
+  {
+    "input": "Are there any restaurants nearby?",
+    "output": "Searching for nearby restaurants."
+  },
+  {
+    "input": "Zoom out on the map.",
+    "output": "Map view adjusted."
+  },
+  {
+    "input": "Repeat the last instruction.",
+    "output": "Turn right at the next intersection."
+  },
+  {
+    "input": "Okay, that sounds good.",
+    "output": "Understood."
+  },
+  {
+    "input": "Take me to the big blue building.",
+    "output": "Please specify a more precise address."
+  },
+  {
+    "input": "Go to the moon.",
+    "output": "That destination is unreachable by road."
+  },
+  {
+    "input": "Can you hear me?",
+    "output": "Yes, I hear you clearly."
+  },
+  {
+    "input": "I had a great day today.",
+    "output": "That's good to hear."
+  },
+  {
+    "input": "Set destination to the mall, and avoid highways.",
+    "output": "Navigating to the mall, avoiding highways."
+  },
+  {
+    "input": "Find a scenic route to the coast.",
+    "output": "Searching for scenic routes to the coast."
+  },
+  {
+    "input": "Where did we go yesterday?",
+    "output": "Checking your recent destinations."
+  },
+  {
+    "input": "Confirm the stop at the grocery store.",
+    "output": "Grocery store stop confirmed."
+  },
+  {
+    "input": "What are the road conditions like ahead?",
+    "output": "Roads are clear, no issues reported."
+  },
+  {
+    "input": "The navigation seems a bit off.",
+    "output": "I am recalculating your route."
+  },
+  {
+    "input": "Take me to 123 Main Street, New York.",
+    "output": "Navigating to 123 Main Street."
+  },
+  {
+    "input": "Navigate to the nearest coffee shop.",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "Go home.",
+    "output": "Heading home now."
+  },
+  {
+    "input": "Set destination to the Grand Hotel.",
+    "output": "Confirming route to Grand Hotel."
+  },
+  {
+    "input": "I need to go to the airport.",
+    "output": "Route to airport calculated."
+  },
+  {
+    "input": "Add a stop at the gas station.",
+    "output": "Adding gas station to route."
+  },
+  {
+    "input": "Change my destination to Central Park.",
+    "output": "Route updated to Central Park."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation cancelled."
+  },
+  {
+    "input": "Remove the next stop from my route.",
+    "output": "Next stop removed."
+  },
+  {
+    "input": "Find an alternative route.",
+    "output": "Searching for alternative routes."
+  },
+  {
+    "input": "What's my estimated time of arrival?",
+    "output": "ETA is 3:45 PM."
+  },
+  {
+    "input": "Are there any traffic delays ahead?",
+    "output": "Traffic ahead, rerouting."
+  },
+  {
+    "input": "How far is my destination from here?",
+    "output": "Destination is 15 miles away."
+  },
+  {
+    "input": "Avoid toll roads on this trip.",
+    "output": "Avoiding toll roads."
+  },
+  {
+    "input": "What's the speed limit here?",
+    "output": "Current speed limit is 45."
+  },
+  {
+    "input": "Where can I find a charging station?",
+    "output": "Searching for charging stations."
+  },
+  {
+    "input": "Show me nearby restaurants.",
+    "output": "Displaying nearby restaurants."
+  },
+  {
+    "input": "I need to find a pharmacy quickly.",
+    "output": "Searching for pharmacies."
+  },
+  {
+    "input": "Repeat the last instruction.",
+    "output": "Turn left in 200 feet."
+  },
+  {
+    "input": "Mute the navigation voice.",
+    "output": "Navigation voice muted."
+  },
+  {
+    "input": "Unmute navigation.",
+    "output": "Navigation voice unmuted."
+  },
+  {
+    "input": "Zoom in on the map.",
+    "output": "Map zoomed in."
+  },
+  {
+    "input": "Show me the full route overview.",
+    "output": "Displaying full route."
+  },
+  {
+    "input": "What's the next turn I should take?",
+    "output": "Next turn is right in one mile."
+  },
+  {
+    "input": "Where am I right now?",
+    "output": "You are on Elm Street."
+  },
+  {
+    "input": "Take the next exit.",
+    "output": "Taking next exit now."
+  },
+  {
+    "input": "Pull over when safe.",
+    "output": "Pulling over when safe."
+  },
+  {
+    "input": "Resume driving.",
+    "output": "Resuming route."
+  },
+  {
+    "input": "Stop the car immediately.",
+    "output": "Stopping the vehicle safely."
+  },
+  {
+    "input": "Yes, confirm that.",
+    "output": "Confirmed."
+  },
+  {
+    "input": "Navigate to the Space Needle.",
+    "output": "Routing to the Space Needle."
+  },
+  {
+    "input": "Take me to 123 Main Street, Anytown.",
+    "output": "Confirming destination: 123 Main Street."
+  },
+  {
+    "input": "Go home.",
+    "output": "Driving you home."
+  },
+  {
+    "input": "Pause navigation.",
+    "output": "Navigation paused. Resume when ready."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Navigation resumed."
+  },
+  {
+    "input": "Cancel the current trip.",
+    "output": "Trip canceled."
+  },
+  {
+    "input": "What's my estimated arrival time?",
+    "output": "You will arrive at 3:30 PM."
+  },
+  {
+    "input": "How far is it to the destination?",
+    "output": "25 miles remaining."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Turn left in 500 feet."
+  },
+  {
+    "input": "Avoid tolls on this route.",
+    "output": "Rerouting to avoid tolls."
+  },
+  {
+    "input": "Can we avoid highways?",
+    "output": "Adjusting route to avoid highways."
+  },
+  {
+    "input": "Add a stop at the nearest gas station.",
+    "output": "Adding gas station to your route."
+  },
+  {
+    "input": "Find a gas station nearby.",
+    "output": "Searching for nearby gas stations."
+  },
+  {
+    "input": "Where's a good restaurant for dinner?",
+    "output": "Searching for restaurants along your route."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "You are currently on Elm Street."
+  },
+  {
+    "input": "Is this the fastest route?",
+    "output": "Yes, this is the fastest available route."
+  },
+  {
+    "input": "Can we take a more scenic route?",
+    "output": "Searching for scenic route options."
+  },
+  {
+    "input": "Can you drive a bit slower?",
+    "output": "Adjusting speed for comfort."
+  },
+  {
+    "input": "Let's speed up if possible.",
+    "output": "Increasing speed where permitted."
+  },
+  {
+    "input": "Change my destination to the airport.",
+    "output": "Routing to the airport."
+  },
+  {
+    "input": "Is there traffic up ahead?",
+    "output": "Moderate traffic reported ahead."
+  },
+  {
+    "input": "Reroute me.",
+    "output": "Rerouting to optimize for traffic."
+  },
+  {
+    "input": "Look for a pharmacy.",
+    "output": "Searching for nearby pharmacies."
+  },
+  {
+    "input": "Pull over and stop here.",
+    "output": "Stopping safely at the curb."
+  },
+  {
+    "input": "Take me to work.",
+    "output": "Driving to your workplace."
+  },
+  {
+    "input": "Show me the entire route.",
+    "output": "Displaying full route on screen."
+  },
+  {
+    "input": "Remove the next stop.",
+    "output": "Removing next stop from trip."
+  },
+  {
+    "input": "What's around here?",
+    "output": "Displaying points of interest nearby."
+  },
+  {
+    "input": "Okay, sounds good.",
+    "output": "Understood. Proceeding as planned."
+  },
+  {
+    "input": "This road is really bumpy.",
+    "output": "Adjusting suspension for smoother ride."
+  },
+  {
+    "input": "Take me to 123 Main Street.",
+    "output": "Navigating to 123 Main Street."
+  },
+  {
+    "input": "Find the nearest coffee shop.",
+    "output": "Searching for nearby coffee shops."
+  },
+  {
+    "input": "Go home, please.",
+    "output": "Navigating to your home address."
+  },
+  {
+    "input": "Take me to work.",
+    "output": "Routing to your work address."
+  },
+  {
+    "input": "Let's go back to the restaurant we went to yesterday.",
+    "output": "Confirming yesterday's restaurant as destination."
+  },
+  {
+    "input": "Navigate to Central Park.",
+    "output": "Navigating to Central Park."
+  },
+  {
+    "input": "Open Google Maps and start navigation to the airport.",
+    "output": "Starting navigation to airport in Google Maps."
+  },
+  {
+    "input": "Add a stop at the gas station before we get there.",
+    "output": "Adding a gas station stop to your route."
+  },
+  {
+    "input": "Actually, change my destination to the library.",
+    "output": "Updating destination to the library."
+  },
+  {
+    "input": "Cancel navigation.",
+    "output": "Navigation cancelled."
+  },
+  {
+    "input": "Where's the closest gas station?",
+    "output": "Searching for nearest gas stations."
+  },
+  {
+    "input": "I'm hungry, find a restaurant.",
+    "output": "Searching for nearby restaurants."
+  },
+  {
+    "input": "Avoid tolls on this route.",
+    "output": "Adjusting route to avoid tolls."
+  },
+  {
+    "input": "Please don't use highways.",
+    "output": "Routing without using highways."
+  },
+  {
+    "input": "What's our estimated time of arrival?",
+    "output": "Estimated arrival is 4:30 PM."
+  },
+  {
+    "input": "Where are we right now?",
+    "output": "Currently on Oak Street, near Maple Avenue."
+  },
+  {
+    "input": "How much further?",
+    "output": "Fifty-five miles remaining."
+  },
+  {
+    "input": "Is there traffic ahead?",
+    "output": "Moderate traffic reported ahead."
+  },
+  {
+    "input": "What's the next turn?",
+    "output": "Turn right in 300 feet."
+  },
+  {
+    "input": "Silence navigation voice.",
+    "output": "Navigation voice muted."
+  },
+  {
+    "input": "Turn the voice back on.",
+    "output": "Navigation voice unmuted."
+  },
+  {
+    "input": "Repeat that, please.",
+    "output": "Repeating last instruction."
+  },
+  {
+    "input": "Show me a 3D map view.",
+    "output": "Switching to 3D map view."
+  },
+  {
+    "input": "Pause navigation for a moment.",
+    "output": "Navigation paused."
+  },
+  {
+    "input": "Resume navigation.",
+    "output": "Resuming navigation."
+  },
+  {
+    "input": "Take me to the park.",
+    "output": "Which park are you referring to?"
+  },
+  {
+    "input": "Go to Main Street.",
+    "output": "Please specify a street number."
+  },
+  {
+    "input": "Yes, that's correct.",
+    "output": "Understood. Proceeding with route."
+  },
+  {
+    "input": "Are we taking the fastest route?",
+    "output": "Yes, this is the fastest available route."
+  },
+  {
+    "input": "Looks good. Let's go.",
+    "output": "Understood. Beginning journey now."
+  },
+  {
+    "input": "Take me to the Empire State Building.",
+    "output": "Setting destination. Confirming route."
+  },
+  {
+    "input": "Go home, please.",
+    "output": "Navigating to home address."
+  },
+  {
+    "input": "Change destination to the nearest Starbucks.",
+    "output": "Locating nearest Starbucks. Updating route."
+  },
+  {
+    "input": "Add a stop at 123 Main Street.",
+    "output": "Adding stop. Route updated."
+  },
+  {
+    "input": "Cancel this trip.",
+    "output": "Trip cancelled. Ready for new instructions."
+  },
+  {
+    "input": "What's the estimated arrival time?",
+    "output": "Estimated arrival is 2:30 PM."
+  },
+  {
+    "input": "How far is it to our destination?",
+    "output": "Approximately 15 miles remaining."
+  },
+  {
+    "input": "Are we almost there?",
+    "output": "Arriving in 5 minutes."
+  },
+  {
+    "input": "Avoid toll roads.",
+    "output": "Toll roads avoided. Route adjusted."
+  },
+  {
+    "input": "Find the fastest route, please.",
+    "output": "Calculating fastest route now."
+  },
+  {
+    "input": "Pull over when it's safe.",
+    "output": "Pulling over at next safe location."
+  },
+  {
+    "input": "Stop right here.",
+    "output": "Stopping safely now."
+  },
+  {
+    "input": "Slow down a bit.",
+    "output": "Decreasing speed."
+  },
+  {
+    "input": "Can you go a little faster?",
+    "output": "Increasing speed when safe."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "Air conditioning activated."
+  },
+  {
+    "input": "Set the temperature to 72 degrees.",
+    "output": "Temperature set to 72 degrees."
+  },
+  {
+    "input": "Unlock all doors.",
+    "output": "Doors unlocked."
+  },
+  {
+    "input": "Open the passenger window.",
+    "output": "Opening passenger window."
+  },
+  {
+    "input": "Find the nearest gas station.",
+    "output": "Locating nearest gas station."
+  },
+  {
+    "input": "Where's a good place for lunch?",
+    "output": "Searching for highly-rated restaurants nearby."
+  },
+  {
+    "input": "Find parking near this address.",
+    "output": "Searching for available parking."
+  },
+  {
+    "input": "Yes, confirm.",
+    "output": "Confirmed. Proceeding."
+  },
+  {
+    "input": "No, don't do that.",
+    "output": "Instruction cancelled."
+  },
+  {
+    "input": "Thank you.",
+    "output": "You're welcome."
+  },
+  {
+    "input": "Can you repeat that?",
+    "output": "Repeating last instruction."
+  },
+  {
+    "input": "I need to go to the hospital immediately.",
+    "output": "Navigating to nearest hospital. Emergency protocol initiated."
+  },
+  {
+    "input": "Is it safe to get out here?",
+    "output": "This is a safe drop-off location."
+  },
+  {
+    "input": "Dim the interior lights.",
+    "output": "Dimming interior lights."
+  },
+  {
+    "input": "Show me the route on the screen.",
+    "output": "Displaying route on screen."
+  },
+  {
+    "input": "Where is the closest charging station?",
+    "output": "Locating nearest charging station."
+  },
+  {
+    "input": "Take me to the nearest gas station.",
+    "output": "Finding nearest gas station. Confirm destination?"
+  },
+  {
+    "input": "Navigate to 123 Main Street, Anytown.",
+    "output": "Route to 123 Main Street set."
+  },
+  {
+    "input": "Go home.",
+    "output": "Routing to your home address."
+  },
+  {
+    "input": "Drive me to work.",
+    "output": "Setting route to your workplace."
+  },
+  {
+    "input": "What's the address of our next stop?",
+    "output": "The next stop is 456 Elm Avenue."
+  },
+  {
+    "input": "Change destination to the airport.",
+    "output": "Route updated to the airport."
+  },
+  {
+    "input": "Take me to the coffee shop I went to yesterday.",
+    "output": "Navigating to your recent coffee shop."
+  },
+  {
+    "input": "Add a stop at the grocery store.",
+    "output": "Adding grocery store to your route."
+  },
+  {
+    "input": "Avoid tolls on this route.",
+    "output": "Recalculating to avoid tolls."
+  },
+  {
+    "input": "Find the fastest route.",
+    "output": "Calculating the fastest route now."
+  }
+]

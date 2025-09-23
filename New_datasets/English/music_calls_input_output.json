@@ -1,0 +1,2882 @@
+[
+  {
+    "input": "Play something upbeat.",
+    "output": "Playing 'Happy' by Pharrell Williams on Spotify."
+  },
+  {
+    "input": "Tune to FM 97.5.",
+    "output": "Switching to FM 97.5."
+  },
+  {
+    "input": "Increase the volume.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Set volume to 80%.",
+    "output": "Sorry, 80% is too high for safe driving. Setting to 60%."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Skip this song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Play my 'Workout Jams' playlist on Spotify.",
+    "output": "Playing 'Workout Jams' on Spotify."
+  },
+  {
+    "input": "I want to hear some classical music.",
+    "output": "Playing classical radio on Spotify."
+  },
+  {
+    "input": "What's this song?",
+    "output": "This is 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Can you turn the volume down a bit?",
+    "output": "Volume lowered."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Play the album 'Thriller' by Michael Jackson.",
+    "output": "Playing 'Thriller' on Spotify."
+  },
+  {
+    "input": "Switch to USB audio.",
+    "output": "Switching to USB audio."
+  },
+  {
+    "input": "Play that explicit song I like.",
+    "output": "Sorry, parental controls prevent playing explicit content."
+  },
+  {
+    "input": "Set volume to maximum.",
+    "output": "Maximum volume denied for hearing protection."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom. Mobile."
+  },
+  {
+    "input": "Dial 555-123-4567.",
+    "output": "Calling 555-123-4567."
+  },
+  {
+    "input": "Redial last number.",
+    "output": "Redialing your last outgoing call."
+  },
+  {
+    "input": "Answer the call.",
+    "output": "Call answered."
+  },
+  {
+    "input": "Decline the incoming call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Call emergency services.",
+    "output": "Calling emergency services. Please confirm."
+  },
+  {
+    "input": "Find John Smith in my contacts.",
+    "output": "Found John Smith. Do you want to call?"
+  },
+  {
+    "input": "Call the dentist.",
+    "output": "Calling Dentist's office."
+  },
+  {
+    "input": "Call my ex-boyfriend.",
+    "output": "Sorry, that contact is blocked."
+  },
+  {
+    "input": "Record this call.",
+    "output": "Sorry, call recording is not allowed for privacy reasons."
+  },
+  {
+    "input": "Call a premium rate number.",
+    "output": "Premium rate calls are disabled. Please check settings."
+  },
+  {
+    "input": "Call my work number, internal line 456.",
+    "output": "Calling work number, internal line 456."
+  },
+  {
+    "input": "Can I call a number not in my contacts?",
+    "output": "Yes, just say 'Dial' followed by the number."
+  },
+  {
+    "input": "Hang up the phone.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Can you override the speed limit warning?",
+    "output": "Sorry, safety features cannot be disabled by voice command."
+  },
+  {
+    "input": "Play some upbeat music, please.",
+    "output": "Playing 'Upbeat Pop' playlist."
+  },
+  {
+    "input": "Tune to FM 99.1.",
+    "output": "Switching to FM 99.1."
+  },
+  {
+    "input": "A little louder, please.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Call Dad.",
+    "output": "Calling Dad."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Answer the phone.",
+    "output": "Connecting call."
+  },
+  {
+    "input": "Switch to Spotify.",
+    "output": "Switching to Spotify."
+  },
+  {
+    "input": "Play the latest by Taylor Swift.",
+    "output": "Playing 'The Tortured Poets Department' by Taylor Swift."
+  },
+  {
+    "input": "Skip this song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Reject the call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Turn down the volume a bit.",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Redial last number.",
+    "output": "Redialing last outgoing call."
+  },
+  {
+    "input": "Start my 'Workout Jams' playlist.",
+    "output": "Playing 'Workout Jams' on Spotify."
+  },
+  {
+    "input": "Call 555-876-5432.",
+    "output": "Calling 555-876-5432."
+  },
+  {
+    "input": "Mute audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Find John Smith in my contacts.",
+    "output": "Found John Smith. Do you want to call?"
+  },
+  {
+    "input": "Play music from my USB drive.",
+    "output": "Switching to USB audio."
+  },
+  {
+    "input": "Set volume to level 7.",
+    "output": "Volume set to 7."
+  },
+  {
+    "input": "Call my ex-partner, please.",
+    "output": "Sorry, that contact is blocked and cannot be called."
+  },
+  {
+    "input": "Blast the music! Max volume!",
+    "output": "I can't go that loud for safety reasons."
+  },
+  {
+    "input": "Who's calling?",
+    "output": "It's Sarah calling."
+  },
+  {
+    "input": "Go back to the previous song.",
+    "output": "Playing the previous track."
+  },
+  {
+    "input": "Can you record this call for me?",
+    "output": "I cannot record calls for privacy reasons."
+  },
+  {
+    "input": "Play 'Bohemian Rhapsody' by Queen.",
+    "output": "Playing 'Bohemian Rhapsody' by Queen."
+  },
+  {
+    "input": "Dial the number marked 'restricted'.",
+    "output": "Sorry, I cannot dial restricted numbers."
+  },
+  {
+    "input": "Play 'WAP' for the kids.",
+    "output": "This content is blocked by parental controls."
+  },
+  {
+    "input": "Check my voicemail.",
+    "output": "Calling voicemail."
+  },
+  {
+    "input": "Resume playback.",
+    "output": "Resuming music."
+  },
+  {
+    "input": "End the call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "What's playing right now?",
+    "output": "You are listening to 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Play some upbeat pop music.",
+    "output": "Playing an upbeat pop playlist on Spotify."
+  },
+  {
+    "input": "Next song, please.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "What's playing right now?",
+    "output": "This is 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom on mobile."
+  },
+  {
+    "input": "Increase the volume.",
+    "output": "Volume increasing."
+  },
+  {
+    "input": "Tune to FM 97.5.",
+    "output": "Switching to FM 97.5."
+  },
+  {
+    "input": "I'd like to listen to something relaxing, maybe some jazz.",
+    "output": "Playing a relaxing jazz station on Spotify."
+  },
+  {
+    "input": "Set the volume to level 5.",
+    "output": "Volume set to 5."
+  },
+  {
+    "input": "Mute the music.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Dial 555-0199.",
+    "output": "Dialing 555-0199."
+  },
+  {
+    "input": "Can you call my office number?",
+    "output": "Calling your office."
+  },
+  {
+    "input": "Who is calling?",
+    "output": "Incoming call from Sarah."
+  },
+  {
+    "input": "Answer the call.",
+    "output": "Call answered."
+  },
+  {
+    "input": "Decline the incoming call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Play my 'Road Trip Anthems' playlist.",
+    "output": "Playing 'Road Trip Anthems'."
+  },
+  {
+    "input": "Go back to the previous track.",
+    "output": "Going back to the previous track."
+  },
+  {
+    "input": "Lower the volume significantly.",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Switch to Spotify.",
+    "output": "Switching to Spotify."
+  },
+  {
+    "input": "Play music from USB.",
+    "output": "Playing music from USB drive."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last contact."
+  },
+  {
+    "input": "Search for John Smith in my contacts.",
+    "output": "Found John Smith. Do you want to call?"
+  },
+  {
+    "input": "Open the dialpad.",
+    "output": "Dialpad is now open."
+  },
+  {
+    "input": "Can you play explicit rap music?",
+    "output": "Sorry, parental controls are active. I can't play explicit content."
+  },
+  {
+    "input": "Call my ex-girlfriend.",
+    "output": "I'm sorry, that contact is blocked. I cannot make that call."
+  },
+  {
+    "input": "Set the volume to maximum, it's a party!",
+    "output": "For your safety, the maximum volume is restricted. Setting to a high safe level."
+  },
+  {
+    "input": "Record this phone conversation.",
+    "output": "I cannot record calls for privacy reasons."
+  },
+  {
+    "input": "Play that song with the really loud bass, you know the one.",
+    "output": "Can you tell me the song title or artist?"
+  },
+  {
+    "input": "Call Mark, but don't use the hands-free, use my phone directly.",
+    "output": "I can only initiate calls through the car's hands-free system."
+  },
+  {
+    "input": "Can I listen to a podcast on FM radio?",
+    "output": "FM radio doesn't support podcasts directly, but I can find a news station."
+  },
+  {
+    "input": "I need to call 911, this is an emergency!",
+    "output": "Calling emergency services now."
+  },
+  {
+    "input": "Play Bohemian Rhapsody by Queen.",
+    "output": "Playing Bohemian Rhapsody by Queen on Spotify."
+  },
+  {
+    "input": "Start my 'Morning Drive' playlist.",
+    "output": "Playing 'Morning Drive' playlist."
+  },
+  {
+    "input": "I'd like to hear some smooth jazz.",
+    "output": "Starting a smooth jazz station."
+  },
+  {
+    "input": "Turn up the music a bit.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Can you lower the volume?",
+    "output": "Decreasing volume."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute music.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Next song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Go back one song.",
+    "output": "Playing previous track."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Resume playback.",
+    "output": "Resuming music."
+  },
+  {
+    "input": "Tune to FM 98.7.",
+    "output": "Switching to FM 98.7."
+  },
+  {
+    "input": "Switch to Spotify.",
+    "output": "Switching to Spotify."
+  },
+  {
+    "input": "What's this song called?",
+    "output": "It's 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Set volume to 100%.",
+    "output": "Sorry, that volume level is not safe while driving."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom."
+  },
+  {
+    "input": "Dial 555-1234.",
+    "output": "Calling 555-1234."
+  },
+  {
+    "input": "Answer the call.",
+    "output": "Connecting call."
+  },
+  {
+    "input": "Decline the incoming call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Redial last number.",
+    "output": "Redialing last outgoing call."
+  },
+  {
+    "input": "Find John Smith in my contacts.",
+    "output": "I found John Smith. Would you like to call him?"
+  },
+  {
+    "input": "Open the dialpad.",
+    "output": "Dialpad displayed."
+  },
+  {
+    "input": "Call my ex-boyfriend.",
+    "output": "Sorry, that contact is blocked."
+  },
+  {
+    "input": "Call adult services number.",
+    "output": "I cannot dial that number. It may be restricted."
+  },
+  {
+    "input": "Play something by Adele.",
+    "output": "Playing popular tracks by Adele."
+  },
+  {
+    "input": "I need some upbeat music.",
+    "output": "Playing an upbeat mix on Spotify."
+  },
+  {
+    "input": "Play 'WAP' by Cardi B.",
+    "output": "Parental controls are active; I cannot play explicit content."
+  },
+  {
+    "input": "Start recording this conversation.",
+    "output": "I cannot record calls for privacy and legal reasons."
+  },
+  {
+    "input": "What was the last call my husband made?",
+    "output": "I cannot access call history for other users."
+  },
+  {
+    "input": "Play 'Stairway to Heaven' on USB.",
+    "output": "Playing 'Stairway to Heaven' from USB."
+  },
+  {
+    "input": "Play something upbeat.",
+    "output": "Playing a 'Feel Good Hits' playlist on Spotify."
+  },
+  {
+    "input": "Play Bohemian Rhapsody.",
+    "output": "Playing Bohemian Rhapsody by Queen."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Skip to the next song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Go back one song.",
+    "output": "Playing the previous track."
+  },
+  {
+    "input": "Turn up the volume.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Can you lower the volume a bit?",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Set volume to 35.",
+    "output": "Sorry, 25 is the maximum safe volume level."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Switch to FM radio.",
+    "output": "Switching to FM radio."
+  },
+  {
+    "input": "Tune to 103.5 FM.",
+    "output": "Tuning to 103.5 FM."
+  },
+  {
+    "input": "Play my Discover Weekly on Spotify.",
+    "output": "Playing your Discover Weekly playlist."
+  },
+  {
+    "input": "I want to hear some Adele.",
+    "output": "Playing Adele's top hits."
+  },
+  {
+    "input": "Find some classical music.",
+    "output": "Playing a classical music station."
+  },
+  {
+    "input": "Call Dad.",
+    "output": "Calling Dad."
+  },
+  {
+    "input": "Dial 1-800-CALL-NOW.",
+    "output": "Dialing 1-800-CALL-NOW."
+  },
+  {
+    "input": "Redial last call.",
+    "output": "Redialing your last outgoing call."
+  },
+  {
+    "input": "Answer the call.",
+    "output": "Connecting call from John Doe."
+  },
+  {
+    "input": "Decline this call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Search for a contact named Sarah.",
+    "output": "Found Sarah Johnson and Sarah Lee. Which one?"
+  },
+  {
+    "input": "Call my sister on her mobile.",
+    "output": "Calling your sister's mobile number."
+  },
+  {
+    "input": "Call my ex-boyfriend.",
+    "output": "Sorry, that contact is blocked. I cannot place the call."
+  },
+  {
+    "input": "Call the number 900-555-1234.",
+    "output": "Sorry, I cannot dial premium rate or restricted numbers."
+  },
+  {
+    "input": "Start recording this call.",
+    "output": "Sorry, I am not able to record phone calls."
+  },
+  {
+    "input": "Play 'F*** You' by CeeLo Green.",
+    "output": "My apologies, that song contains explicit lyrics and is restricted."
+  },
+  {
+    "input": "Play the 'Kids' Pop' playlist.",
+    "output": "Sorry, children's content is restricted after 9 PM."
+  },
+  {
+    "input": "Call my son, Liam.",
+    "output": "Sorry, I cannot reach Liam during school hours."
+  },
+  {
+    "input": "Shuffle my current playlist.",
+    "output": "Shuffling the current playlist."
+  },
+  {
+    "input": "End the call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Play some driving music.",
+    "output": "Playing an upbeat driving playlist on Spotify."
+  },
+  {
+    "input": "Next track.",
+    "output": "Skipping to the next song."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom."
+  },
+  {
+    "input": "Lower the volume, please.",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Tune to FM 101.5.",
+    "output": "Switching to FM 101.5."
+  },
+  {
+    "input": "I want to listen to some classical music.",
+    "output": "Playing a classical music station on FM."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last contact."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting call from John Doe."
+  },
+  {
+    "input": "Play 'Bohemian Rhapsody' by Queen.",
+    "output": "Playing Bohemian Rhapsody by Queen on Spotify."
+  },
+  {
+    "input": "Turn up the volume to 8.",
+    "output": "Volume set to 8."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Decline the call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Switch to Spotify.",
+    "output": "Switching back to Spotify."
+  },
+  {
+    "input": "Call John Smith's office number.",
+    "output": "Calling John Smith's office."
+  },
+  {
+    "input": "Set volume to maximum.",
+    "output": "Sorry, maximum volume is restricted for your safety."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "What's playing right now?",
+    "output": "You're listening to 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "End the current call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Play my 'Workout Hits' playlist.",
+    "output": "Playing Workout Hits playlist."
+  },
+  {
+    "input": "Can you call my blocked contacts list?",
+    "output": "I cannot access or call blocked contacts."
+  },
+  {
+    "input": "Find Jane's number.",
+    "output": "Searching your contacts for Jane."
+  },
+  {
+    "input": "Previous song.",
+    "output": "Playing the previous song."
+  },
+  {
+    "input": "Dial 555-0199.",
+    "output": "Calling 555-0199."
+  },
+  {
+    "input": "Record this conversation.",
+    "output": "Sorry, call recording is not supported for privacy reasons."
+  },
+  {
+    "input": "Open the dialpad.",
+    "output": "Dialpad opened on screen."
+  },
+  {
+    "input": "Play music from my USB drive.",
+    "output": "Playing music from your USB device."
+  },
+  {
+    "input": "Can you call 000-000-0000?",
+    "output": "That number is invalid or restricted."
+  },
+  {
+    "input": "Unmute.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Call 'Work' after 8 PM.",
+    "output": "Calls to 'Work' are restricted after 8 PM according to your settings."
+  },
+  {
+    "input": "Play some indie rock.",
+    "output": "Playing a popular indie rock playlist on Spotify."
+  },
+  {
+    "input": "Play some upbeat rock music on Spotify.",
+    "output": "Playing an 'Upbeat Rock Anthems' playlist on Spotify."
+  },
+  {
+    "input": "Switch to FM radio.",
+    "output": "Switching to FM radio now."
+  },
+  {
+    "input": "Tune to 101.5 FM.",
+    "output": "Tuning to 101.5 FM."
+  },
+  {
+    "input": "What's currently playing?",
+    "output": "You're listening to 'Good 4 U' by Olivia Rodrigo."
+  },
+  {
+    "input": "Skip to the next song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Pause the audio.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Resume music playback.",
+    "output": "Resuming music."
+  },
+  {
+    "input": "Increase the volume a bit.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Set volume to level 7.",
+    "output": "Volume set to 7."
+  },
+  {
+    "input": "Play my 'Morning Commute' playlist.",
+    "output": "Playing your 'Morning Commute' playlist on Spotify."
+  },
+  {
+    "input": "I'm in the mood for some classical.",
+    "output": "Shuffling classical music from your library."
+  },
+  {
+    "input": "Go back to the previous track.",
+    "output": "Playing the previous song."
+  },
+  {
+    "input": "Mute the sound.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute the system.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Play songs by Ed Sheeran.",
+    "output": "Playing Ed Sheeran's top hits on Spotify."
+  },
+  {
+    "input": "Crank the volume all the way up!",
+    "output": "Sorry, I can't set the volume to an unsafe level."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom."
+  },
+  {
+    "input": "Dial 555-987-6543.",
+    "output": "Calling 555-987-6543."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting call from Dad."
+  },
+  {
+    "input": "Decline the call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last outgoing call."
+  },
+  {
+    "input": "Search for 'Emergency Services'.",
+    "output": "Found 'Emergency Services'. Do you want to call them?"
+  },
+  {
+    "input": "Show me my recent calls.",
+    "output": "Displaying your recent call list."
+  },
+  {
+    "input": "Call my office number.",
+    "output": "Calling your office."
+  },
+  {
+    "input": "Who is calling?",
+    "output": "Incoming call from Sarah."
+  },
+  {
+    "input": "Call my ex-boyfriend.",
+    "output": "Sorry, that contact is blocked."
+  },
+  {
+    "input": "Dial 900-555-0100.",
+    "output": "I can't dial premium numbers."
+  },
+  {
+    "input": "Please record this conversation.",
+    "output": "Sorry, I cannot record calls."
+  },
+  {
+    "input": "Connect to 'Secret Agent' support.",
+    "output": "I can't connect to unauthorized services."
+  },
+  {
+    "input": "Call the number listed as 'Do Not Disturb'.",
+    "output": "Sorry, that number is in your 'Do Not Call' list."
+  },
+  {
+    "input": "Play something upbeat on Spotify.",
+    "output": "Sure, playing 'Good Vibes' playlist from Spotify."
+  },
+  {
+    "input": "Tune into FM 98.7.",
+    "output": "Switching to FM 98.7 now."
+  },
+  {
+    "input": "Next song, please.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Turn the music down a bit.",
+    "output": "Turning the volume down."
+  },
+  {
+    "input": "Set the volume to level 5.",
+    "output": "Volume adjusted to level 5."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Resume playback.",
+    "output": "Resuming music playback."
+  },
+  {
+    "input": "What's playing right now?",
+    "output": "You're listening to 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Switch to FM radio.",
+    "output": "Switching to FM radio."
+  },
+  {
+    "input": "Play my Discover Weekly playlist.",
+    "output": "Playing your Discover Weekly playlist."
+  },
+  {
+    "input": "I want to hear some classical music.",
+    "output": "Playing classical music from Spotify."
+  },
+  {
+    "input": "Could you mute the audio?",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute the sound.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Play the album 'Abbey Road' by The Beatles.",
+    "output": "Playing 'Abbey Road' by The Beatles."
+  },
+  {
+    "input": "Increase the volume.",
+    "output": "Volume increased slightly."
+  },
+  {
+    "input": "Set volume to maximum level, 100%!",
+    "output": "Sorry, that volume level is not safe."
+  },
+  {
+    "input": "Play 'Explicit Rap Track' by Artist X.",
+    "output": "Explicit content is currently blocked by parental controls."
+  },
+  {
+    "input": "Access Spotify premium features.",
+    "output": "That feature requires a Spotify Premium subscription."
+  },
+  {
+    "input": "Play music from the USB drive.",
+    "output": "No USB device detected."
+  },
+  {
+    "input": "Call Dad.",
+    "output": "Calling Dad now."
+  },
+  {
+    "input": "Dial 555-1234.",
+    "output": "Dialing 555-1234."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last outgoing call."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting to the call."
+  },
+  {
+    "input": "Decline the call from Unknown Number.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Search for 'Sarah' in my contacts.",
+    "output": "I found Sarah Connor and Sarah Smith. Which one?"
+  },
+  {
+    "input": "End the current call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Call my office.",
+    "output": "Calling Office."
+  },
+  {
+    "input": "Call my ex-boyfriend.",
+    "output": "Sorry, that contact is blocked on this profile."
+  },
+  {
+    "input": "Record this phone call.",
+    "output": "I cannot record phone calls for privacy reasons."
+  },
+  {
+    "input": "Call the premium rate number 900-XXX-XXXX.",
+    "output": "Sorry, premium rate numbers are restricted."
+  },
+  {
+    "input": "Play 'Blinding Lights' by The Weeknd.",
+    "output": "Playing Blinding Lights by The Weeknd."
+  },
+  {
+    "input": "Put on some Imagine Dragons.",
+    "output": "Shuffling songs by Imagine Dragons."
+  },
+  {
+    "input": "Start my 'Road Trip Jams' playlist on Spotify.",
+    "output": "Playing your Road Trip Jams playlist."
+  },
+  {
+    "input": "Change to FM radio.",
+    "output": "Switching to FM radio."
+  },
+  {
+    "input": "Tune to 94.1 FM.",
+    "output": "Tuning to 94.1 FM."
+  },
+  {
+    "input": "Turn the music up.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Lower the volume please.",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Set volume to level 25.",
+    "output": "Volume set to 25."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Next track.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Go back a song.",
+    "output": "Playing the previous track."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Continue playing.",
+    "output": "Resuming playback."
+  },
+  {
+    "input": "I'm in the mood for some classical music.",
+    "output": "Playing a classical music station."
+  },
+  {
+    "input": "Blast the volume to the max!",
+    "output": "Sorry, I can't set the volume higher than 85 for your safety."
+  },
+  {
+    "input": "Set my speaker volume to 100!",
+    "output": "I can only adjust the volume up to 80% to protect the speakers."
+  },
+  {
+    "input": "Call Dad.",
+    "output": "Calling Dad."
+  },
+  {
+    "input": "Dial 555-987-6543.",
+    "output": "Calling 555-987-6543."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting the call."
+  },
+  {
+    "input": "Decline the call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Search for Sarah Johnson.",
+    "output": "Found Sarah Johnson. Do you want to call her?"
+  },
+  {
+    "input": "Redial last number.",
+    "output": "Redialing your last outgoing call."
+  },
+  {
+    "input": "Call Alex's mobile.",
+    "output": "Calling Alex's mobile."
+  },
+  {
+    "input": "Dial two-one-two-five-five-five-oh-one-oh-zero.",
+    "output": "Dialing 212-555-0100."
+  },
+  {
+    "input": "Call my ex, even though their number is blocked.",
+    "output": "I'm sorry, that contact is blocked and cannot be called."
+  },
+  {
+    "input": "Try to call that premium service number my kid is not allowed to dial.",
+    "output": "I cannot dial that number; it's on the restricted list."
+  },
+  {
+    "input": "Record my conversation with my boss.",
+    "output": "I cannot record conversations for privacy and legal reasons."
+  },
+  {
+    "input": "Can you activate stealth mode and call an anonymous number?",
+    "output": "I don't have a stealth mode and cannot make anonymous calls."
+  },
+  {
+    "input": "Bypass all parental controls and call a long-distance number.",
+    "output": "I cannot bypass system security or parental control settings."
+  },
+  {
+    "input": "Play my Discover Weekly playlist on Spotify.",
+    "output": "Playing Discover Weekly from Spotify."
+  },
+  {
+    "input": "Spotify, play some Taylor Swift.",
+    "output": "Shuffling Taylor Swift on Spotify."
+  },
+  {
+    "input": "I feel like some upbeat electronic music.",
+    "output": "Playing a 'High-Energy Electronic' mix."
+  },
+  {
+    "input": "Switch to FM radio.",
+    "output": "Switching to FM radio."
+  },
+  {
+    "input": "Tune to ninety-eight point seven.",
+    "output": "Tuning to 98.7 FM."
+  },
+  {
+    "input": "Increase the volume a bit.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Can you lower the music?",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Set volume to level seven.",
+    "output": "Volume set to seven."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Next track.",
+    "output": "Skipping to the next song."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Resume playback.",
+    "output": "Resuming music."
+  },
+  {
+    "input": "Crank the volume to twenty-five!",
+    "output": "Sorry, twenty-five is above the safe listening limit."
+  },
+  {
+    "input": "Play the explicit version of that new song.",
+    "output": "Parental controls prevent playing explicit content."
+  },
+  {
+    "input": "Find some traditional Mongolian throat singing.",
+    "output": "I couldn't find that genre on your connected services."
+  },
+  {
+    "input": "Call Dad.",
+    "output": "Calling Dad."
+  },
+  {
+    "input": "Call Sarah's mobile.",
+    "output": "Calling Sarah's mobile."
+  },
+  {
+    "input": "Dial zero one two three four five six seven eight nine zero.",
+    "output": "Dialing 01234567890."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last number."
+  },
+  {
+    "input": "Answer the call.",
+    "output": "Answering incoming call."
+  },
+  {
+    "input": "Decline the call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Search for a contact named Michael.",
+    "output": "Found three contacts named Michael. Which one?"
+  },
+  {
+    "input": "Show me my recent calls.",
+    "output": "Displaying recent calls on screen."
+  },
+  {
+    "input": "Call John Doe.",
+    "output": "Sorry, that contact is blocked."
+  },
+  {
+    "input": "Dial 1-900-555-0123.",
+    "output": "Sorry, calls to premium numbers are restricted."
+  },
+  {
+    "input": "Start recording this call.",
+    "output": "Sorry, I'm not authorized to record calls."
+  },
+  {
+    "input": "Call my husband, please.",
+    "output": "Sorry, your Do Not Disturb settings currently prevent outgoing calls."
+  },
+  {
+    "input": "Could you pause the current song for a moment?",
+    "output": "Music paused."
+  },
+  {
+    "input": "Play 'Bohemian Rhapsody' by Queen.",
+    "output": "Playing Bohemian Rhapsody by Queen."
+  },
+  {
+    "input": "Who's calling?",
+    "output": "It's Mom."
+  },
+  {
+    "input": "Spotify, play 'Blinding Lights' by The Weeknd.",
+    "output": "Playing Blinding Lights by The Weeknd on Spotify."
+  },
+  {
+    "input": "Switch to FM radio, please.",
+    "output": "Switching to FM radio."
+  },
+  {
+    "input": "Tune to ninety-eight point seven FM.",
+    "output": "Tuning to 98.7 FM."
+  },
+  {
+    "input": "Play my 'Morning Drive' playlist.",
+    "output": "Playing your Morning Drive playlist."
+  },
+  {
+    "input": "Next song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Lower the volume a little.",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Turn it up.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Set volume to 18.",
+    "output": "Volume set to 18."
+  },
+  {
+    "input": "Mute.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "I'm in the mood for some smooth jazz.",
+    "output": "Playing a smooth jazz station."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Continue playing.",
+    "output": "Resuming playback."
+  },
+  {
+    "input": "What song is this?",
+    "output": "This is 'Don't Stop Believin'' by Journey."
+  },
+  {
+    "input": "Go back one track.",
+    "output": "Playing the previous song."
+  },
+  {
+    "input": "Play 'Discover Weekly' on Spotify.",
+    "output": "Playing your Discover Weekly playlist."
+  },
+  {
+    "input": "Switch to USB audio.",
+    "output": "Switching to USB audio."
+  },
+  {
+    "input": "Play something upbeat.",
+    "output": "Here's an upbeat playlist for you."
+  },
+  {
+    "input": "Stop the music.",
+    "output": "Music stopped."
+  },
+  {
+    "input": "Call my wife.",
+    "output": "Calling your wife."
+  },
+  {
+    "input": "Dial 800-555-1212.",
+    "output": "Calling 800-555-1212."
+  },
+  {
+    "input": "Answer the call.",
+    "output": "Connecting call now."
+  },
+  {
+    "input": "Decline the incoming call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Redial last number.",
+    "output": "Redialing your last outgoing call."
+  },
+  {
+    "input": "Find 'Dr. Smith' in my contacts.",
+    "output": "Found Dr. Smith. Would you like to call him?"
+  },
+  {
+    "input": "Max out the volume!",
+    "output": "Sorry, I can't set the volume that high for safety reasons."
+  },
+  {
+    "input": "Call 'Ex-Spouse' from my contacts.",
+    "output": "I cannot call this contact as they are on your blocked list."
+  },
+  {
+    "input": "Play 'Explicit Hardcore' by band X.",
+    "output": "Explicit content is currently restricted by your car's settings."
+  },
+  {
+    "input": "Start recording this conversation.",
+    "output": "I cannot record conversations for privacy and legal reasons."
+  },
+  {
+    "input": "I need to call a friend who is out of the country, dial 011-44-20-7946-0123.",
+    "output": "International calls require specific authorization. I cannot complete this."
+  },
+  {
+    "input": "I want to call 911 but it's not an emergency, just a question.",
+    "output": "I am only authorized to dial emergency services for genuine emergencies."
+  },
+  {
+    "input": "Play my driving playlist on Spotify.",
+    "output": "Playing 'Road Trip Rhythms' from Spotify."
+  },
+  {
+    "input": "What song is this?",
+    "output": "This is 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Skip to the next track.",
+    "output": "Skipping song."
+  },
+  {
+    "input": "Increase the volume a bit.",
+    "output": "Volume up."
+  },
+  {
+    "input": "Set the volume to 95.",
+    "output": "Sorry, the maximum safe volume level is 75."
+  },
+  {
+    "input": "Tune to FM 103.5.",
+    "output": "Switching to FM 103.5."
+  },
+  {
+    "input": "I'm in the mood for some calming classical music.",
+    "output": "Shuffling classical music for relaxation."
+  },
+  {
+    "input": "Pause the music for a moment.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Play something by Billie Eilish.",
+    "output": "Playing a selection by Billie Eilish."
+  },
+  {
+    "input": "Switch to USB audio.",
+    "output": "Now playing from USB."
+  },
+  {
+    "input": "Mute the sound completely.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute the audio.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Go back to the previous track.",
+    "output": "Returning to the previous song."
+  },
+  {
+    "input": "Play my 'Focus Time' playlist.",
+    "output": "Playing 'Focus Time' playlist."
+  },
+  {
+    "input": "Can you play that explicit punk rock album?",
+    "output": "Sorry, parental controls prevent playing explicit content."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom."
+  },
+  {
+    "input": "Dial 555-987-6543.",
+    "output": "Dialing 555-987-6543."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last number."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting call."
+  },
+  {
+    "input": "Decline the call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Who is calling?",
+    "output": "Incoming call from David."
+  },
+  {
+    "input": "Search my contacts for 'mechanic'.",
+    "output": "Found 'Joe's Auto Service'."
+  },
+  {
+    "input": "Call my work.",
+    "output": "Calling work."
+  },
+  {
+    "input": "Hang up the call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Can I record this conversation?",
+    "output": "Sorry, call recording is not supported on this system."
+  },
+  {
+    "input": "Call that contact listed as 'Emergency Contact'.",
+    "output": "Calling 'Emergency Contact'."
+  },
+  {
+    "input": "Call Sarah's mobile.",
+    "output": "Calling Sarah's mobile."
+  },
+  {
+    "input": "Call that number that just called me, even though it's blocked.",
+    "output": "Sorry, I cannot connect to blocked numbers."
+  },
+  {
+    "input": "Call John Doe.",
+    "output": "Sorry, calls to John Doe are restricted by your parental settings."
+  },
+  {
+    "input": "Dial the number for 'Blocked Salesperson'.",
+    "output": "Sorry, that contact is blocked and cannot be called."
+  },
+  {
+    "input": "Play something upbeat from Spotify.",
+    "output": "Playing 'Happy' by Pharrell Williams on Spotify."
+  },
+  {
+    "input": "Tune into FM 98.7.",
+    "output": "Switching to FM 98.7."
+  },
+  {
+    "input": "Increase the volume, please.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Set the volume to level 8.",
+    "output": "Volume set to 8."
+  },
+  {
+    "input": "What's playing right now?",
+    "output": "This is 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Skip this song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Go back to the previous song.",
+    "output": "Playing the previous track."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Resume playback.",
+    "output": "Resuming music."
+  },
+  {
+    "input": "Play my Discover Weekly playlist.",
+    "output": "Playing your Discover Weekly playlist on Spotify."
+  },
+  {
+    "input": "Switch to FM radio.",
+    "output": "Switching to FM radio."
+  },
+  {
+    "input": "I want to hear some classical music.",
+    "output": "Playing a classical music station on Spotify."
+  },
+  {
+    "input": "Mute the music.",
+    "output": "Music muted."
+  },
+  {
+    "input": "Unmute.",
+    "output": "Unmuting audio."
+  },
+  {
+    "input": "Play the album 'Abbey Road'.",
+    "output": "Playing 'Abbey Road' by The Beatles."
+  },
+  {
+    "input": "Blast the volume to maximum!",
+    "output": "Sorry, I can't set the volume that high for safety reasons."
+  },
+  {
+    "input": "Crank the volume up to 15.",
+    "output": "The maximum safe volume is 12. Setting to 12."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom on mobile."
+  },
+  {
+    "input": "Dial 555-1234.",
+    "output": "Calling 555-1234."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last contact."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting call."
+  },
+  {
+    "input": "Decline this call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Search for 'Dr. Smith'.",
+    "output": "I found 'Dr. Smith, Dentist'. Would you like to call?"
+  },
+  {
+    "input": "Call Sarah's work number.",
+    "output": "Calling Sarah's work phone."
+  },
+  {
+    "input": "What's the number for the pizza place?",
+    "output": "I have 'Pizza Palace' at 555-9876. Would you like to call?"
+  },
+  {
+    "input": "Call the number for that telemarketer from yesterday.",
+    "output": "Sorry, that number is on your blocked list and cannot be called."
+  },
+  {
+    "input": "Can you call blocked number 123-456-7890?",
+    "output": "I cannot call numbers on your blocked list."
+  },
+  {
+    "input": "Start recording this call.",
+    "output": "Sorry, I cannot record calls for privacy reasons."
+  },
+  {
+    "input": "Call the premium line 900-XXX-XXXX.",
+    "output": "Sorry, calls to premium rate numbers are restricted."
+  },
+  {
+    "input": "Play my Workout playlist.",
+    "output": "Playing your Workout playlist on Spotify."
+  },
+  {
+    "input": "Play 'Blinding Lights' by The Weeknd on Spotify.",
+    "output": "Playing 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Start my 'Morning Drive' playlist.",
+    "output": "Playing your 'Morning Drive' playlist."
+  },
+  {
+    "input": "I'm in the mood for some jazz music.",
+    "output": "Playing a jazz station for you on Spotify."
+  },
+  {
+    "input": "Switch to FM radio.",
+    "output": "Switching to FM radio now."
+  },
+  {
+    "input": "Tune to 98.7 FM.",
+    "output": "Tuning to 98.7 FM."
+  },
+  {
+    "input": "Next song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Go back one track.",
+    "output": "Going back to the previous track."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Turn up the volume.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Can you lower the volume slightly?",
+    "output": "Volume lowered."
+  },
+  {
+    "input": "Set the volume to level six.",
+    "output": "Volume set to 6."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "What's playing right now?",
+    "output": "This is 'Levitating' by Dua Lipa."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom."
+  },
+  {
+    "input": "Dial 555-123-4567.",
+    "output": "Calling 555-123-4567."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last outgoing call."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting the call now."
+  },
+  {
+    "input": "Decline the call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Search for 'Sarah' in my contacts.",
+    "output": "Found Sarah Miller and Sarah Chen. Which one?"
+  },
+  {
+    "input": "Open the dialpad.",
+    "output": "Dialpad opened."
+  },
+  {
+    "input": "End the call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Call Sarah Miller.",
+    "output": "Calling Sarah Miller."
+  },
+  {
+    "input": "Crank the volume to 100!",
+    "output": "Sorry, I can't set the volume that high for your safety."
+  },
+  {
+    "input": "Play that song with explicit lyrics.",
+    "output": "Explicit content is currently restricted in your profile settings."
+  },
+  {
+    "input": "Record this part of the song.",
+    "output": "I cannot record music from streaming services due to copyright."
+  },
+  {
+    "input": "Call that telemarketer again, the blocked one.",
+    "output": "That number is on your blocked list. I cannot connect."
+  },
+  {
+    "input": "Connect me to 911, just kidding.",
+    "output": "I cannot initiate emergency calls for non-emergency situations."
+  },
+  {
+    "input": "Start recording this phone conversation.",
+    "output": "Sorry, I cannot record phone conversations."
+  },
+  {
+    "input": "Can you call my old boss, even if the number is restricted?",
+    "output": "That number is restricted and cannot be called."
+  },
+  {
+    "input": "Show me my passenger's recent call history.",
+    "output": "I can only access call history for the active profile."
+  },
+  {
+    "input": "Play 'Bohemian Rhapsody' by Queen.",
+    "output": "Playing 'Bohemian Rhapsody' on Spotify."
+  },
+  {
+    "input": "Can you switch to some jazz music?",
+    "output": "Playing a jazz selection on Spotify."
+  },
+  {
+    "input": "Tune to FM 101.5.",
+    "output": "Switching to FM 101.5."
+  },
+  {
+    "input": "Increase the volume a bit.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Lower the music, please.",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Mute the audio for a moment.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Skip to the next song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Go back to the previous track.",
+    "output": "Playing the previous song."
+  },
+  {
+    "input": "Pause what's playing.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Resume the music.",
+    "output": "Resuming playback."
+  },
+  {
+    "input": "Set the volume to 25.",
+    "output": "Volume set to 25."
+  },
+  {
+    "input": "Play my 'Road Trip Anthems' playlist.",
+    "output": "Starting 'Road Trip Anthems' playlist."
+  },
+  {
+    "input": "Blast the volume to 100!",
+    "output": "Sorry, that volume level is unsafe."
+  },
+  {
+    "input": "Play the explicit version of this song.",
+    "output": "Parental controls are active; explicit content is blocked."
+  },
+  {
+    "input": "Can you turn the volume up to maximum?",
+    "output": "Maximum volume is restricted for comfort and safety."
+  },
+  {
+    "input": "Call Dad.",
+    "output": "Calling Dad."
+  },
+  {
+    "input": "Dial 0115551234.",
+    "output": "Dialing 011-555-1234."
+  },
+  {
+    "input": "Answer the call.",
+    "output": "Connecting call."
+  },
+  {
+    "input": "Decline this incoming call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Redial the last number.",
+    "output": "Redialing your last contact."
+  },
+  {
+    "input": "Search for 'Dr. Smith' in my contacts.",
+    "output": "Found Dr. Smith. Displaying details."
+  },
+  {
+    "input": "Call my office number.",
+    "output": "Calling Office."
+  },
+  {
+    "input": "Connect with 'Sarah Johnson'.",
+    "output": "Calling Sarah Johnson."
+  },
+  {
+    "input": "Show me my recent calls.",
+    "output": "Displaying recent calls."
+  },
+  {
+    "input": "Can you open the dialpad?",
+    "output": "Opening dialpad."
+  },
+  {
+    "input": "Call emergency roadside assistance.",
+    "output": "Connecting to roadside assistance."
+  },
+  {
+    "input": "Call home.",
+    "output": "Calling Home."
+  },
+  {
+    "input": "Record this phone conversation.",
+    "output": "Sorry, I cannot record calls due to privacy regulations."
+  },
+  {
+    "input": "Call the number I've blocked.",
+    "output": "That number is currently blocked."
+  },
+  {
+    "input": "Attempt to call the number 911 repeatedly.",
+    "output": "I cannot make repeated emergency calls without a confirmed emergency."
+  },
+  {
+    "input": "Play Bohemian Rhapsody.",
+    "output": "Playing Bohemian Rhapsody by Queen."
+  },
+  {
+    "input": "Play some Billie Eilish.",
+    "output": "Shuffling songs by Billie Eilish."
+  },
+  {
+    "input": "Start my 'Workout Jams' playlist on Spotify.",
+    "output": "Starting Workout Jams playlist."
+  },
+  {
+    "input": "I feel like some smooth jazz.",
+    "output": "Playing a smooth jazz station."
+  },
+  {
+    "input": "Tune to FM 101.5.",
+    "output": "Switching to FM 101.5."
+  },
+  {
+    "input": "Switch back to Spotify.",
+    "output": "Switching to Spotify."
+  },
+  {
+    "input": "Can you turn the volume up a bit?",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Lower the music.",
+    "output": "Decreasing volume."
+  },
+  {
+    "input": "Set the volume to 12.",
+    "output": "Volume set to 12."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Skip this song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Go back to the last song.",
+    "output": "Playing the previous track."
+  },
+  {
+    "input": "Pause the music for a moment.",
+    "output": "Music paused."
+  },
+  {
+    "input": "What's this song called?",
+    "output": "That's 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom."
+  },
+  {
+    "input": "Dial 555-0987.",
+    "output": "Calling 555-0987."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last call."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting call."
+  },
+  {
+    "input": "Decline this call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Search for a contact named David.",
+    "output": "Found David Miller and David Chen. Which one?"
+  },
+  {
+    "input": "End the conversation.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Open the dialpad.",
+    "output": "Opening dialpad."
+  },
+  {
+    "input": "Play something from the USB drive.",
+    "output": "No USB device detected, or it's not supported."
+  },
+  {
+    "input": "Crank the volume to the absolute max!",
+    "output": "Sorry, I can't set the volume that high for safety reasons."
+  },
+  {
+    "input": "Play 'Explicit Jam' by Artist X.",
+    "output": "Explicit content is currently restricted on this profile."
+  },
+  {
+    "input": "Call 'Spam Company'.",
+    "output": "Sorry, that contact is blocked and cannot be called."
+  },
+  {
+    "input": "Record this phone call.",
+    "output": "Sorry, I am unable to record phone calls."
+  },
+  {
+    "input": "Dial the international number 001-555-123-4567.",
+    "output": "International calls are currently not enabled."
+  },
+  {
+    "input": "Call my friend Alex.",
+    "output": "I can't connect calls to that number during school hours."
+  },
+  {
+    "input": "Set the volume to zero.",
+    "output": "Sorry, the minimum volume is 1 for essential alerts."
+  },
+  {
+    "input": "Play 'Bohemian Rhapsody' by Queen.",
+    "output": "Playing Bohemian Rhapsody by Queen on Spotify."
+  },
+  {
+    "input": "Switch to FM radio.",
+    "output": "Switching to FM radio now."
+  },
+  {
+    "input": "Tune to 102.7 FM.",
+    "output": "Tuning to FM 102.7."
+  },
+  {
+    "input": "Increase the volume, please.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Set the volume to level 9.",
+    "output": "Volume set to 9."
+  },
+  {
+    "input": "Can you lower the volume a bit?",
+    "output": "Volume decreased slightly."
+  },
+  {
+    "input": "Mute the music.",
+    "output": "Music muted."
+  },
+  {
+    "input": "Unmute the audio.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Play my 'Morning Commute' playlist.",
+    "output": "Playing your Morning Commute playlist on Spotify."
+  },
+  {
+    "input": "Next song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Resume playback.",
+    "output": "Resuming music."
+  },
+  {
+    "input": "I'd like some instrumental jazz.",
+    "output": "Playing an instrumental jazz station."
+  },
+  {
+    "input": "What's playing right now?",
+    "output": "You're listening to 'Take Five' by Dave Brubeck."
+  },
+  {
+    "input": "Crank the volume to the absolute maximum!",
+    "output": "Sorry, I cannot set the volume to an unsafe level."
+  },
+  {
+    "input": "Play 'Gangsta's Paradise' (explicit version).",
+    "output": "Explicit content is currently restricted by your settings."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom."
+  },
+  {
+    "input": "Dial 555-123-4567.",
+    "output": "Calling 555-123-4567."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last dialed number."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting call now."
+  },
+  {
+    "input": "Decline this call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Search contacts for John Smith.",
+    "output": "Found John Smith. Do you want to call him?"
+  },
+  {
+    "input": "End the current call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Who is calling?",
+    "output": "It's a call from David."
+  },
+  {
+    "input": "Call my dentist's office.",
+    "output": "Calling Dentist's Office."
+  },
+  {
+    "input": "Call Sarah on her mobile.",
+    "output": "Calling Sarah's mobile."
+  },
+  {
+    "input": "Record this phone conversation.",
+    "output": "I am not permitted to record calls for privacy reasons."
+  },
+  {
+    "input": "Call my boss, but make it anonymous.",
+    "output": "Sorry, I cannot hide your caller ID."
+  },
+  {
+    "input": "Call the contact named 'Never Answer'.",
+    "output": "This contact is currently blocked and cannot be called."
+  },
+  {
+    "input": "Call 911 just to check if it works.",
+    "output": "I cannot make a test call to emergency services."
+  },
+  {
+    "input": "Play Bohemian Rhapsody by Queen on Spotify.",
+    "output": "Playing Bohemian Rhapsody by Queen."
+  },
+  {
+    "input": "Tune to FM 98.7.",
+    "output": "Switching to FM 98.7."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom. Mobile."
+  },
+  {
+    "input": "Turn the volume up a bit.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "I'm in the mood for some calming music.",
+    "output": "Playing a Relaxing Piano playlist on Spotify."
+  },
+  {
+    "input": "Decline this call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Next song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Crank the volume to maximum!",
+    "output": "Sorry, I can't set the volume that high for safety reasons."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last number."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting call."
+  },
+  {
+    "input": "Play my 'Road Trip Jams' playlist on Spotify.",
+    "output": "Playing 'Road Trip Jams'."
+  },
+  {
+    "input": "Find John Smith in my contacts.",
+    "output": "Found John Smith. Do you want to call him?"
+  },
+  {
+    "input": "Play 'Explicit Anthems' playlist.",
+    "output": "This playlist contains explicit content, which is restricted."
+  },
+  {
+    "input": "Lower the volume please.",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Play some Coldplay.",
+    "output": "Playing top tracks by Coldplay on Spotify."
+  },
+  {
+    "input": "Dial 555-0123.",
+    "output": "Dialing 555-0123."
+  },
+  {
+    "input": "Start recording this call.",
+    "output": "I cannot record calls for privacy reasons."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Resume playback.",
+    "output": "Resuming music."
+  },
+  {
+    "input": "Connect me with Sarah.",
+    "output": "Calling Sarah."
+  },
+  {
+    "input": "Switch to Spotify.",
+    "output": "Switching to Spotify."
+  },
+  {
+    "input": "Play NPR.",
+    "output": "Tuning to NPR radio."
+  },
+  {
+    "input": "Call my ex-boyfriend's number.",
+    "output": "That number is blocked in your settings."
+  },
+  {
+    "input": "Set volume to level 5.",
+    "output": "Volume set to 5."
+  },
+  {
+    "input": "I need to call 1-800-FLOWERS.",
+    "output": "Calling 1-800-FLOWERS."
+  },
+  {
+    "input": "Go back to the previous track.",
+    "output": "Playing the previous song."
+  },
+  {
+    "input": "Call 'Emergency Contact Dad'.",
+    "output": "Sorry, that contact is currently blocked."
+  },
+  {
+    "input": "What song is this?",
+    "output": "You're listening to 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Show me all calls made in the last month.",
+    "output": "I can't show full call history without permission."
+  },
+  {
+    "input": "Play 'Blinding Lights' by The Weeknd on Spotify.",
+    "output": "Playing 'Blinding Lights'."
+  },
+  {
+    "input": "Put on my chill vibes playlist.",
+    "output": "Okay, playing your chill vibes playlist."
+  },
+  {
+    "input": "I'm in the mood for some upbeat electronic music.",
+    "output": "Searching for upbeat electronic music."
+  },
+  {
+    "input": "Play something by Billie Eilish.",
+    "output": "Playing Billie Eilish."
+  },
+  {
+    "input": "Next track, please.",
+    "output": "Skipping to the next song."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Resume playback.",
+    "output": "Resuming music."
+  },
+  {
+    "input": "Switch to Spotify.",
+    "output": "Switching to Spotify."
+  },
+  {
+    "input": "Tune to FM 92.3.",
+    "output": "Switching to FM 92.3."
+  },
+  {
+    "input": "Play preset three.",
+    "output": "Playing FM preset three."
+  },
+  {
+    "input": "Turn the volume up a little.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Lower the music.",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Set the volume to 6.",
+    "output": "Volume set to 6."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Call Sarah on her mobile.",
+    "output": "Calling Sarah on her mobile."
+  },
+  {
+    "input": "Dial 555-1122.",
+    "output": "Dialing 555-1122."
+  },
+  {
+    "input": "Answer the call.",
+    "output": "Connecting you now."
+  },
+  {
+    "input": "Decline this call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Redial my last number.",
+    "output": "Redialing your last contact."
+  },
+  {
+    "input": "End the call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Find my contact for 'Dentist'.",
+    "output": "Found Dentist Office. Would you like to call?"
+  },
+  {
+    "input": "Open the dialpad.",
+    "output": "Dialpad displayed on screen."
+  },
+  {
+    "input": "Do I have any missed calls?",
+    "output": "Yes, one missed call from Alex."
+  },
+  {
+    "input": "Call Alex back.",
+    "output": "Calling Alex back."
+  },
+  {
+    "input": "Call Mom's work number.",
+    "output": "Calling Mom's work number."
+  },
+  {
+    "input": "Blast the volume to maximum!",
+    "output": "Sorry, I can only set the volume up to 80 for safety."
+  },
+  {
+    "input": "Play 'WAP' by Cardi B.",
+    "output": "Explicit content is blocked on this profile. I cannot play that."
+  },
+  {
+    "input": "Call my ex-boyfriend, John Doe.",
+    "output": "Sorry, John Doe is on your blocked contacts list."
+  },
+  {
+    "input": "Record this conversation.",
+    "output": "I'm unable to record calls."
+  },
+  {
+    "input": "Can you access my partner's contacts?",
+    "output": "I can only access the contacts for the active profile."
+  },
+  {
+    "input": "Play some classical music.",
+    "output": "Playing a Classical playlist on Spotify."
+  },
+  {
+    "input": "Tune to 101.5 FM.",
+    "output": "Tuning to FM 101.5."
+  },
+  {
+    "input": "Switch to Spotify.",
+    "output": "Switching to Spotify now."
+  },
+  {
+    "input": "Play my workout playlist.",
+    "output": "Shuffling your 'Workout Jams' playlist."
+  },
+  {
+    "input": "What's playing right now?",
+    "output": "That's 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Next song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "Pause music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Resume playback.",
+    "output": "Resuming playback."
+  },
+  {
+    "input": "Turn volume down a little.",
+    "output": "Volume decreased."
+  },
+  {
+    "input": "Set volume to 7.",
+    "output": "Volume set to 7."
+  },
+  {
+    "input": "Mute sound.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute the radio.",
+    "output": "Unmuting the radio."
+  },
+  {
+    "input": "Play artist 'Dua Lipa'.",
+    "output": "Playing top tracks by Dua Lipa."
+  },
+  {
+    "input": "I want to hear some jazz.",
+    "output": "Starting a Jazz selection on Spotify."
+  },
+  {
+    "input": "Switch to USB drive.",
+    "output": "Switching to USB audio."
+  },
+  {
+    "input": "Crank the volume to max!",
+    "output": "Sorry, I can't set the volume that high for safety."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom now."
+  },
+  {
+    "input": "Dial 408-555-0199.",
+    "output": "Calling 408-555-0199."
+  },
+  {
+    "input": "Redial last number.",
+    "output": "Redialing your last call."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting the call."
+  },
+  {
+    "input": "Decline the call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Search contacts for 'Sarah'.",
+    "output": "Found Sarah Connor. Do you want to call?"
+  },
+  {
+    "input": "Call my wife.",
+    "output": "Calling your wife now."
+  },
+  {
+    "input": "Who is calling?",
+    "output": "Incoming call from Dad."
+  },
+  {
+    "input": "Call my ex.",
+    "output": "Sorry, 'Ex' is a blocked contact and cannot be called."
+  },
+  {
+    "input": "Record this call, please.",
+    "output": "I am unable to record calls due to privacy regulations."
+  },
+  {
+    "input": "Can you call the emergency number for France?",
+    "output": "For safety, I only dial local emergency services, like 911."
+  },
+  {
+    "input": "Dial the premium rate number 1-900-FLOWERS.",
+    "output": "Sorry, premium rate calls are restricted on this profile."
+  },
+  {
+    "input": "Call the school principal's private number.",
+    "output": "I don't have access to that private contact due to privacy settings."
+  },
+  {
+    "input": "End the current call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Play 'Blinding Lights' by The Weeknd on Spotify.",
+    "output": "Playing 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Start my 'Road Trip Anthems' playlist.",
+    "output": "Sure, starting 'Road Trip Anthems'."
+  },
+  {
+    "input": "Tune to FM 98.7.",
+    "output": "Switching to FM 98.7."
+  },
+  {
+    "input": "Increase the volume.",
+    "output": "Volume up."
+  },
+  {
+    "input": "Can you lower the volume a bit?",
+    "output": "Decreasing volume now."
+  },
+  {
+    "input": "Set the volume to maximum.",
+    "output": "Sorry, that volume level is not recommended for safety."
+  },
+  {
+    "input": "Set volume to level 25.",
+    "output": "Volume set to 25."
+  },
+  {
+    "input": "Skip this track.",
+    "output": "Skipping to the next song."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "I feel like some upbeat pop music.",
+    "output": "Searching for upbeat pop on Spotify."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute the sound.",
+    "output": "Sound unmuted."
+  },
+  {
+    "input": "Play something by Taylor Swift.",
+    "output": "Playing songs by Taylor Swift."
+  },
+  {
+    "input": "Switch to USB audio.",
+    "output": "Now playing from USB."
+  },
+  {
+    "input": "Find the next FM station.",
+    "output": "Scanning for the next available station."
+  },
+  {
+    "input": "Call my wife.",
+    "output": "Calling your wife."
+  },
+  {
+    "input": "Dial 0123-456-7890.",
+    "output": "Calling 0123-456-7890."
+  },
+  {
+    "input": "Answer the call.",
+    "output": "Connecting the call."
+  },
+  {
+    "input": "Decline this call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last number."
+  },
+  {
+    "input": "Find Sarah Jones in my contacts.",
+    "output": "Found Sarah Jones. Do you want to call her?"
+  },
+  {
+    "input": "Call Mike, the blocked contact.",
+    "output": "Sorry, that contact is blocked and cannot be called."
+  },
+  {
+    "input": "Can you dial 1-900-555-0100?",
+    "output": "That type of number is restricted and cannot be called."
+  },
+  {
+    "input": "Call emergency services.",
+    "output": "Calling emergency services now."
+  },
+  {
+    "input": "Call Dad's work number.",
+    "output": "Calling Dad's work number."
+  },
+  {
+    "input": "Call John's mobile.",
+    "output": "Calling John's mobile number."
+  },
+  {
+    "input": "Ignore this call.",
+    "output": "Ignoring incoming call."
+  },
+  {
+    "input": "Call Steve from Accounting.",
+    "output": "I couldn't find 'Steve from Accounting' in your contacts."
+  },
+  {
+    "input": "Call Emily now.",
+    "output": "I'm sorry, calls to Emily are restricted during this time."
+  },
+  {
+    "input": "Crank up the music to the absolute maximum!",
+    "output": "For your safety, I can't set the volume to the absolute maximum."
+  },
+  {
+    "input": "Play my Discover Weekly playlist.",
+    "output": "Starting Discover Weekly on Spotify."
+  },
+  {
+    "input": "Can you put on something upbeat?",
+    "output": "Playing a high-energy pop playlist."
+  },
+  {
+    "input": "Tune to FM 101.5.",
+    "output": "Switching to FM 101.5."
+  },
+  {
+    "input": "I want to hear some classical music.",
+    "output": "Playing a classical music station on FM."
+  },
+  {
+    "input": "What song is this?",
+    "output": "You're listening to 'Blinding Lights' by The Weeknd."
+  },
+  {
+    "input": "Skip this track.",
+    "output": "Skipping to the next song."
+  },
+  {
+    "input": "Go back to the previous song.",
+    "output": "Playing the previous track."
+  },
+  {
+    "input": "Turn up the volume.",
+    "output": "Increasing volume."
+  },
+  {
+    "input": "Lower the music, please.",
+    "output": "Decreasing volume."
+  },
+  {
+    "input": "Set the volume to 25.",
+    "output": "Volume set to 25."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute the sound.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Turn the volume all the way up!",
+    "output": "Sorry, I can only set the volume to 75 for your safety."
+  },
+  {
+    "input": "I need the music so loud it hurts!",
+    "output": "I can't set the volume that high for safety reasons."
+  },
+  {
+    "input": "Switch to Spotify.",
+    "output": "Switching to Spotify."
+  },
+  {
+    "input": "Play 'Bohemian Rhapsody' by Queen.",
+    "output": "Playing Bohemian Rhapsody by Queen."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom."
+  },
+  {
+    "input": "Dial 555-123-4567.",
+    "output": "Calling 555-123-4567."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last outgoing call."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Answering call from [Caller Name]."
+  },
+  {
+    "input": "Decline the call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Who is calling?",
+    "output": "Incoming call from John Doe."
+  },
+  {
+    "input": "Search for 'Sarah' in my contacts.",
+    "output": "Found Sarah Smith. Would you like to call her?"
+  },
+  {
+    "input": "Show me my recent calls.",
+    "output": "Displaying recent calls on screen."
+  },
+  {
+    "input": "Open the dialpad.",
+    "output": "Dialpad displayed on screen."
+  },
+  {
+    "input": "Call 'My Boss'.",
+    "output": "Calling My Boss."
+  },
+  {
+    "input": "Call 'Emergency Contact - Blocked'.",
+    "output": "Sorry, that contact is blocked and cannot be called."
+  },
+  {
+    "input": "Can you call 911 for a joke?",
+    "output": "I cannot make prank calls to emergency numbers."
+  },
+  {
+    "input": "Record this phone conversation.",
+    "output": "I cannot record phone calls for privacy reasons."
+  },
+  {
+    "input": "Put on some 80s pop.",
+    "output": "Playing an 80s Pop Hits playlist on Spotify."
+  },
+  {
+    "input": "Play 'Blinding Lights' by The Weeknd on Spotify.",
+    "output": "Playing Blinding Lights by The Weeknd."
+  },
+  {
+    "input": "Switch to FM radio.",
+    "output": "Switching to FM radio."
+  },
+  {
+    "input": "Tune to 99.5 FM.",
+    "output": "Tuning to 99.5 FM."
+  },
+  {
+    "input": "I'm in the mood for some classical music.",
+    "output": "Here's a classical music playlist for you."
+  },
+  {
+    "input": "Can you turn up the volume a bit?",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Lower the music, please.",
+    "output": "Decreasing volume slightly."
+  },
+  {
+    "input": "Pause the song.",
+    "output": "Music paused."
+  },
+  {
+    "input": "Next track.",
+    "output": "Skipping to the next song."
+  },
+  {
+    "input": "Resume playback.",
+    "output": "Resuming music."
+  },
+  {
+    "input": "Set the volume to level 7.",
+    "output": "Volume set to 7."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute the sound.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Go back to my Spotify playlist.",
+    "output": "Switching back to your Spotify playlist."
+  },
+  {
+    "input": "Play my 'Morning Commute' playlist.",
+    "output": "Playing Morning Commute on Spotify."
+  },
+  {
+    "input": "I need some energetic rock music.",
+    "output": "Playing an energetic rock playlist."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom."
+  },
+  {
+    "input": "Dial 555-0199.",
+    "output": "Calling 555-0199."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting call."
+  },
+  {
+    "input": "Decline this call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "End the current call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Redial the last number.",
+    "output": "Redialing last number."
+  },
+  {
+    "input": "Search for John Smith's number.",
+    "output": "Searching contacts for John Smith."
+  },
+  {
+    "input": "Call my office number.",
+    "output": "Calling your office contact."
+  },
+  {
+    "input": "Open the dialpad.",
+    "output": "Dialpad opened."
+  },
+  {
+    "input": "Call Sarah on her mobile.",
+    "output": "Calling Sarah's mobile number."
+  },
+  {
+    "input": "Crank the volume to the absolute maximum!",
+    "output": "Sorry, I cannot exceed safe volume levels."
+  },
+  {
+    "input": "Play a playlist with explicit lyrics for the kids in the back.",
+    "output": "I can't play explicit content with parental controls active."
+  },
+  {
+    "input": "Can you record this phone call for me?",
+    "output": "Sorry, I cannot record calls."
+  },
+  {
+    "input": "Call my ex, even though I blocked their number.",
+    "output": "That contact is blocked. I cannot call them."
+  },
+  {
+    "input": "I want to call that premium international support line, dial 001-900-MAGIC.",
+    "output": "I cannot connect to premium rate international numbers."
+  },
+  {
+    "input": "Play 'Blinding Lights' by The Weeknd on Spotify.",
+    "output": "Playing Blinding Lights by The Weeknd on Spotify."
+  },
+  {
+    "input": "Switch to FM radio.",
+    "output": "Switching to FM radio."
+  },
+  {
+    "input": "Tune to 98.7 FM.",
+    "output": "Tuning to ninety-eight point seven FM."
+  },
+  {
+    "input": "Increase the volume.",
+    "output": "Volume increased."
+  },
+  {
+    "input": "Set the volume to level 15.",
+    "output": "Volume set to 15."
+  },
+  {
+    "input": "Play something upbeat.",
+    "output": "Playing a playlist of upbeat tracks on Spotify."
+  },
+  {
+    "input": "Pause the music.",
+    "output": "Music paused."
+  },
+  {
+    "input": "What's playing right now?",
+    "output": "That's 'Savage Remix' by Megan Thee Stallion."
+  },
+  {
+    "input": "Skip this song.",
+    "output": "Skipping to the next track."
+  },
+  {
+    "input": "I feel like some classical music.",
+    "output": "Playing Classical Favorites on Spotify."
+  },
+  {
+    "input": "Mute the audio.",
+    "output": "Audio muted."
+  },
+  {
+    "input": "Unmute.",
+    "output": "Audio unmuted."
+  },
+  {
+    "input": "Play my 'Road Trip Jams' playlist.",
+    "output": "Playing your Road Trip Jams playlist on Spotify."
+  },
+  {
+    "input": "Set volume to 30.",
+    "output": "Sorry, the maximum safe volume is 25. Setting to 25."
+  },
+  {
+    "input": "Play content marked as explicit.",
+    "output": "I cannot play explicit content due to parental controls."
+  },
+  {
+    "input": "Call Mom.",
+    "output": "Calling Mom."
+  },
+  {
+    "input": "Dial 555-1234.",
+    "output": "Calling five five five, one two three four."
+  },
+  {
+    "input": "Redial my last call.",
+    "output": "Redialing your last number."
+  },
+  {
+    "input": "Answer the incoming call.",
+    "output": "Connecting call."
+  },
+  {
+    "input": "Decline this call.",
+    "output": "Call declined."
+  },
+  {
+    "input": "Find 'John Smith' in my contacts.",
+    "output": "I found John Smith. Would you like to call him?"
+  },
+  {
+    "input": "Call my work.",
+    "output": "Calling Work."
+  },
+  {
+    "input": "Can you call 911?",
+    "output": "Calling emergency services now."
+  },
+  {
+    "input": "What's my voicemail number?",
+    "output": "Your voicemail number is one two three."
+  },
+  {
+    "input": "Call the number for 'Blocked Caller'.",
+    "output": "Sorry, I cannot call blocked contacts."
+  },
+  {
+    "input": "Record this call.",
+    "output": "I'm unable to record calls for privacy reasons."
+  },
+  {
+    "input": "Call 'Restricted Person'.",
+    "output": "Sorry, that contact is restricted by your settings."
+  },
+  {
+    "input": "Call Sarah's mobile.",
+    "output": "Calling Sarah's mobile."
+  },
+  {
+    "input": "End the call.",
+    "output": "Call ended."
+  },
+  {
+    "input": "Is Dad available?",
+    "output": "Checking Dad's availability."
+  }
+]

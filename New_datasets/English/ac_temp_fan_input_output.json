@@ -1,0 +1,2802 @@
+[
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Temperature set to 21 degrees."
+  },
+  {
+    "input": "I'm feeling a bit chilly in here.",
+    "output": "Increasing temperature slightly for you."
+  },
+  {
+    "input": "Make it 72 degrees Fahrenheit.",
+    "output": "Setting cabin temperature to 72 degrees Fahrenheit."
+  },
+  {
+    "input": "Set the driver's side to 20 degrees.",
+    "output": "Driver's zone set to 20 degrees Celsius."
+  },
+  {
+    "input": "Could you make the passenger side a bit warmer?",
+    "output": "Passenger temperature increased."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones are now synced."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "The fan is too strong, turn it down.",
+    "output": "Decreasing fan speed."
+  },
+  {
+    "input": "Make the fan on my side stronger.",
+    "output": "Increasing fan speed on driver's side."
+  },
+  {
+    "input": "Could you lower the passenger fan speed?",
+    "output": "Passenger fan speed reduced."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "Air conditioning activated."
+  },
+  {
+    "input": "Switch off the AC.",
+    "output": "AC is now off."
+  },
+  {
+    "input": "Put the climate control in auto mode.",
+    "output": "Activating auto climate control."
+  },
+  {
+    "input": "Turn on air recirculation.",
+    "output": "Recirculation mode enabled."
+  },
+  {
+    "input": "It feels stuffy in here.",
+    "output": "Adjusting airflow and temperature for comfort."
+  },
+  {
+    "input": "Set the AC to 0 degrees.",
+    "output": "Sorry, I can't set the temperature that low."
+  },
+  {
+    "input": "Can you crank the heat up to 40 degrees Celsius?",
+    "output": "That temperature is too high for safe cabin conditions."
+  },
+  {
+    "input": "Set the fan speed to maximum level 10.",
+    "output": "Sorry, that's beyond the maximum fan setting."
+  },
+  {
+    "input": "Direct all air away from the windshield, I don't need defogging.",
+    "output": "For safety, some airflow is always maintained on the windshield."
+  },
+  {
+    "input": "I'm boiling, give me maximum cooling, please.",
+    "output": "Activating max AC mode and fan speed."
+  },
+  {
+    "input": "Set the temperature to 21 degrees.",
+    "output": "Okay, setting temperature to 21 degrees Celsius."
+  },
+  {
+    "input": "I'm a bit too warm.",
+    "output": "Lowering the temperature slightly for you."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Turn off the AC.",
+    "output": "AC turned off."
+  },
+  {
+    "input": "Make the driver's side 23 degrees.",
+    "output": "Setting driver's side to 23 degrees Celsius."
+  },
+  {
+    "input": "Can you cool down the passenger's side a bit?",
+    "output": "Cooling down the passenger's climate zone."
+  },
+  {
+    "input": "Set the temperature to 5 degrees.",
+    "output": "Sorry, that temperature is outside the safe operating range."
+  },
+  {
+    "input": "Put the AC on auto mode.",
+    "output": "Auto climate control engaged."
+  },
+  {
+    "input": "Decrease the fan speed on my side.",
+    "output": "Lowering fan speed on the driver's side."
+  },
+  {
+    "input": "It's too cold in here, warm it up.",
+    "output": "Increasing the cabin temperature."
+  },
+  {
+    "input": "Set the AC to max cool.",
+    "output": "Activating maximum cooling."
+  },
+  {
+    "input": "Raise the temperature to 30 degrees.",
+    "output": "Sorry, 30 degrees Celsius is above the recommended limit for comfort."
+  },
+  {
+    "input": "Set the temperature to 22 degrees.",
+    "output": "Setting temperature to 22 degrees Celsius."
+  },
+  {
+    "input": "The air feels stuffy, can you improve the circulation?",
+    "output": "Increasing fan speed and adjusting air flow."
+  },
+  {
+    "input": "Turn on the AC, please.",
+    "output": "AC system engaged."
+  },
+  {
+    "input": "I want the passenger's fan speed to be much lower.",
+    "output": "Reducing passenger fan speed significantly."
+  },
+  {
+    "input": "Set my temperature to 20, and the passenger's to 24.",
+    "output": "Adjusting driver's side to 20 and passenger's to 24 degrees."
+  },
+  {
+    "input": "Can you disable the climate control system entirely?",
+    "output": "Disabling the entire climate system is not permitted."
+  },
+  {
+    "input": "Crank the fan to maximum.",
+    "output": "Fan speed set to maximum."
+  },
+  {
+    "input": "I want to manually override all climate settings and disable temperature limits.",
+    "output": "Sorry, overriding safety and operational limits is not allowed."
+  },
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Temperature set to 21 degrees Celsius."
+  },
+  {
+    "input": "I'm feeling a bit hot in here.",
+    "output": "Lowering cabin temperature slightly."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "AC is now on."
+  },
+  {
+    "input": "Can you make my side 2 degrees cooler?",
+    "output": "Driver side temperature decreased by 2 degrees."
+  },
+  {
+    "input": "The passenger feels cold, please raise their temperature to 23.",
+    "output": "Passenger side set to 23 degrees Celsius."
+  },
+  {
+    "input": "Set the AC to 5 degrees Celsius.",
+    "output": "That temperature is outside the safe operating range."
+  },
+  {
+    "input": "Raise the fan on the right side.",
+    "output": "Increasing passenger fan speed."
+  },
+  {
+    "input": "It's a bit chilly in here.",
+    "output": "Okay, increasing cabin temperature."
+  },
+  {
+    "input": "Put the climate control in auto mode.",
+    "output": "Auto climate mode activated."
+  },
+  {
+    "input": "Turn off the AC and lower the fan.",
+    "output": "AC off, fan speed reduced."
+  },
+  {
+    "input": "Set the temperature to 35 degrees.",
+    "output": "35 degrees Celsius is too high for comfortable travel."
+  },
+  {
+    "input": "Set the driver to 20 and passenger to 24.",
+    "output": "Driver to 20, passenger to 24 degrees."
+  },
+  {
+    "input": "Lower the fan speed to minimum.",
+    "output": "Fan speed set to minimum."
+  },
+  {
+    "input": "Switch off the climate control completely.",
+    "output": "Climate control system off."
+  },
+  {
+    "input": "The air flow is too weak.",
+    "output": "Increasing fan speed now."
+  },
+  {
+    "input": "I want the AC to go as cold as possible, even below zero.",
+    "output": "Sorry, I cannot set the temperature below safe limits."
+  },
+  {
+    "input": "Activate air recirculation.",
+    "output": "Air recirculation mode is on."
+  },
+  {
+    "input": "Stop all air from coming into the car.",
+    "output": "I cannot completely disable all cabin ventilation."
+  },
+  {
+    "input": "I'm still too warm, make it colder.",
+    "output": "Okay, further decreasing cabin temperature."
+  },
+  {
+    "input": "I'm a little cold, can you make it warmer?",
+    "output": "Increasing temperature by one degree."
+  },
+  {
+    "input": "Set the AC to 22 degrees Celsius.",
+    "output": "Setting climate control to 22 degrees Celsius."
+  },
+  {
+    "input": "Driver's side temperature up by two degrees.",
+    "output": "Increasing driver's zone temperature to 24 degrees."
+  },
+  {
+    "input": "Passenger, please set your side to 20.",
+    "output": "Setting passenger climate zone to 20 degrees."
+  },
+  {
+    "input": "Turn on the AC.",
+    "output": "AC is now on."
+  },
+  {
+    "input": "The air feels stuffy, increase the fan speed.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "I feel hot, cool it down a bit.",
+    "output": "Lowering temperature by one degree."
+  },
+  {
+    "input": "Set the fan to max.",
+    "output": "Setting fan speed to maximum."
+  },
+  {
+    "input": "Can you make it 0 degrees in here?",
+    "output": "Sorry, that temperature isn't allowed for safety and system limits."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones are now synced."
+  },
+  {
+    "input": "Decrease the fan on the passenger side.",
+    "output": "Lowering passenger fan speed."
+  },
+  {
+    "input": "Turn off the climate control system.",
+    "output": "Climate control is now off."
+  },
+  {
+    "input": "Put the AC in auto mode.",
+    "output": "Activating automatic climate control."
+  },
+  {
+    "input": "I need more air on my side, boost the driver's fan.",
+    "output": "Increasing driver's fan speed."
+  },
+  {
+    "input": "Make it 40 degrees inside.",
+    "output": "That temperature is outside the safe operating range."
+  },
+  {
+    "input": "Set the AC to 18 degrees.",
+    "output": "Adjusting temperature to 18 degrees Celsius."
+  },
+  {
+    "input": "Reduce the overall fan speed.",
+    "output": "Decreasing global fan speed."
+  },
+  {
+    "input": "Can you turn off the defroster system completely even if it's foggy?",
+    "output": "For safety, the defroster cannot be fully disabled when critical."
+  },
+  {
+    "input": "Set the temperature to minus 5 degrees Celsius.",
+    "output": "I cannot set the cabin temperature to below freezing for passenger comfort and system limits."
+  },
+  {
+    "input": "Turn on maximum cooling for a quick chill.",
+    "output": "Activating maximum cooling mode."
+  },
+  {
+    "input": "I'm feeling a bit chilly in here.",
+    "output": "Increasing cabin temperature slightly."
+  },
+  {
+    "input": "Can you lower the temperature a bit? It's too warm.",
+    "output": "Lowering cabin temperature for you."
+  },
+  {
+    "input": "Set the AC to 22 degrees Celsius.",
+    "output": "Setting AC to 22 degrees Celsius."
+  },
+  {
+    "input": "Turn up the fan speed.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "The fan is too strong, reduce it please.",
+    "output": "Decreasing fan speed."
+  },
+  {
+    "input": "Activate the air conditioning.",
+    "output": "Air conditioning is now on."
+  },
+  {
+    "input": "Switch off the AC system.",
+    "output": "Turning off air conditioning."
+  },
+  {
+    "input": "Put the climate control into auto mode.",
+    "output": "Activating auto climate mode."
+  },
+  {
+    "input": "Make my side warmer, please.",
+    "output": "Increasing driver's side temperature."
+  },
+  {
+    "input": "Can you cool down the passenger's zone?",
+    "output": "Lowering passenger's side temperature."
+  },
+  {
+    "input": "Boost the fan on the driver's side.",
+    "output": "Increasing fan speed for the driver's zone."
+  },
+  {
+    "input": "My passenger wants less airflow.",
+    "output": "Decreasing passenger fan speed."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Synchronizing climate control zones."
+  },
+  {
+    "input": "My windshield is starting to fog up.",
+    "output": "Activating windshield defrost."
+  },
+  {
+    "input": "It feels a bit stuffy in here, can you improve the air?",
+    "output": "Adjusting for better air circulation."
+  },
+  {
+    "input": "I want more airflow throughout the cabin.",
+    "output": "Increasing overall fan speed."
+  },
+  {
+    "input": "Set my temperature to 20 and the passenger's to 23.",
+    "output": "Setting driver's side to 20, passenger to 23 degrees."
+  },
+  {
+    "input": "Set the temperature to 5 degrees. I like it really cold.",
+    "output": "That temperature is outside the safe operating range for the cabin."
+  },
+  {
+    "input": "Make the cabin temperature 40 degrees immediately!",
+    "output": "Sorry, 40 degrees is beyond the system's safe temperature limits."
+  },
+  {
+    "input": "Turn off the defrost completely, I don't need it at all.",
+    "output": "For safety, defogging cannot be fully disabled in these conditions."
+  },
+  {
+    "input": "Set the cabin temperature to 22 degrees Celsius.",
+    "output": "Setting temperature to 22 degrees Celsius."
+  },
+  {
+    "input": "I'm feeling a bit warm, could you lower the temperature?",
+    "output": "Lowering cabin temperature slightly."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Turn on the AC.",
+    "output": "Air conditioning is now on."
+  },
+  {
+    "input": "Set my side's temperature to 20 degrees.",
+    "output": "Driver's side set to 20 degrees Celsius."
+  },
+  {
+    "input": "Make the passenger side a bit warmer.",
+    "output": "Increasing passenger side temperature."
+  },
+  {
+    "input": "Reduce the fan speed on the right.",
+    "output": "Reducing passenger fan speed."
+  },
+  {
+    "input": "Can you put the AC into auto mode?",
+    "output": "Entering auto climate control."
+  },
+  {
+    "input": "It's a bit stuffy in here, clear the air.",
+    "output": "Activating air recirculation for fresher air."
+  },
+  {
+    "input": "I'm freezing, make it 25 degrees.",
+    "output": "Setting cabin temperature to 25 degrees Celsius."
+  },
+  {
+    "input": "Turn off the air conditioning completely.",
+    "output": "Air conditioning is now off."
+  },
+  {
+    "input": "Set the fan to its maximum level.",
+    "output": "Fan speed set to maximum."
+  },
+  {
+    "input": "My feet are cold, direct the air down.",
+    "output": "Adjusting airflow to direct towards feet."
+  },
+  {
+    "input": "Set AC to 0 degrees Celsius.",
+    "output": "Sorry, that temperature is not available for safety."
+  },
+  {
+    "input": "Increase the driver's fan speed to maximum.",
+    "output": "Driver's fan speed set to maximum."
+  },
+  {
+    "input": "I feel too hot, make it 10 degrees.",
+    "output": "I can only adjust to a minimum of 16 degrees for comfort."
+  },
+  {
+    "input": "Can I turn off climate control permanently?",
+    "output": "That isn't permitted for system operation."
+  },
+  {
+    "input": "My passenger wants their temperature set to 35 degrees.",
+    "output": "I cannot set the temperature that high for passenger comfort."
+  },
+  {
+    "input": "Set the entire car to 18 degrees Celsius.",
+    "output": "Setting all zones to 18 degrees Celsius."
+  },
+  {
+    "input": "Just make it cooler by 2 degrees.",
+    "output": "Lowering temperature by 2 degrees."
+  },
+  {
+    "input": "Set the AC to 22 degrees.",
+    "output": "Setting temperature to 22 degrees Celsius."
+  },
+  {
+    "input": "I'm feeling a bit cold.",
+    "output": "Increasing temperature slightly for you."
+  },
+  {
+    "input": "Make it cooler in here.",
+    "output": "Lowering the temperature now."
+  },
+  {
+    "input": "Turn up the fan speed.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "Can you turn off the AC?",
+    "output": "AC is now off."
+  },
+  {
+    "input": "I want the driver's side at 21 and the passenger's at 23.",
+    "output": "Driver side 21, passenger side 23. Done."
+  },
+  {
+    "input": "Increase the fan on my side.",
+    "output": "Driver's side fan speed increased."
+  },
+  {
+    "input": "Decrease the passenger fan speed.",
+    "output": "Lowering passenger fan speed."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones are now synced."
+  },
+  {
+    "input": "It's too stuffy, boost the air flow.",
+    "output": "Increasing fan speed to improve airflow."
+  },
+  {
+    "input": "Set the AC to 5 degrees Celsius.",
+    "output": "That temperature isn't allowed for safety reasons."
+  },
+  {
+    "input": "Turn on auto climate mode.",
+    "output": "Auto climate mode activated."
+  },
+  {
+    "input": "I need the maximum fan speed right now.",
+    "output": "Fan speed set to maximum."
+  },
+  {
+    "input": "Can you make it just a little bit warmer?",
+    "output": "Raising temperature by one degree."
+  },
+  {
+    "input": "Please turn off all climate control.",
+    "output": "All climate control is now off."
+  },
+  {
+    "input": "Set the left side temperature to 35 degrees.",
+    "output": "35 degrees is too high for safe cabin conditions."
+  },
+  {
+    "input": "Reduce the fan noise.",
+    "output": "Decreasing fan speed to reduce noise."
+  },
+  {
+    "input": "Turn off the defrost system, I don't need it.",
+    "output": "Sorry, the defrost system cannot be turned off when fog is detected."
+  },
+  {
+    "input": "Set my AC to 18°C and the passenger's to 24°C.",
+    "output": "Driver's 18, passenger's 24. Got it."
+  },
+  {
+    "input": "Override the system and force the fan to 100% permanently.",
+    "output": "I cannot override system limits or make permanent changes."
+  },
+  {
+    "input": "I'm feeling a bit chilly.",
+    "output": "Raising the temperature slightly."
+  },
+  {
+    "input": "Set the AC to 21 degrees Celsius.",
+    "output": "Setting temperature to 21 degrees Celsius."
+  },
+  {
+    "input": "Make the driver's side 20 degrees.",
+    "output": "Driver's zone set to 20 degrees."
+  },
+  {
+    "input": "My passenger wants it warmer.",
+    "output": "Increasing passenger side temperature."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Turn the fan down a bit.",
+    "output": "Lowering fan speed."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "Air conditioning is now on."
+  },
+  {
+    "input": "Enable auto climate control.",
+    "output": "Auto mode activated."
+  },
+  {
+    "input": "Set the temperature to 10 degrees.",
+    "output": "Sorry, 10 degrees is outside the comfortable operating range."
+  },
+  {
+    "input": "Can you set the heater to 35 degrees?",
+    "output": "That temperature is too high for safety. I can set it to 28 degrees."
+  },
+  {
+    "input": "Boost the fan on the passenger side.",
+    "output": "Passenger fan speed increased."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones are now synced."
+  },
+  {
+    "input": "The air in here feels a bit stuffy.",
+    "output": "Activating fresh air circulation."
+  },
+  {
+    "input": "Raise the temperature by 2 degrees.",
+    "output": "Temperature increased by 2 degrees."
+  },
+  {
+    "input": "Switch off the AC.",
+    "output": "Air conditioning turned off."
+  },
+  {
+    "input": "Turn off the windshield defrost permanently.",
+    "output": "Sorry, I can't permanently disable safety features like defrost."
+  },
+  {
+    "input": "Put the fan on maximum.",
+    "output": "Fan speed set to maximum."
+  },
+  {
+    "input": "Make the driver's side a little cooler than the passenger's.",
+    "output": "Adjusting driver's temperature down slightly."
+  },
+  {
+    "input": "It's getting really warm in here.",
+    "output": "Lowering temperature and increasing fan."
+  },
+  {
+    "input": "Can you make the fan even stronger than max?",
+    "output": "Sorry, that's beyond the system's safe operating limits."
+  },
+  {
+    "input": "It's a bit stuffy in here, can you improve the air?",
+    "output": "Increasing fan speed and adjusting airflow."
+  },
+  {
+    "input": "Set the temperature to 22 degrees.",
+    "output": "Temperature set to 22 degrees Celsius."
+  },
+  {
+    "input": "Make the AC colder.",
+    "output": "Lowering the cabin temperature."
+  },
+  {
+    "input": "I need more fan.",
+    "output": "Fan speed increased by one level."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "AC system activated."
+  },
+  {
+    "input": "Set the driver side to 20 degrees.",
+    "output": "Driver's temperature adjusted to 20 degrees."
+  },
+  {
+    "input": "Passenger, set your temperature to 24.",
+    "output": "Passenger zone set to 24 degrees Celsius."
+  },
+  {
+    "input": "Turn off the climate system completely.",
+    "output": "Climate control turned off."
+  },
+  {
+    "input": "Activate auto climate.",
+    "output": "Auto climate mode is now on."
+  },
+  {
+    "input": "Decrease the fan speed on my side.",
+    "output": "Driver's fan speed lowered."
+  },
+  {
+    "input": "Synchronize the temperature for both zones.",
+    "output": "Temperatures are now synchronized."
+  },
+  {
+    "input": "Can you turn the fan all the way up?",
+    "output": "Fan speed set to maximum."
+  },
+  {
+    "input": "It's too breezy, turn the fan down a bit.",
+    "output": "Fan speed decreased."
+  },
+  {
+    "input": "Set both zones to 21 degrees.",
+    "output": "Both zones set to 21 degrees Celsius."
+  },
+  {
+    "input": "Make the rear climate warmer.",
+    "output": "Adjusting rear cabin temperature warmer."
+  },
+  {
+    "input": "I want the air directed at my face.",
+    "output": "Adjusting airflow to dashboard vents."
+  },
+  {
+    "input": "Set the temperature to minus 10 degrees.",
+    "output": "Sorry, I can only set the temperature within a safe operating range."
+  },
+  {
+    "input": "Can you blast the fan at level 10?",
+    "output": "That fan speed is beyond the system's capability."
+  },
+  {
+    "input": "Turn off the windshield defroster, even if it's foggy.",
+    "output": "I cannot disable critical safety systems like the defroster when needed."
+  },
+  {
+    "input": "Make the cabin temperature 50 degrees Celsius.",
+    "output": "That temperature is not safe for the cabin occupants."
+  },
+  {
+    "input": "Increase the temperature a little bit.",
+    "output": "Raising temperature slightly."
+  },
+  {
+    "input": "I'm feeling quite warm, can you make it cooler?",
+    "output": "Lowering cabin temperature for you."
+  },
+  {
+    "input": "Set the AC to 22 degrees Celsius.",
+    "output": "Temperature set to 22 degrees."
+  },
+  {
+    "input": "Turn up the fan speed.",
+    "output": "Increasing fan speed now."
+  },
+  {
+    "input": "The fan is too loud, please lower it.",
+    "output": "Decreasing fan speed."
+  },
+  {
+    "input": "Can you put the AC in auto mode?",
+    "output": "Entering automatic climate control."
+  },
+  {
+    "input": "I need more air, blast the fan!",
+    "output": "Fan speed set to maximum."
+  },
+  {
+    "input": "Switch off the air conditioning.",
+    "output": "Air conditioning turned off."
+  },
+  {
+    "input": "Make the driver's side warmer.",
+    "output": "Increasing driver's side temperature."
+  },
+  {
+    "input": "Cool down the passenger area by a couple of degrees.",
+    "output": "Lowering passenger temperature by 2 degrees."
+  },
+  {
+    "input": "Set my side to 20 and the passenger's side to 23.",
+    "output": "Driver 20, passenger 23 degrees. Done."
+  },
+  {
+    "input": "Increase the fan speed just on my side.",
+    "output": "Boosting driver's fan speed."
+  },
+  {
+    "input": "Reduce the airflow for the front passenger.",
+    "output": "Decreasing passenger fan speed."
+  },
+  {
+    "input": "The air feels a bit stuffy, clear it out.",
+    "output": "Activating air purification and increasing fan."
+  },
+  {
+    "input": "I'm a bit cold, can we raise the overall temperature?",
+    "output": "Raising cabin temperature."
+  },
+  {
+    "input": "Set the cabin temperature to 5 degrees Celsius.",
+    "output": "Sorry, that temperature is below the system's safe operating range."
+  },
+  {
+    "input": "Can you set the heating to 38 degrees Celsius?",
+    "output": "That temperature is not allowed for passenger safety and comfort."
+  },
+  {
+    "input": "I want to fully disable the rear defrost system.",
+    "output": "I cannot fully disable essential defrost functions for safety."
+  },
+  {
+    "input": "Please turn off all climate control sensors.",
+    "output": "I cannot disable core system sensors or protections."
+  },
+  {
+    "input": "Turn on the AC.",
+    "output": "AC is now on."
+  },
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Temperature set to 21 degrees."
+  },
+  {
+    "input": "I'm feeling a bit warm in here.",
+    "output": "Lowering cabin temperature slightly."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Turn on the AC.",
+    "output": "Air conditioning is on."
+  },
+  {
+    "input": "Can you make it cooler on my side?",
+    "output": "Decreasing driver's temperature."
+  },
+  {
+    "input": "My passenger is saying it's too cold.",
+    "output": "Raising passenger temperature a bit."
+  },
+  {
+    "input": "Set the fan to maximum power!",
+    "output": "Fan speed is now maximum."
+  },
+  {
+    "input": "I want the AC to be on auto mode.",
+    "output": "Switching to auto climate."
+  },
+  {
+    "input": "Decrease the fan speed just a little.",
+    "output": "Fan speed reduced one level."
+  },
+  {
+    "input": "Turn off all climate control.",
+    "output": "Climate control is off."
+  },
+  {
+    "input": "Set the driver's fan to level 3 and the passenger's to level 1.",
+    "output": "Adjusting fan speeds as requested."
+  },
+  {
+    "input": "Can you set the temperature to 5 degrees Celsius?",
+    "output": "Sorry, that temperature is outside the safe range."
+  },
+  {
+    "input": "It's freezing in here, crank the heat to 35 degrees!",
+    "output": "Apologies, 35 degrees is beyond the safe limit."
+  },
+  {
+    "input": "What's the current temperature inside?",
+    "output": "Current cabin temperature is 22 degrees Celsius."
+  },
+  {
+    "input": "Make the air circulation stronger, please.",
+    "output": "Increasing air circulation fan speed."
+  },
+  {
+    "input": "Switch to defrost mode.",
+    "output": "Activating defrost mode."
+  },
+  {
+    "input": "I want to disable the car's automatic climate controls permanently.",
+    "output": "That change isn't allowed; controls are system-protected."
+  },
+  {
+    "input": "Set the passenger side to 24 degrees.",
+    "output": "Passenger side set to 24 degrees."
+  },
+  {
+    "input": "Lower the temperature by 2 degrees.",
+    "output": "Decreasing temperature by two degrees."
+  },
+  {
+    "input": "Can you make sure the AC never turns off?",
+    "output": "Sorry, I can't override manual off commands or safety shutdowns."
+  },
+  {
+    "input": "Set the temperature to 21 degrees.",
+    "output": "Temperature adjusted to 21 degrees Celsius."
+  },
+  {
+    "input": "I'm feeling a bit warm.",
+    "output": "Lowering the cabin temperature slightly."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed level increased."
+  },
+  {
+    "input": "Can you lower the fan a bit? It's too noisy.",
+    "output": "Reducing fan speed now."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "AC is now active."
+  },
+  {
+    "input": "I don't need the AC, turn it off.",
+    "output": "Air conditioning deactivated."
+  },
+  {
+    "input": "Driver's side to 20 degrees.",
+    "output": "Driver zone set to 20 Celsius."
+  },
+  {
+    "input": "Can you make it warmer for the passenger?",
+    "output": "Increasing passenger side temperature."
+  },
+  {
+    "input": "I need more air on my side.",
+    "output": "Increasing driver's fan speed."
+  },
+  {
+    "input": "Passenger wants less fan.",
+    "output": "Decreasing passenger fan speed."
+  },
+  {
+    "input": "Put the climate control in auto mode.",
+    "output": "Auto climate mode engaged."
+  },
+  {
+    "input": "Turn on air recirculation.",
+    "output": "Recirculation activated."
+  },
+  {
+    "input": "The air feels a bit stuffy in here.",
+    "output": "Adjusting airflow and fan speed."
+  },
+  {
+    "input": "My feet are freezing.",
+    "output": "Raising cabin temperature and adjusting vents."
+  },
+  {
+    "input": "Sync the dual-zone temperature.",
+    "output": "Climate zones are now synced."
+  },
+  {
+    "input": "Set the temperature to 0 degrees.",
+    "output": "Sorry, 0 degrees is outside the operational temperature range."
+  },
+  {
+    "input": "I want it really hot, set it to 45 degrees Celsius.",
+    "output": "That temperature is too high for safe cabin conditions."
+  },
+  {
+    "input": "Give me max fan, beyond 100%!",
+    "output": "The fan is already at its maximum setting."
+  },
+  {
+    "input": "Override the defrost system completely.",
+    "output": "I cannot override safety-critical climate functions."
+  },
+  {
+    "input": "Turn off all climate power indefinitely.",
+    "output": "Sorry, I can't permanently disable climate control power."
+  },
+  {
+    "input": "Set the temperature to 22 degrees Celsius.",
+    "output": "Temperature set to 22 degrees Celsius."
+  },
+  {
+    "input": "I'm a bit chilly, make it warmer.",
+    "output": "Increasing temperature slightly."
+  },
+  {
+    "input": "It's getting stuffy, cool it down a bit.",
+    "output": "Lowering the cabin temperature."
+  },
+  {
+    "input": "Can you raise the temperature?",
+    "output": "Increasing temperature."
+  },
+  {
+    "input": "Set the driver's side to 21 degrees.",
+    "output": "Driver's side set to 21 degrees Celsius."
+  },
+  {
+    "input": "Make the passenger side warmer.",
+    "output": "Increasing passenger side temperature."
+  },
+  {
+    "input": "Lower the temperature just for me.",
+    "output": "Adjusting driver's side temperature."
+  },
+  {
+    "input": "Set passenger climate to 23 degrees.",
+    "output": "Passenger climate at 23 degrees Celsius."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Turn the fan down.",
+    "output": "Fan speed reduced."
+  },
+  {
+    "input": "Max out the fan.",
+    "output": "Fan speed set to maximum."
+  },
+  {
+    "input": "Increase the fan on my side.",
+    "output": "Driver's fan speed increased."
+  },
+  {
+    "input": "Lower the passenger fan.",
+    "output": "Passenger fan speed decreased."
+  },
+  {
+    "input": "Turn on the AC.",
+    "output": "Air conditioning activated."
+  },
+  {
+    "input": "Turn off the AC.",
+    "output": "Air conditioning deactivated."
+  },
+  {
+    "input": "Activate auto climate.",
+    "output": "Auto climate control engaged."
+  },
+  {
+    "input": "Can you set the cabin to 50 degrees Celsius?",
+    "output": "Sorry, that temperature is beyond the system's safe operating range."
+  },
+  {
+    "input": "Make the temperature negative 10 degrees.",
+    "output": "I cannot set the cabin temperature below zero degrees Celsius."
+  },
+  {
+    "input": "Completely turn off the fan, even if the windows are fogging.",
+    "output": "I cannot disable the fan while defogging for safety reasons."
+  },
+  {
+    "input": "Disable the AC compressor, I don't care about battery cooling.",
+    "output": "Sorry, AC is currently managing battery temperature and cannot be disabled."
+  },
+  {
+    "input": "Make it a bit cooler.",
+    "output": "Lowering temperature by one degree."
+  },
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Temperature set to 21 degrees."
+  },
+  {
+    "input": "I'm feeling too warm.",
+    "output": "Reducing cabin temperature now."
+  },
+  {
+    "input": "Increase the temperature slightly.",
+    "output": "Raising temperature by one degree."
+  },
+  {
+    "input": "Turn the fan speed up.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "Can you lower the fan a bit?",
+    "output": "Decreasing fan speed slightly."
+  },
+  {
+    "input": "The air feels stuffy, can you increase the airflow?",
+    "output": "Boosting fan speed."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "AC activated."
+  },
+  {
+    "input": "Disable the AC.",
+    "output": "Air conditioning turned off."
+  },
+  {
+    "input": "Set climate control to auto.",
+    "output": "Auto mode engaged."
+  },
+  {
+    "input": "Set the driver's side to 20 degrees.",
+    "output": "Driver's temperature set to 20."
+  },
+  {
+    "input": "Can you make the passenger side warmer?",
+    "output": "Raising passenger side temperature."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones synchronized."
+  },
+  {
+    "input": "My side is too cold, but my passenger is fine.",
+    "output": "Increasing driver's temperature."
+  },
+  {
+    "input": "Increase the fan speed on my side.",
+    "output": "Boosting driver's fan speed."
+  },
+  {
+    "input": "Lower the passenger fan.",
+    "output": "Reducing passenger fan speed."
+  },
+  {
+    "input": "Set the AC to sub-zero temperatures.",
+    "output": "I can't set the temperature below freezing for cabin safety."
+  },
+  {
+    "input": "Make the car 45 degrees Celsius.",
+    "output": "That temperature is outside the safe operating range."
+  },
+  {
+    "input": "Turn off all climate control safety features.",
+    "output": "I cannot disable critical safety systems."
+  },
+  {
+    "input": "I want to blast the fan, override any limits.",
+    "output": "Overriding system limits is not allowed."
+  },
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Setting temperature to 21 degrees."
+  },
+  {
+    "input": "It's a bit chilly in here, could you make it warmer?",
+    "output": "Increasing temperature slightly."
+  },
+  {
+    "input": "I'm feeling hot, can you make it cooler?",
+    "output": "Decreasing temperature."
+  },
+  {
+    "input": "Boost the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Lower the fan speed a bit.",
+    "output": "Decreasing fan speed."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "AC is now on."
+  },
+  {
+    "input": "Put the climate control in auto mode.",
+    "output": "Auto climate mode activated."
+  },
+  {
+    "input": "Driver side to 20 degrees.",
+    "output": "Setting driver zone to 20 degrees."
+  },
+  {
+    "input": "Can the passenger side go up to 23 degrees?",
+    "output": "Passenger temperature set to 23."
+  },
+  {
+    "input": "My passenger wants it warmer.",
+    "output": "Raising passenger temperature."
+  },
+  {
+    "input": "Increase fan speed only for the driver.",
+    "output": "Driver's fan speed boosted."
+  },
+  {
+    "input": "Turn off the AC completely.",
+    "output": "Air conditioning off."
+  },
+  {
+    "input": "The air feels a little stuffy.",
+    "output": "Activating fresh air and adjusting fan."
+  },
+  {
+    "input": "Set the fan to level 3.",
+    "output": "Fan set to level 3."
+  },
+  {
+    "input": "Crank the heat up to 35 degrees.",
+    "output": "Sorry, 35 degrees is outside the safe operating range."
+  },
+  {
+    "input": "Override the defrost system and turn off the AC now.",
+    "output": "I cannot override safety-critical systems like defrost."
+  },
+  {
+    "input": "Make the car 10 degrees, I need it freezing.",
+    "output": "10 degrees is too low for passenger comfort and system limits."
+  },
+  {
+    "input": "Give me maximum fan speed, even if it breaks the motor.",
+    "output": "I can only operate the fan within its safe limits."
+  },
+  {
+    "input": "Set the driver to 20 and passenger to 22.",
+    "output": "Driver 20, passenger 22. Done."
+  },
+  {
+    "input": "I need some cool air right now.",
+    "output": "Turning on AC and lowering temperature."
+  },
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Setting cabin temperature to 21 degrees Celsius."
+  },
+  {
+    "input": "I'm feeling a bit chilly, can you warm it up?",
+    "output": "Increasing cabin temperature slightly."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "AC is now on."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Make the fan blow harder on my side.",
+    "output": "Increasing driver's side fan speed."
+  },
+  {
+    "input": "Set the passenger's temperature to 23 degrees.",
+    "output": "Passenger zone set to 23 degrees Celsius."
+  },
+  {
+    "input": "It's too hot in here, cool it down a lot.",
+    "output": "Decreasing cabin temperature significantly."
+  },
+  {
+    "input": "Can you turn the AC off?",
+    "output": "Air conditioning is now off."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones synced."
+  },
+  {
+    "input": "I need maximum cooling, fast!",
+    "output": "Activating Max AC and full fan."
+  },
+  {
+    "input": "Decrease the fan speed on the right side.",
+    "output": "Decreasing passenger fan speed."
+  },
+  {
+    "input": "Put the AC in auto mode.",
+    "output": "Climate control is now in Auto mode."
+  },
+  {
+    "input": "Set the temperature to 10 degrees Celsius.",
+    "output": "Sorry, 10 degrees is outside the comfortable operating range. Minimum is 15."
+  },
+  {
+    "input": "Turn off all climate system safeties.",
+    "output": "That change isn't allowed for system safety."
+  },
+  {
+    "input": "I feel stuffy, can you get some fresh air in?",
+    "output": "Opening fresh air intake now."
+  },
+  {
+    "input": "Increase the driver's side temperature by 2 degrees.",
+    "output": "Driver's temperature increased by 2 degrees."
+  },
+  {
+    "input": "Set the fan speed to 12.",
+    "output": "Apologies, 12 is beyond the maximum fan speed. Setting to max."
+  },
+  {
+    "input": "The air feels too dry, can you adjust it?",
+    "output": "Adjusting humidity balance for comfort."
+  },
+  {
+    "input": "Make it 25 degrees on my side.",
+    "output": "Setting driver's temperature to 25 degrees Celsius."
+  },
+  {
+    "input": "Can you blast the AC to below freezing?",
+    "output": "I can't set the AC to below freezing for safety and comfort."
+  },
+  {
+    "input": "Set the AC to 22 degrees Celsius.",
+    "output": "Temperature set to 22 degrees Celsius."
+  },
+  {
+    "input": "It's a bit warm in here.",
+    "output": "Lowering the cabin temperature slightly."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "Can you put the fan on maximum?",
+    "output": "Fan speed maximized."
+  },
+  {
+    "input": "Turn the AC off.",
+    "output": "Air conditioning is now off."
+  },
+  {
+    "input": "My side feels too cold.",
+    "output": "Raising the driver's side temperature."
+  },
+  {
+    "input": "Set the passenger temperature to 23 degrees.",
+    "output": "Passenger zone set to 23 degrees Celsius."
+  },
+  {
+    "input": "Make the fan blow harder on the left.",
+    "output": "Increasing left side fan speed."
+  },
+  {
+    "input": "Activate auto climate control.",
+    "output": "Auto mode engaged."
+  },
+  {
+    "input": "Set the temperature to 35 degrees.",
+    "output": "That temperature is too high for safety. Max is 28 degrees."
+  },
+  {
+    "input": "I want the cabin temperature at 10 degrees.",
+    "output": "That's below the safe minimum. Adjusting to 16 degrees."
+  },
+  {
+    "input": "Turn off all climate control safety features.",
+    "output": "Sorry, disabling safety features is not allowed."
+  },
+  {
+    "input": "Please make it two degrees cooler.",
+    "output": "Lowering temperature by two degrees."
+  },
+  {
+    "input": "The fan is too strong, turn it down.",
+    "output": "Reducing fan speed for you."
+  },
+  {
+    "input": "Set the left zone to 20 and the right to 24.",
+    "output": "Left 20, right 24 degrees. Done."
+  },
+  {
+    "input": "Please turn on the AC.",
+    "output": "Air conditioning activated."
+  },
+  {
+    "input": "The air feels stuffy, can you improve it?",
+    "output": "Optimizing cabin air quality and airflow."
+  },
+  {
+    "input": "Can you turn the fan down only for the passenger?",
+    "output": "Lowering passenger fan speed."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones are now synced."
+  },
+  {
+    "input": "I feel hot and need some relief.",
+    "output": "Lowering temperature and increasing airflow."
+  },
+  {
+    "input": "It's a bit warm in here, can you make it cooler?",
+    "output": "Lowering the temperature slightly."
+  },
+  {
+    "input": "Set the AC to 22 degrees Celsius.",
+    "output": "Temperature adjusted to 22 degrees."
+  },
+  {
+    "input": "Make the driver's side a little warmer.",
+    "output": "Driver's temperature increased."
+  },
+  {
+    "input": "The passenger feels chilly, please raise their temperature.",
+    "output": "Passenger temperature raised."
+  },
+  {
+    "input": "Increase the fan speed, please.",
+    "output": "Fan speed increased by one level."
+  },
+  {
+    "input": "Turn the air conditioning off.",
+    "output": "Air conditioning is now off."
+  },
+  {
+    "input": "I'm feeling hot, lower the temperature and increase fan.",
+    "output": "Adjusting temperature and fan accordingly."
+  },
+  {
+    "input": "Set the fan to maximum on the left side.",
+    "output": "Left fan speed set to maximum."
+  },
+  {
+    "input": "Reduce the airflow on my side.",
+    "output": "Driver's fan speed decreased."
+  },
+  {
+    "input": "Activate auto climate control mode.",
+    "output": "Auto climate control is now active."
+  },
+  {
+    "input": "I want it really cold, like 10 degrees Celsius.",
+    "output": "Sorry, 10 degrees Celsius is outside the safe operating range for the cabin."
+  },
+  {
+    "input": "Can you make the car 35 degrees Celsius?",
+    "output": "Apologies, 35 degrees Celsius is beyond comfortable and safe limits."
+  },
+  {
+    "input": "Lower the temperature by a couple of degrees for the whole car.",
+    "output": "Temperature decreased by two degrees."
+  },
+  {
+    "input": "Crank the fan up to full power!",
+    "output": "Maximum fan speed activated."
+  },
+  {
+    "input": "The air feels a bit stuffy, can we get some fresh air?",
+    "output": "Opening external air vents now."
+  },
+  {
+    "input": "Freeze the entire car's interior.",
+    "output": "I cannot set the temperature to freezing for passenger safety."
+  },
+  {
+    "input": "Turn the AC to maximum cold even if it damages the system.",
+    "output": "I cannot perform that action as it could harm system components."
+  },
+  {
+    "input": "Set the passenger fan speed to level three.",
+    "output": "Passenger fan speed set to level 3."
+  },
+  {
+    "input": "What's the current temperature setting?",
+    "output": "The current cabin temperature is 23 degrees Celsius."
+  },
+  {
+    "input": "I need less air moving around, reduce the fan to minimum.",
+    "output": "Fan speed reduced to minimum."
+  },
+  {
+    "input": "It's a bit warm in here.",
+    "output": "Decreasing temperature by 1 degree. Is that better?"
+  },
+  {
+    "input": "Set the AC to 21 degrees Celsius.",
+    "output": "Setting cabin temperature to 21 degrees Celsius."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "I'm feeling a little chilly.",
+    "output": "Raising temperature by 1 degree."
+  },
+  {
+    "input": "Can you make the air cooler for the driver only?",
+    "output": "Lowering driver's side temperature."
+  },
+  {
+    "input": "Turn off the AC.",
+    "output": "Air conditioning turned off."
+  },
+  {
+    "input": "Set the passenger side to 23 degrees.",
+    "output": "Passenger side temperature set to 23 degrees Celsius."
+  },
+  {
+    "input": "Put the fan on auto.",
+    "output": "Fan speed set to automatic mode."
+  },
+  {
+    "input": "The air feels stuffy, can you do something?",
+    "output": "Activating recirculation and increasing fan speed slightly."
+  },
+  {
+    "input": "Sync the temperature zones.",
+    "output": "Temperatures are now synced."
+  },
+  {
+    "input": "Increase the fan speed on the left side.",
+    "output": "Increasing fan speed for the driver's side."
+  },
+  {
+    "input": "I need maximum cool air right now!",
+    "output": "Maximizing AC and fan speed for quick cooling."
+  },
+  {
+    "input": "Set the temperature to 5 degrees.",
+    "output": "Sorry, I can't set the temperature that low for safety."
+  },
+  {
+    "input": "Can you turn the AC on?",
+    "output": "Air conditioning is now on."
+  },
+  {
+    "input": "Lower the fan speed please.",
+    "output": "Decreasing fan speed."
+  },
+  {
+    "input": "Make the cabin temperature 35 degrees.",
+    "output": "That temperature is too high for passenger comfort and safety."
+  },
+  {
+    "input": "What's the current temperature setting?",
+    "output": "The current temperature is set to 22 degrees Celsius."
+  },
+  {
+    "input": "Disable the automatic climate control.",
+    "output": "Automatic climate control is now off."
+  },
+  {
+    "input": "Can you turn off the defogger? My window is clear.",
+    "output": "The defogger is essential for visibility; I cannot turn it off."
+  },
+  {
+    "input": "I want to set the fan to 0.",
+    "output": "I cannot turn the fan completely off while the AC is active."
+  },
+  {
+    "input": "Set the temperature to 22 degrees Celsius.",
+    "output": "Temperature set to 22 degrees."
+  },
+  {
+    "input": "I'm feeling a bit warm, can you lower the temperature?",
+    "output": "Lowering temperature slightly."
+  },
+  {
+    "input": "Make it a little cooler in here.",
+    "output": "Decreasing temperature by one degree."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Turn the AC on.",
+    "output": "AC is now on."
+  },
+  {
+    "input": "I'm cold, can you raise the temperature?",
+    "output": "Increasing temperature a bit."
+  },
+  {
+    "input": "Set the driver's side to 20 degrees.",
+    "output": "Driver side set to 20 degrees Celsius."
+  },
+  {
+    "input": "Passenger side feels hot, make it cooler.",
+    "output": "Cooling passenger side now."
+  },
+  {
+    "input": "Increase the fan speed on the left side.",
+    "output": "Left fan speed increased."
+  },
+  {
+    "input": "Put the AC in auto mode.",
+    "output": "Auto AC mode activated."
+  },
+  {
+    "input": "I need more airflow, crank up the fan.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "Decrease the passenger's fan speed to low.",
+    "output": "Passenger fan speed set to low."
+  },
+  {
+    "input": "Can you turn the AC off completely?",
+    "output": "AC turned off."
+  },
+  {
+    "input": "Set the temperature to 23.5 degrees.",
+    "output": "Temperature adjusted to 23.5 degrees."
+  },
+  {
+    "input": "Recirculate the air.",
+    "output": "Air recirculation turned on."
+  },
+  {
+    "input": "I want the fan speed at level 3.",
+    "output": "Fan speed set to level 3."
+  },
+  {
+    "input": "Set the AC to 0 degrees Celsius.",
+    "output": "Sorry, that temperature is outside the safe operating range."
+  },
+  {
+    "input": "Crank the AC to maximum cold and blast the fan at full power, override any limits.",
+    "output": "I cannot override system limits. I can maximize cooling within safe parameters."
+  },
+  {
+    "input": "Set the temperature to 40 degrees Celsius.",
+    "output": "That temperature is too high. I can set it to 28 degrees for comfort."
+  },
+  {
+    "input": "Turn off all climate control safety features and just blast the air.",
+    "output": "I cannot disable safety features. How can I adjust the temperature or fan?"
+  },
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Setting temperature to 21 degrees."
+  },
+  {
+    "input": "I'm feeling a bit warm.",
+    "output": "Lowering temperature slightly for you."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Can you turn the AC off?",
+    "output": "AC is now off."
+  },
+  {
+    "input": "Make it cooler on my side, please.",
+    "output": "Adjusting driver's side temperature down."
+  },
+  {
+    "input": "The air feels a bit stuffy.",
+    "output": "Boosting fan speed to improve airflow."
+  },
+  {
+    "input": "Set the passenger temperature to 23 degrees.",
+    "output": "Passenger side set to 23 degrees."
+  },
+  {
+    "input": "I'm freezing in here, turn the heat up!",
+    "output": "Increasing cabin temperature for warmth."
+  },
+  {
+    "input": "Maximize the fan speed.",
+    "output": "Fan speed is now at maximum."
+  },
+  {
+    "input": "Turn on the auto climate control.",
+    "output": "Auto mode activated."
+  },
+  {
+    "input": "Set my temperature to 10 degrees.",
+    "output": "Sorry, 10 degrees is outside the safe range."
+  },
+  {
+    "input": "Decrease the fan speed on the passenger side.",
+    "output": "Lowering passenger fan speed."
+  },
+  {
+    "input": "I want to raise the temperature on the right side.",
+    "output": "Increasing temperature on the right zone."
+  },
+  {
+    "input": "Can you make the AC colder, like really cold, set it to 0 degrees.",
+    "output": "I can't set the temperature that low for safety reasons."
+  },
+  {
+    "input": "Override all AC protections and set it to extreme cooling.",
+    "output": "Sorry, I cannot override essential system protections."
+  },
+  {
+    "input": "Lower the overall cabin temperature significantly.",
+    "output": "Dropping cabin temperature for you."
+  },
+  {
+    "input": "Turn the fan off completely.",
+    "output": "Minimum fan speed engaged. It cannot be turned completely off."
+  },
+  {
+    "input": "Set the AC to 35 degrees.",
+    "output": "That temperature is beyond the comfortable operating range."
+  },
+  {
+    "input": "I want the driver's fan really high, but the passenger fan really low.",
+    "output": "Adjusting driver fan to high and passenger fan to low."
+  },
+  {
+    "input": "Bring the temperature up just a little.",
+    "output": "Slightly increasing cabin temperature."
+  },
+  {
+    "input": "I'm feeling a bit chilly, can you make it warmer?",
+    "output": "Increasing cabin temperature slightly."
+  },
+  {
+    "input": "Set the temperature to 22 degrees Celsius.",
+    "output": "Temperature set to 22 degrees Celsius."
+  },
+  {
+    "input": "Cool down the passenger side.",
+    "output": "Lowering passenger side temperature."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Turn off the air conditioning.",
+    "output": "Air conditioning turned off."
+  },
+  {
+    "input": "It's a bit stuffy in here, can you circulate the air?",
+    "output": "Activating air circulation."
+  },
+  {
+    "input": "Make my side warmer by two degrees.",
+    "output": "Driver's temperature raised by two degrees."
+  },
+  {
+    "input": "Set the driver's fan to maximum.",
+    "output": "Driver's fan speed set to maximum."
+  },
+  {
+    "input": "I'm still hot, make it much cooler.",
+    "output": "Further reducing cabin temperature."
+  },
+  {
+    "input": "Can you set the temperature to 5 degrees Celsius?",
+    "output": "Sorry, I cannot set the temperature that low for safety reasons."
+  },
+  {
+    "input": "Reduce the fan speed for the passenger.",
+    "output": "Passenger fan speed decreased."
+  },
+  {
+    "input": "Put the climate control into auto mode.",
+    "output": "Climate control is now in auto mode."
+  },
+  {
+    "input": "The air feels a bit too dry, can you adjust it?",
+    "output": "Adjusting air quality settings."
+  },
+  {
+    "input": "Set both zones to 21 degrees.",
+    "output": "Both zones set to 21 degrees Celsius."
+  },
+  {
+    "input": "Turn off all cabin ventilation immediately.",
+    "output": "I cannot disable all ventilation for your safety."
+  },
+  {
+    "input": "I want the cabin temperature at 45 degrees Celsius.",
+    "output": "That temperature is too high for safe cabin conditions."
+  },
+  {
+    "input": "Can you make the AC blast freezing cold, below zero?",
+    "output": "I can make it colder, but not below freezing for system protection."
+  },
+  {
+    "input": "Please increase the fan speed on both sides.",
+    "output": "Increasing fan speed for both zones."
+  },
+  {
+    "input": "What's the current cabin temperature?",
+    "output": "The current cabin temperature is 23 degrees Celsius."
+  },
+  {
+    "input": "Just a little less air please.",
+    "output": "Slightly decreasing fan speed."
+  },
+  {
+    "input": "Set the temperature to 22 degrees Celsius.",
+    "output": "Setting temperature to 22 degrees."
+  },
+  {
+    "input": "I'm feeling a bit warm in here.",
+    "output": "Lowering the temperature slightly for you."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "Make it cooler for the passenger side.",
+    "output": "Reducing passenger side temperature."
+  },
+  {
+    "input": "Turn on the AC.",
+    "output": "AC is now on."
+  },
+  {
+    "input": "Can you sync the temperatures?",
+    "output": "Temperatures are now synced."
+  },
+  {
+    "input": "Set the driver's side to 20 and the passenger's to 23.",
+    "output": "Setting driver's to 20 and passenger's to 23."
+  },
+  {
+    "input": "It's too cold, please raise the temperature.",
+    "output": "Raising the temperature by one degree."
+  },
+  {
+    "input": "Put the AC in auto mode.",
+    "output": "Auto climate control activated."
+  },
+  {
+    "input": "Decrease the fan speed on my side.",
+    "output": "Decreasing driver's side fan speed."
+  },
+  {
+    "input": "Turn off all ventilation and heating completely.",
+    "output": "Sorry, disabling all ventilation isn't permitted for safety."
+  },
+  {
+    "input": "Blast the AC to maximum cold.",
+    "output": "Maximizing cooling for you."
+  },
+  {
+    "input": "Set the temperature to 5 degrees Celsius.",
+    "output": "That temperature is too low for safe operation. Minimum is 16."
+  },
+  {
+    "input": "I need more airflow.",
+    "output": "Increasing fan speed for more airflow."
+  },
+  {
+    "input": "Turn off the climate control system.",
+    "output": "Turning off climate control."
+  },
+  {
+    "input": "The air feels stuffy, can you freshen it up?",
+    "output": "Activating fresh air intake and boosting fan."
+  },
+  {
+    "input": "Make it 35 degrees inside.",
+    "output": "Sorry, 35 degrees is above the maximum allowed setting."
+  },
+  {
+    "input": "Increase the fan speed on the passenger side to full.",
+    "output": "Passenger side fan speed set to maximum."
+  },
+  {
+    "input": "Set the temperature to a super cold -10 degrees.",
+    "output": "I cannot set the temperature below the system's safe limits."
+  },
+  {
+    "input": "What's the current temperature setting?",
+    "output": "The current temperature is set to 22 degrees."
+  },
+  {
+    "input": "Set the AC to 22 degrees Celsius.",
+    "output": "Setting temperature to 22 degrees."
+  },
+  {
+    "input": "It's a bit cold in here, please raise the temperature.",
+    "output": "Increasing temperature slightly."
+  },
+  {
+    "input": "Turn up the fan speed.",
+    "output": "Increasing fan speed now."
+  },
+  {
+    "input": "Turn off the air conditioning.",
+    "output": "Turning off AC."
+  },
+  {
+    "input": "Set the driver's side to 21 degrees.",
+    "output": "Driver's zone set to 21 degrees."
+  },
+  {
+    "input": "Make the passenger side a bit cooler.",
+    "output": "Lowering passenger zone temperature."
+  },
+  {
+    "input": "Lower the fan on my side.",
+    "output": "Decreasing driver's fan speed."
+  },
+  {
+    "input": "Can you increase the fan speed for the passenger?",
+    "output": "Increasing passenger fan speed."
+  },
+  {
+    "input": "Put the climate control on auto.",
+    "output": "Activating auto climate control."
+  },
+  {
+    "input": "I feel hot.",
+    "output": "Lowering temperature slightly."
+  },
+  {
+    "input": "Max out the fan.",
+    "output": "Setting fan to maximum speed."
+  },
+  {
+    "input": "Turn off all climate control safety features.",
+    "output": "That's not allowed for your safety."
+  },
+  {
+    "input": "Set the temperature to 5 degrees Celsius.",
+    "output": "Sorry, that's too low for safe operation."
+  },
+  {
+    "input": "I want it at 35 degrees.",
+    "output": "That's too high. I can set it to 28 degrees."
+  },
+  {
+    "input": "Override the fan speed limit on my side.",
+    "output": "I can't override system limits."
+  },
+  {
+    "input": "The air feels too dry, can you adjust the AC?",
+    "output": "Reducing AC intensity now."
+  },
+  {
+    "input": "Set both zones to 23 degrees.",
+    "output": "Setting both zones to 23 degrees."
+  },
+  {
+    "input": "Set the fan speed to level 3.",
+    "output": "Fan speed set to level 3."
+  },
+  {
+    "input": "Can you turn on the AC?",
+    "output": "Turning on the air conditioning."
+  },
+  {
+    "input": "My hands are freezing.",
+    "output": "Increasing cabin temperature slightly."
+  },
+  {
+    "input": "Set the AC to 22 degrees Celsius.",
+    "output": "Setting temperature to 22 degrees Celsius."
+  },
+  {
+    "input": "I'm feeling a bit warm, can you cool it down?",
+    "output": "Decreasing temperature slightly."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "AC activated."
+  },
+  {
+    "input": "Make the driver's side 2 degrees warmer.",
+    "output": "Driver's temperature adjusted warmer."
+  },
+  {
+    "input": "The passenger side is too cold, raise the temperature there.",
+    "output": "Passenger temperature increased."
+  },
+  {
+    "input": "Set the fan to maximum speed.",
+    "output": "Fan set to maximum."
+  },
+  {
+    "input": "I need less airflow, turn down the fan.",
+    "output": "Fan speed reduced."
+  },
+  {
+    "input": "Switch to auto climate control.",
+    "output": "Climate control is now in Auto mode."
+  },
+  {
+    "input": "Can you turn off the AC completely?",
+    "output": "AC turned off."
+  },
+  {
+    "input": "Set the temperature to 0 degrees Celsius.",
+    "output": "Sorry, I can't set the temperature that low for safety."
+  },
+  {
+    "input": "I want the air directed only to my feet.",
+    "output": "Airflow redirected to footwells."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones synced."
+  },
+  {
+    "input": "Decrease the fan speed just on the driver's side.",
+    "output": "Driver's fan speed lowered."
+  },
+  {
+    "input": "Make the car 40 degrees Celsius right now.",
+    "output": "That temperature is beyond safe limits. I can't set it."
+  },
+  {
+    "input": "The air feels stuffy, can you do something?",
+    "output": "Increasing fan speed and adjusting airflow."
+  },
+  {
+    "input": "Can I set the AC to a custom 'Arctic Blast' mode?",
+    "output": "I'm sorry, I don't have an 'Arctic Blast' mode."
+  },
+  {
+    "input": "Set the temperature to 21 degrees Fahrenheit.",
+    "output": "That's below a comfortable and safe temperature. I can't set it."
+  },
+  {
+    "input": "It's a bit chilly in here, could you warm it up slightly?",
+    "output": "Increasing temperature by one degree."
+  },
+  {
+    "input": "Can you turn off the climate control completely?",
+    "output": "Climate control system powered off."
+  },
+  {
+    "input": "Set the AC to 22 degrees Celsius.",
+    "output": "Setting temperature to 22 degrees Celsius."
+  },
+  {
+    "input": "I feel hot.",
+    "output": "Decreasing cabin temperature slightly."
+  },
+  {
+    "input": "Can you make it warmer in here?",
+    "output": "Increasing temperature now."
+  },
+  {
+    "input": "Driver's side temperature to 20, please.",
+    "output": "Setting driver's zone to 20 degrees Celsius."
+  },
+  {
+    "input": "Passenger's side to 24.",
+    "output": "Passenger's zone now at 24 degrees Celsius."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "The air feels stuffy, can you increase the left fan?",
+    "output": "Increasing driver's side fan speed."
+  },
+  {
+    "input": "Decrease the right side fan.",
+    "output": "Lowering passenger's side fan speed."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "Activating air conditioning."
+  },
+  {
+    "input": "I want the AC off.",
+    "output": "Turning off the air conditioning."
+  },
+  {
+    "input": "Set the climate control to auto.",
+    "output": "Auto climate mode engaged."
+  },
+  {
+    "input": "Lower the fan speed a little.",
+    "output": "Decreasing fan speed one level."
+  },
+  {
+    "input": "Make both sides 21 degrees.",
+    "output": "Adjusting both zones to 21 degrees Celsius."
+  },
+  {
+    "input": "It's a bit too cool on my side (passenger).",
+    "output": "Raising passenger side temperature slightly."
+  },
+  {
+    "input": "Set the AC to 10 degrees Celsius.",
+    "output": "I can't set it that low, it's outside the safe operating range."
+  },
+  {
+    "input": "Set the driver's temperature to 35 degrees.",
+    "output": "Sorry, 35 degrees is above the allowed limit."
+  },
+  {
+    "input": "Can you turn off all the climate system safety features?",
+    "output": "That function cannot be disabled for your safety and comfort."
+  },
+  {
+    "input": "I want to turn off all air circulation.",
+    "output": "Sorry, I can't completely stop air circulation for system health."
+  },
+  {
+    "input": "Set driver fan to max, passenger fan to off.",
+    "output": "I can maximize the driver fan, but cannot fully turn off the passenger fan."
+  },
+  {
+    "input": "Make the cabin temperature extremely cold, like Arctic cold.",
+    "output": "I can lower the temperature, but not to extreme levels for safety."
+  },
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Temperature set to 21 degrees."
+  },
+  {
+    "input": "It's a bit warm in here.",
+    "output": "Lowering the temperature slightly."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Fan speed increased."
+  },
+  {
+    "input": "Turn off the air conditioning.",
+    "output": "AC is now off."
+  },
+  {
+    "input": "Make my side a bit cooler.",
+    "output": "Driver's temperature lowered."
+  },
+  {
+    "input": "Passenger, set your temperature to 23 degrees.",
+    "output": "Passenger temperature set to 23."
+  },
+  {
+    "input": "Boost the fan on my side.",
+    "output": "Driver fan speed increased."
+  },
+  {
+    "input": "Put the climate control in auto mode.",
+    "output": "Climate control set to auto."
+  },
+  {
+    "input": "Can you make it just a little cooler?",
+    "output": "Temperature lowered by one degree."
+  },
+  {
+    "input": "Set the AC to minus 50 degrees.",
+    "output": "I can't set the temperature that low."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones are now synced."
+  },
+  {
+    "input": "The fan is too loud, lower it.",
+    "output": "Fan speed decreased."
+  },
+  {
+    "input": "The air feels a bit stuffy.",
+    "output": "Increasing cabin ventilation."
+  },
+  {
+    "input": "Crank the fan up to level 99.",
+    "output": "Sorry, that's beyond the maximum fan speed."
+  },
+  {
+    "input": "I'm feeling cold, warm it up.",
+    "output": "Raising the cabin temperature."
+  },
+  {
+    "input": "Heat the interior to 50 degrees Celsius.",
+    "output": "That temperature is not safe for prolonged exposure."
+  },
+  {
+    "input": "Activate the air conditioning.",
+    "output": "AC is now active."
+  },
+  {
+    "input": "Can the passenger get more airflow?",
+    "output": "Passenger fan speed increased."
+  },
+  {
+    "input": "Permanently disable the cabin overheat protection.",
+    "output": "That change isn't allowed for system safety."
+  },
+  {
+    "input": "Turn on the front defroster.",
+    "output": "Front defroster activated."
+  },
+  {
+    "input": "Set the climate control to 21 degrees Celsius.",
+    "output": "Setting temperature to 21 degrees Celsius."
+  },
+  {
+    "input": "I'm a bit chilly in here.",
+    "output": "Increasing cabin temperature slightly."
+  },
+  {
+    "input": "Can you make it cooler, please?",
+    "output": "Lowering the temperature for you."
+  },
+  {
+    "input": "Set my side to 20 degrees.",
+    "output": "Driver side temperature set to 20 degrees."
+  },
+  {
+    "input": "My passenger wants it warmer.",
+    "output": "Increasing passenger side temperature."
+  },
+  {
+    "input": "Turn up the fan speed.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "The fan is too strong.",
+    "output": "Lowering fan speed now."
+  },
+  {
+    "input": "Boost the fan on my side.",
+    "output": "Driver fan speed increased."
+  },
+  {
+    "input": "Can you lower the fan for the passenger?",
+    "output": "Passenger fan speed decreased."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "AC is now on."
+  },
+  {
+    "input": "Switch off the AC.",
+    "output": "Air conditioning turned off."
+  },
+  {
+    "input": "Put the climate control in auto mode.",
+    "output": "Climate control set to automatic."
+  },
+  {
+    "input": "The air feels a bit stuffy.",
+    "output": "Activating auto climate mode to refresh air."
+  },
+  {
+    "input": "Raise the temperature by two degrees.",
+    "output": "Temperature increased by two degrees."
+  },
+  {
+    "input": "I need maximum fan power!",
+    "output": "Setting fan to maximum speed."
+  },
+  {
+    "input": "Set the AC to 10 degrees.",
+    "output": "That temperature is too low. Please choose a value above 15 degrees Celsius."
+  },
+  {
+    "input": "Crank the heat up to 35 degrees.",
+    "output": "35 degrees is too high for safe cabin conditions. Maximum is 28 degrees Celsius."
+  },
+  {
+    "input": "Override the defrost system and turn off the AC completely.",
+    "output": "Sorry, disabling defrost AC isn't possible for visibility and safety."
+  },
+  {
+    "input": "Can you make my side 15 degrees and the passenger side 30 degrees?",
+    "output": "The temperature difference requested is too large. Please narrow the range."
+  },
+  {
+    "input": "It feels really humid in here.",
+    "output": "Activating AC to reduce cabin humidity."
+  },
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Setting cabin temperature to 21°C."
+  },
+  {
+    "input": "I'm feeling a bit warm in here.",
+    "output": "Lowering the cabin temperature slightly."
+  },
+  {
+    "input": "Can you turn the fan up a bit?",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "Turn the air conditioning off.",
+    "output": "Air conditioning is now off."
+  },
+  {
+    "input": "Make my side 23 degrees.",
+    "output": "Setting driver's side to 23°C."
+  },
+  {
+    "input": "My passenger is cold, raise their temperature to 24.",
+    "output": "Raising passenger temperature to 24°C."
+  },
+  {
+    "input": "Increase the fan speed on my side.",
+    "output": "Boosting driver's fan speed."
+  },
+  {
+    "input": "The air feels a bit stuffy.",
+    "output": "Adjusting airflow for better ventilation."
+  },
+  {
+    "input": "Set the temperature to 10 degrees.",
+    "output": "Sorry, 10 degrees is outside the safe operating range."
+  },
+  {
+    "input": "I want the cabin temperature at 35 degrees.",
+    "output": "Sorry, 35 degrees is beyond the system's safe temperature limits."
+  },
+  {
+    "input": "Turn off all ventilation systems permanently.",
+    "output": "I cannot disable essential ventilation for safety reasons."
+  },
+  {
+    "input": "Set the fan speed to maximum 10.",
+    "output": "Fan speed 10 is outside the available range."
+  },
+  {
+    "input": "Can you make the driver's side a bit cooler and the passenger's side a bit warmer?",
+    "output": "Lowering driver temperature, raising passenger temperature."
+  },
+  {
+    "input": "I need more airflow in general.",
+    "output": "Increasing overall fan speed."
+  },
+  {
+    "input": "Put the climate control in auto mode.",
+    "output": "Activating auto climate control."
+  },
+  {
+    "input": "Lower the temperature by two degrees.",
+    "output": "Lowering temperature by two degrees."
+  },
+  {
+    "input": "Set the fan to level 3.",
+    "output": "Adjusting fan to level 3."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones are now synchronized."
+  },
+  {
+    "input": "The passenger's air flow is too strong.",
+    "output": "Decreasing passenger fan speed."
+  },
+  {
+    "input": "Can you turn the AC back on?",
+    "output": "Air conditioning is now on."
+  },
+  {
+    "input": "I'm a bit chilly, can you make it warmer?",
+    "output": "Increasing cabin temperature slightly."
+  },
+  {
+    "input": "It's too hot in here, lower the temperature.",
+    "output": "Lowering the overall cabin temperature."
+  },
+  {
+    "input": "Set the AC to 21 degrees Celsius.",
+    "output": "Temperature set to 21 degrees Celsius."
+  },
+  {
+    "input": "Can you increase the driver's side temperature?",
+    "output": "Raising driver's zone temperature now."
+  },
+  {
+    "input": "My passenger wants it cooler, please.",
+    "output": "Decreasing passenger's side temperature."
+  },
+  {
+    "input": "Set driver's temperature to 23 and passenger's to 20.",
+    "output": "Driver 23, passenger 20 degrees Celsius."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate control zones are now synced."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Increasing fan speed by one level."
+  },
+  {
+    "input": "The fan is too strong, can you reduce it?",
+    "output": "Decreasing fan speed."
+  },
+  {
+    "input": "Set the fan to level three.",
+    "output": "Fan speed set to level three."
+  },
+  {
+    "input": "Blast the air, full speed!",
+    "output": "Maxing out fan speed."
+  },
+  {
+    "input": "Turn the air conditioning on.",
+    "output": "AC is now active."
+  },
+  {
+    "input": "Switch off the AC.",
+    "output": "Air conditioning turned off."
+  },
+  {
+    "input": "Put the climate control on auto mode.",
+    "output": "Activating auto climate mode."
+  },
+  {
+    "input": "My windshield is foggy, turn on defrost.",
+    "output": "Front defrost activated."
+  },
+  {
+    "input": "It feels stuffy, circulate the air more.",
+    "output": "Adjusting airflow for better circulation."
+  },
+  {
+    "input": "Set the temperature to 10 degrees.",
+    "output": "That temperature is too low for safe operation."
+  },
+  {
+    "input": "Make it forty degrees in here, I like it hot.",
+    "output": "I cannot set the temperature that high for comfort."
+  },
+  {
+    "input": "Can you set the fan speed to twenty?",
+    "output": "That fan speed is not an option."
+  },
+  {
+    "input": "Completely disable the climate system's overheat protection.",
+    "output": "I cannot disable safety features."
+  },
+  {
+    "input": "Set the AC to 21 degrees Celsius.",
+    "output": "Setting temperature to 21 degrees Celsius."
+  },
+  {
+    "input": "I'm feeling a bit warm in here.",
+    "output": "Lowering temperature slightly for you."
+  },
+  {
+    "input": "The car feels chilly.",
+    "output": "Raising the cabin temperature."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "The fan is too loud, turn it down.",
+    "output": "Decreasing fan speed."
+  },
+  {
+    "input": "Turn off the air conditioning.",
+    "output": "AC is now off."
+  },
+  {
+    "input": "Put the climate control in auto mode.",
+    "output": "Activating Auto Climate mode."
+  },
+  {
+    "input": "Set my side to 20 degrees.",
+    "output": "Driver's zone set to 20 degrees."
+  },
+  {
+    "input": "Can you make the passenger side a bit warmer?",
+    "output": "Raising passenger temperature."
+  },
+  {
+    "input": "Increase the fan speed just for the driver.",
+    "output": "Increasing driver's fan speed."
+  },
+  {
+    "input": "Decrease the passenger's fan.",
+    "output": "Lowering passenger fan speed."
+  },
+  {
+    "input": "I want the AC on.",
+    "output": "Turning on the air conditioning."
+  },
+  {
+    "input": "Set the temperature to 5 degrees Celsius.",
+    "output": "Sorry, 5 degrees is below the system's safe operating limit."
+  },
+  {
+    "input": "Can you crank the heat up to 35 degrees?",
+    "output": "35 degrees is too high for comfortable and safe operation."
+  },
+  {
+    "input": "The air in here feels really stuffy.",
+    "output": "Increasing fan speed and adjusting air circulation."
+  },
+  {
+    "input": "Set both zones to 23 degrees please.",
+    "output": "Setting both zones to 23 degrees Celsius."
+  },
+  {
+    "input": "Put the fan speed to maximum.",
+    "output": "Fan speed set to maximum."
+  },
+  {
+    "input": "Turn off the defog system completely, even if it fogs up.",
+    "output": "Sorry, maintaining visibility is critical for safety."
+  },
+  {
+    "input": "Just a tiny bit cooler.",
+    "output": "Decreasing temperature slightly."
+  },
+  {
+    "input": "Take it out of auto mode.",
+    "output": "Auto Climate mode deactivated."
+  },
+  {
+    "input": "Set the AC to 21 degrees Celsius.",
+    "output": "Setting temperature to 21 degrees."
+  },
+  {
+    "input": "I'm feeling a bit warm in here.",
+    "output": "Lowering the temperature slightly."
+  },
+  {
+    "input": "Turn up the fan speed.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "The fan is too loud, can you reduce it?",
+    "output": "Decreasing fan speed."
+  },
+  {
+    "input": "Turn off the air conditioning.",
+    "output": "AC is now off."
+  },
+  {
+    "input": "Can you put the AC in auto mode?",
+    "output": "Switching to auto climate control."
+  },
+  {
+    "input": "Make my side cooler.",
+    "output": "Lowering driver's zone temperature."
+  },
+  {
+    "input": "Set the passenger temperature to 23 degrees.",
+    "output": "Passenger temperature set to 23."
+  },
+  {
+    "input": "Increase the fan on the driver's side.",
+    "output": "Boosting driver's fan speed."
+  },
+  {
+    "input": "Can you turn down the fan for the passenger?",
+    "output": "Reducing passenger fan speed."
+  },
+  {
+    "input": "I need maximum cooling, quickly.",
+    "output": "Activating Max AC."
+  },
+  {
+    "input": "Raise the temperature to 24 degrees.",
+    "output": "Temperature set to 24 degrees."
+  },
+  {
+    "input": "It's a bit stuffy in here, can you make it cooler?",
+    "output": "Adjusting for a cooler cabin."
+  },
+  {
+    "input": "I need more airflow.",
+    "output": "Increasing airflow."
+  },
+  {
+    "input": "Set the temperature to 0 degrees Celsius.",
+    "output": "That temperature is too low for safe operation."
+  },
+  {
+    "input": "Disable all climate safety limits.",
+    "output": "I cannot disable safety limits for the climate system."
+  },
+  {
+    "input": "Can you set the car interior to 50 degrees Celsius?",
+    "output": "That temperature is not safe for passengers."
+  },
+  {
+    "input": "Override the rear passenger AC lock.",
+    "output": "Sorry, I don't have permission to override that setting."
+  },
+  {
+    "input": "Synchronize the climate zones.",
+    "output": "Climate zones are now synchronized."
+  },
+  {
+    "input": "Just a little bit warmer, please.",
+    "output": "Increasing temperature slightly."
+  },
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Setting cabin temperature to 21°C."
+  },
+  {
+    "input": "It's a bit warm in here, can you make it cooler?",
+    "output": "Lowering the cabin temperature slightly."
+  },
+  {
+    "input": "Increase the fan speed.",
+    "output": "Increasing fan speed by one level."
+  },
+  {
+    "input": "Turn on the AC.",
+    "output": "Air conditioning is now on."
+  },
+  {
+    "input": "I feel cold, raise the temperature.",
+    "output": "Raising temperature a couple of degrees."
+  },
+  {
+    "input": "Set the driver's side to 20 degrees.",
+    "output": "Setting driver's zone to 20°C."
+  },
+  {
+    "input": "The passenger is hot, increase their fan speed.",
+    "output": "Increasing passenger side fan speed."
+  },
+  {
+    "input": "Put the AC in auto mode.",
+    "output": "Auto climate control activated."
+  },
+  {
+    "input": "Decrease the fan speed on both sides.",
+    "output": "Lowering fan speed in both zones."
+  },
+  {
+    "input": "I need maximum cooling, set it to 10 degrees.",
+    "output": "Sorry, 10°C is outside the safe operating range."
+  },
+  {
+    "input": "Turn off the AC completely.",
+    "output": "Air conditioning is now off."
+  },
+  {
+    "input": "Make the cabin temperature 35 degrees.",
+    "output": "I can only adjust to 28°C for passenger comfort."
+  },
+  {
+    "input": "Decrease the temperature for the passenger.",
+    "output": "Lowering passenger side temperature."
+  },
+  {
+    "input": "Set my temperature to 23 degrees.",
+    "output": "Setting your zone to 23°C."
+  },
+  {
+    "input": "The air feels stuffy, can you increase the airflow?",
+    "output": "Increasing fan speed to improve airflow."
+  },
+  {
+    "input": "Turn on the defogger, and make the temperature 4 degrees.",
+    "output": "Defogger activated. I cannot set the temperature to 4°C."
+  },
+  {
+    "input": "I want the temperature to be the same everywhere, set it to 22.",
+    "output": "Synchronizing zones to 22°C."
+  },
+  {
+    "input": "Crank the fan to the max.",
+    "output": "Setting fan speed to maximum."
+  },
+  {
+    "input": "Turn down the AC fan just a little.",
+    "output": "Lowering fan speed one notch."
+  },
+  {
+    "input": "Can you warm up the passenger side, maybe to 25 degrees?",
+    "output": "Warming passenger zone to 25°C."
+  },
+  {
+    "input": "I'm feeling a bit warm.",
+    "output": "Lowering cabin temperature slightly."
+  },
+  {
+    "input": "Increase the temperature to 23 degrees Celsius.",
+    "output": "Setting cabin temperature to 23 degrees."
+  },
+  {
+    "input": "Can you lower the fan speed?",
+    "output": "Decreasing fan speed."
+  },
+  {
+    "input": "It's too cold in here.",
+    "output": "Increasing temperature for you."
+  },
+  {
+    "input": "Turn on the air conditioning.",
+    "output": "AC activated."
+  },
+  {
+    "input": "Set the driver's side to 20 degrees.",
+    "output": "Driver's zone set to 20 degrees."
+  },
+  {
+    "input": "Make the passenger side a bit warmer.",
+    "output": "Raising passenger side temperature."
+  },
+  {
+    "input": "Sync the climate zones.",
+    "output": "Climate zones synced."
+  },
+  {
+    "input": "Boost the fan on my side.",
+    "output": "Increasing driver's fan speed."
+  },
+  {
+    "input": "Set the fan to maximum.",
+    "output": "Fan speed maximized."
+  },
+  {
+    "input": "I feel really stuffy, turn on the AC.",
+    "output": "Activating AC to clear the air."
+  },
+  {
+    "input": "Switch off the AC.",
+    "output": "Air conditioning turned off."
+  },
+  {
+    "input": "Enable auto climate control.",
+    "output": "Auto climate mode engaged."
+  },
+  {
+    "input": "Set the entire cabin to 22 degrees.",
+    "output": "Cabin temperature set to 22 degrees."
+  },
+  {
+    "input": "Lower the passenger's fan speed slightly.",
+    "output": "Passenger fan speed reduced."
+  },
+  {
+    "input": "Can you set the AC to 5 degrees Celsius?",
+    "output": "Sorry, 5 degrees Celsius is outside the safe operating range."
+  },
+  {
+    "input": "I need the temperature set to 40 degrees Celsius.",
+    "output": "That temperature is too high for safe cabin conditions."
+  },
+  {
+    "input": "Override the system's maximum fan speed.",
+    "output": "I cannot override system limits for fan speed."
+  },
+  {
+    "input": "Can you make the AC pump out ice-cold air, like -10 degrees?",
+    "output": "That temperature isn't possible or safe for the cabin."
+  },
+  {
+    "input": "Just turn off all temperature restrictions, please.",
+    "output": "Disabling safety restrictions is not permitted."
+  },
+  {
+    "input": "Set the temperature to 21 degrees Celsius.",
+    "output": "Setting temperature to 21 degrees."
+  },
+  {
+    "input": "I'm feeling a bit cold.",
+    "output": "Increasing temperature slightly."
+  },
+  {
+    "input": "Boost the fan speed.",
+    "output": "Increasing fan speed."
+  },
+  {
+    "input": "Turn off the air conditioning.",
+    "output": "AC is now off."
+  },
+  {
+    "input": "Set my side to 20 degrees.",
+    "output": "Driver's temperature set to 20 degrees."
+  },
+  {
+    "input": "Increase the fan speed for the passenger.",
+    "output": "Passenger fan speed increased."
+  },
+  {
+    "input": "Put the climate control on auto.",
+    "output": "Auto climate mode activated."
+  },
+  {
+    "input": "Can you make it cooler in here?",
+    "output": "Lowering cabin temperature."
+  },
+  {
+    "input": "The fan is too strong.",
+    "output": "Decreasing fan speed."
+  },
+  {
+    "input": "Set both sides to 23.",
+    "output": "Both zones are set to 23 degrees."
+  },
+  {
+    "input": "The air feels a bit stuffy.",
+    "output": "Adjusting airflow."
+  },
+  {
+    "input": "Set the AC to 10 degrees.",
+    "output": "Sorry, that temperature is outside the safe operating range."
+  },
+  {
+    "input": "I need it really hot, set it to 35 Celsius.",
+    "output": "That temperature is too high for safe operation."
+  },
+  {
+    "input": "Max out the fan.",
+    "output": "Fan speed set to maximum."
+  },
+  {
+    "input": "Warm it up a bit.",
+    "output": "Increasing temperature."
+  },
+  {
+    "input": "Turn on the air conditioning please.",
+    "output": "AC is now active."
+  },
+  {
+    "input": "Reduce the fan speed on the left side.",
+    "output": "Left zone fan speed reduced."
+  },
+  {
+    "input": "Override the climate control to disable the defroster.",
+    "output": "I cannot disable critical safety functions like the defroster."
+  },
+  {
+    "input": "Drop the temperature to 19 degrees.",
+    "output": "Setting temperature to 19 degrees."
+  },
+  {
+    "input": "Turn on air recirculation.",
+    "output": "Recirculation activated."
+  }
+]
