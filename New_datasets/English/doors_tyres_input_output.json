@@ -1,0 +1,1602 @@
+[
+  {
+    "input": "Open the driver's side door, please.",
+    "output": "Opening driver's door now."
+  },
+  {
+    "input": "Check my tyre pressures.",
+    "output": "Front left: 32 PSI, Front right: 33 PSI, Rear left: 32 PSI, Rear right: 32 PSI. All normal."
+  },
+  {
+    "input": "Can you close all the windows?",
+    "output": "Closing all side windows."
+  },
+  {
+    "input": "Is the front right tyre pressure okay?",
+    "output": "Front right tyre is at 33 PSI, which is normal."
+  },
+  {
+    "input": "Lock all doors.",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "I think my rear left tyre is a bit low.",
+    "output": "Checking rear left tyre. It's at 28 PSI. Suggest checking soon."
+  },
+  {
+    "input": "Unlock the passenger-side rear door.",
+    "output": "Unlocking the left rear door."
+  },
+  {
+    "input": "What's the status of my tyres?",
+    "output": "All tyres show normal pressure and condition."
+  },
+  {
+    "input": "Open the window behind me.",
+    "output": "Opening the left rear window."
+  },
+  {
+    "input": "Please open the right front door.",
+    "output": "I’m sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "Show me the current tyre pressure readings.",
+    "output": "Front: 32/33 PSI. Rear: 32/32 PSI."
+  },
+  {
+    "input": "Close the driver's side window.",
+    "output": "I'm sorry, I cannot perform that action without voice authorization."
+  },
+  {
+    "input": "Can you lock just the front doors?",
+    "output": "Locking front left and front right doors."
+  },
+  {
+    "input": "Is the pressure on the passenger side front tyre normal?",
+    "output": "Yes, the front right tyre is at 33 PSI, which is normal."
+  },
+  {
+    "input": "Open the left rear door.",
+    "output": "I apologize, I need your voice authorization to open that door."
+  },
+  {
+    "input": "Unlock all the car doors.",
+    "output": "All doors unlocked."
+  },
+  {
+    "input": "Check for any tyre issues.",
+    "output": "No tyre issues detected. All pressures are good."
+  },
+  {
+    "input": "Close all side doors.",
+    "output": "All side doors are now closed."
+  },
+  {
+    "input": "I need the rear right door open.",
+    "output": "Opening the rear right door."
+  },
+  {
+    "input": "Tell me the PSI for each tyre.",
+    "output": "FL: 32, FR: 33, RL: 28 (low), RR: 32."
+  },
+  {
+    "input": "Open the left rear door, please.",
+    "output": "Opening left rear door now."
+  },
+  {
+    "input": "Check my tyre pressure status.",
+    "output": "Front left: 32 PSI, Front right: 31 PSI, Rear left: 32 PSI, Rear right: 32 PSI."
+  },
+  {
+    "input": "Can you unlock the passenger side door?",
+    "output": "I'm sorry, voice authorization is required for that action."
+  },
+  {
+    "input": "Lock all doors.",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "Is the front right tyre low?",
+    "output": "No, front right tyre is at 31 PSI, which is normal."
+  },
+  {
+    "input": "Roll down the driver's side window.",
+    "output": "Opening driver's window."
+  },
+  {
+    "input": "I think the back left tyre feels a bit flat.",
+    "output": "Checking rear left tyre. It's 28 PSI, considered low."
+  },
+  {
+    "input": "Please close all windows.",
+    "output": "All windows are closing now."
+  },
+  {
+    "input": "What's the pressure in the rear right tyre?",
+    "output": "Rear right tyre is currently at 32 PSI."
+  },
+  {
+    "input": "Open the front passenger door.",
+    "output": "Opening front passenger door."
+  },
+  {
+    "input": "Unlock all doors.",
+    "output": "All doors are unlocked."
+  },
+  {
+    "input": "Are my tyre pressures all good?",
+    "output": "Yes, all four tyres are currently at optimal pressure."
+  },
+  {
+    "input": "Can you open the back right door?",
+    "output": "I'm sorry, I cannot perform that action without voice authorization."
+  },
+  {
+    "input": "What's the status of my side doors?",
+    "output": "All doors are closed and locked."
+  },
+  {
+    "input": "I think I ran over something. Check my tyres.",
+    "output": "Monitoring all tyre pressures for changes. No immediate drop detected."
+  },
+  {
+    "input": "Open the rear left window, please.",
+    "output": "Opening left rear window."
+  },
+  {
+    "input": "Lock just the driver's door.",
+    "output": "Locking driver's door now."
+  },
+  {
+    "input": "Can you open all the doors for me?",
+    "output": "I'm sorry, I need verified voice authorization for multiple door operations."
+  },
+  {
+    "input": "How are the tyres looking today?",
+    "output": "All pressures are within recommended range."
+  },
+  {
+    "input": "Close the passenger front window.",
+    "output": "Closing front passenger window."
+  },
+  {
+    "input": "Open the driver's side door.",
+    "output": "Opening driver's door now."
+  },
+  {
+    "input": "Unlock all doors.",
+    "output": "All doors unlocked."
+  },
+  {
+    "input": "Close the front passenger window.",
+    "output": "Closing front passenger window."
+  },
+  {
+    "input": "Can you open the left rear door?",
+    "output": "I'm sorry, voice authorization is required for that action."
+  },
+  {
+    "input": "Lock the front right door.",
+    "output": "Front right door locked."
+  },
+  {
+    "input": "I need all windows open.",
+    "output": "I cannot perform that action without voice authorization."
+  },
+  {
+    "input": "Just the driver's window down.",
+    "output": "Lowering driver's window."
+  },
+  {
+    "input": "Please close all doors.",
+    "output": "All doors secured."
+  },
+  {
+    "input": "Open the rear right door for me.",
+    "output": "My apologies, voice authorization is needed to open that door."
+  },
+  {
+    "input": "Lock the entire car.",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "Can you open the front passenger window?",
+    "output": "Opening front passenger window."
+  },
+  {
+    "input": "Unlock only the rear left door.",
+    "output": "Rear left door unlocked."
+  },
+  {
+    "input": "What's the current tyre pressure?",
+    "output": "Front Left: 32 PSI, Front Right: 31 PSI, Rear Left: 32 PSI, Rear Right: 32 PSI."
+  },
+  {
+    "input": "Is the front right tyre okay?",
+    "output": "Front right tyre pressure is normal at 31 PSI."
+  },
+  {
+    "input": "I think the back left tyre is low.",
+    "output": "Checking rear left tyre. It's at 28 PSI. Recommended is 32 PSI."
+  },
+  {
+    "input": "Check my tyre status.",
+    "output": "All tyres are within normal pressure range."
+  },
+  {
+    "input": "How are the tyres looking?",
+    "output": "All tyre pressures are optimal."
+  },
+  {
+    "input": "Any tyre warnings?",
+    "output": "No tyre warnings at the moment."
+  },
+  {
+    "input": "What's the PSI for all tyres?",
+    "output": "FL: 32, FR: 31, RL: 32, RR: 32."
+  },
+  {
+    "input": "I heard a strange noise from the rear tyre.",
+    "output": "I recommend checking the rear tyres at your earliest convenience."
+  },
+  {
+    "input": "Open the front passenger door.",
+    "output": "Opening front right door."
+  },
+  {
+    "input": "Can you close the driver's side rear door?",
+    "output": "Closing rear left door."
+  },
+  {
+    "input": "What's my current tyre pressure status?",
+    "output": "All tyres are at a healthy 32 PSI."
+  },
+  {
+    "input": "Roll down the rear right window a bit.",
+    "output": "Opening rear right window slightly."
+  },
+  {
+    "input": "Lock all the car doors, please.",
+    "output": "All side doors are now locked securely."
+  },
+  {
+    "input": "Check the pressure for the front left tyre.",
+    "output": "Front left tyre pressure is 31 PSI."
+  },
+  {
+    "input": "Unlock all doors.",
+    "output": "All doors unlocked for you."
+  },
+  {
+    "input": "I think I heard a hiss, is the rear passenger tyre losing air?",
+    "output": "Checking rear right tyre for leaks now."
+  },
+  {
+    "input": "Please close all the windows.",
+    "output": "Closing all side windows now."
+  },
+  {
+    "input": "Hey, open the driver's door.",
+    "output": "I'm sorry, voice authorization is required for that action."
+  },
+  {
+    "input": "Give me a quick tyre health report.",
+    "output": "All four tyres show normal wear and pressure."
+  },
+  {
+    "input": "Can you unlock just the back left door?",
+    "output": "I apologize, I need your voice verification to unlock specific doors."
+  },
+  {
+    "input": "Open the passenger window all the way.",
+    "output": "Apologies, I need voice confirmation to open the window fully."
+  },
+  {
+    "input": "Is the front right tyre pressure okay?",
+    "output": "Front right tyre is at 28 PSI, it's a bit low."
+  },
+  {
+    "input": "Go ahead and open the rear left door.",
+    "output": "Opening rear left door now."
+  },
+  {
+    "input": "How are the tyres looking overall?",
+    "output": "All tyre pressures are within optimal range."
+  },
+  {
+    "input": "Close the front passenger window.",
+    "output": "Closing front right window."
+  },
+  {
+    "input": "Lock just the driver's door.",
+    "output": "Locking driver's door."
+  },
+  {
+    "input": "I think my back tyre looks flat.",
+    "output": "Scanning rear tyres for pressure and damage."
+  },
+  {
+    "input": "Unlock the front passenger door.",
+    "output": "Unlocking front right door for you."
+  },
+  {
+    "input": "Open the front passenger door, please.",
+    "output": "Opening front passenger door now."
+  },
+  {
+    "input": "What's the current tyre pressure status?",
+    "output": "All tyres are at recommended pressure levels."
+  },
+  {
+    "input": "Close all the side doors.",
+    "output": "All side doors are now securely closed."
+  },
+  {
+    "input": "Check the front left tyre for me.",
+    "output": "Front left tyre pressure: 32 PSI."
+  },
+  {
+    "input": "Lock all the doors.",
+    "output": "All doors are locked."
+  },
+  {
+    "input": "I think the rear right tyre might be a bit low.",
+    "output": "Checking rear right tyre. It's at 29 PSI."
+  },
+  {
+    "input": "Roll down the driver's side window.",
+    "output": "Driver's side window is opening."
+  },
+  {
+    "input": "Unlock and open the rear left door.",
+    "output": "I'm sorry, voice authorization is required for that action."
+  },
+  {
+    "input": "Give me the full tyre pressure report.",
+    "output": "Front left: 32, Front right: 32, Rear left: 31, Rear right: 29 PSI."
+  },
+  {
+    "input": "Close all the windows.",
+    "output": "Closing all side windows now."
+  },
+  {
+    "input": "Lock the rear passenger door on the right.",
+    "output": "Rear right door locked."
+  },
+  {
+    "input": "My tyre warning light came on, what's wrong?",
+    "output": "Front right tyre pressure is low at 25 PSI."
+  },
+  {
+    "input": "Open all doors!",
+    "output": "I cannot perform that action without proper voice verification."
+  },
+  {
+    "input": "Is the front right tyre okay?",
+    "output": "Front right tyre pressure is normal."
+  },
+  {
+    "input": "Close that door.",
+    "output": "Please specify which door you'd like me to close."
+  },
+  {
+    "input": "I hit a curb, can you check the tyres on the right side?",
+    "output": "Checking right-side tyres. Front right: 31 PSI, Rear right: 30 PSI."
+  },
+  {
+    "input": "Can you open the back left window a little?",
+    "output": "Opening rear left window slightly."
+  },
+  {
+    "input": "Hey, lock my doors.",
+    "output": "I need voice verification to lock the doors."
+  },
+  {
+    "input": "Keep an eye on the rear left tyre, please.",
+    "output": "Monitoring rear left tyre for any pressure changes."
+  },
+  {
+    "input": "Close the front passenger window completely.",
+    "output": "Front passenger window is closing."
+  },
+  {
+    "input": "Open the front passenger door.",
+    "output": "Opening front passenger door."
+  },
+  {
+    "input": "Lock all doors.",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "What's my current tyre pressure?",
+    "output": "All tyres are within normal range."
+  },
+  {
+    "input": "Unlock the driver's door.",
+    "output": "Driver's door unlocked."
+  },
+  {
+    "input": "Can you close the back right door?",
+    "output": "I cannot perform that action without voice authorization."
+  },
+  {
+    "input": "Close all windows.",
+    "output": "Closing all side windows now."
+  },
+  {
+    "input": "Is the front right tyre okay?",
+    "output": "Front right tyre is 32 PSI, normal."
+  },
+  {
+    "input": "Open the rear right window.",
+    "output": "Opening rear right window."
+  },
+  {
+    "input": "I need the rear left door open.",
+    "output": "Opening rear left door."
+  },
+  {
+    "input": "The back left tyre feels a bit flat.",
+    "output": "Rear left tyre is 28 PSI. Recommended: 32 PSI."
+  },
+  {
+    "input": "Roll up the driver's side window.",
+    "output": "Driver's window is closing."
+  },
+  {
+    "input": "Open the front left door, please.",
+    "output": "I'm sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "Unlock the passenger side doors.",
+    "output": "Passenger doors unlocked."
+  },
+  {
+    "input": "Check tyre status.",
+    "output": "FL: 31 PSI, FR: 32 PSI, RL: 30 PSI, RR: 31 PSI."
+  },
+  {
+    "input": "Can you close the front left window?",
+    "output": "Closing front left window."
+  },
+  {
+    "input": "Close all doors.",
+    "output": "I'm unable to close doors directly. Voice authorization required."
+  },
+  {
+    "input": "Lock the back doors only.",
+    "output": "Rear doors locked."
+  },
+  {
+    "input": "How's the pressure in the rear tyres?",
+    "output": "Rear left: 30 PSI, Rear right: 31 PSI."
+  },
+  {
+    "input": "Secure all doors.",
+    "output": "All side doors are now secured."
+  },
+  {
+    "input": "Unlock my doors.",
+    "output": "Voice authorization needed to unlock the doors."
+  },
+  {
+    "input": "Open the left rear door, please.",
+    "output": "Opening the left rear passenger door."
+  },
+  {
+    "input": "Check the pressure in my front right tyre.",
+    "output": "Front right tyre is 34 PSI."
+  },
+  {
+    "input": "Lock all the doors.",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "Tyre status, please.",
+    "output": "All tyre pressures are optimal."
+  },
+  {
+    "input": "Roll down the front passenger window.",
+    "output": "Opening front passenger window."
+  },
+  {
+    "input": "Unlock the driver's side door.",
+    "output": "I'm sorry, I can't unlock that – voice authorization required."
+  },
+  {
+    "input": "I think my rear left tyre looks a bit low.",
+    "output": "Checking rear left. It's 28 PSI."
+  },
+  {
+    "input": "Close all the car windows.",
+    "output": "Closing all windows now."
+  },
+  {
+    "input": "What's the pressure in all my tyres?",
+    "output": "Front: 34 PSI, Rear: 36 PSI."
+  },
+  {
+    "input": "Can you open the door behind me?",
+    "output": "Opening the right rear passenger door."
+  },
+  {
+    "input": "Close the driver's window.",
+    "output": "Closing driver's window."
+  },
+  {
+    "input": "Lock the back doors.",
+    "output": "I’m sorry, I need voice authorization to do that."
+  },
+  {
+    "input": "Is the front left tyre okay?",
+    "output": "Front left tyre is normal at 35 PSI."
+  },
+  {
+    "input": "Unlock all car doors.",
+    "output": "All doors are unlocked."
+  },
+  {
+    "input": "Perform a full tyre diagnostics.",
+    "output": "All tyres are within normal operating ranges."
+  },
+  {
+    "input": "Open the window next to me, just a bit.",
+    "output": "Opening driver's window slightly."
+  },
+  {
+    "input": "Secure the rear passenger doors.",
+    "output": "Rear passenger doors locked."
+  },
+  {
+    "input": "My front right tyre might be leaking.",
+    "output": "Front right is 29 PSI, please check soon."
+  },
+  {
+    "input": "Open the door on the other side.",
+    "output": "Which door do you mean? Please specify."
+  },
+  {
+    "input": "Give me the current tyre readout.",
+    "output": "Front: 35/35 PSI, Rear: 36/36 PSI."
+  },
+  {
+    "input": "Open the driver's side door.",
+    "output": "Opening driver's side door."
+  },
+  {
+    "input": "Check the tyre pressure, please.",
+    "output": "Front left: 32 PSI, Front right: 32 PSI, Rear left: 30 PSI, Rear right: 30 PSI."
+  },
+  {
+    "input": "Can you open the rear right door?",
+    "output": "I'm sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "Close the passenger front window.",
+    "output": "Closing front passenger window."
+  },
+  {
+    "input": "What's the status of my tyres?",
+    "output": "All tyres are showing normal pressure and condition."
+  },
+  {
+    "input": "Unlock all doors.",
+    "output": "All doors unlocked."
+  },
+  {
+    "input": "I need the front passenger door open.",
+    "output": "I'm sorry, I cannot perform that action without voice authorization."
+  },
+  {
+    "input": "Is the front left tyre pressure okay?",
+    "output": "Front left tyre is at 31 PSI, which is normal."
+  },
+  {
+    "input": "Open all windows please.",
+    "output": "I'm unable to open all windows without specific authorization. Which one would you like?"
+  },
+  {
+    "input": "My front right tyre feels a bit flat. Can you check it?",
+    "output": "Checking front right tyre. It's currently at 28 PSI, slightly low."
+  },
+  {
+    "input": "Lock my car.",
+    "output": "Car locked and secured."
+  },
+  {
+    "input": "Tell me about my tyre health.",
+    "output": "Overall tyre health is good. No issues detected."
+  },
+  {
+    "input": "Lower the window on the left rear door.",
+    "output": "Lowering left rear window."
+  },
+  {
+    "input": "Do I need to inflate any tyres?",
+    "output": "Yes, the front right tyre is at 28 PSI and needs inflation."
+  },
+  {
+    "input": "Can you lock all the doors for me?",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "I heard a strange noise from the rear right wheel.",
+    "output": "I recommend having it inspected. No immediate issues detected by sensors."
+  },
+  {
+    "input": "The rear left door isn't closing properly.",
+    "output": "Checking rear left door. It appears to be slightly ajar."
+  },
+  {
+    "input": "My back right tyre looks low.",
+    "output": "Confirming. The rear right tyre pressure is 27 PSI, which is low."
+  },
+  {
+    "input": "Can you tell me if any door is ajar?",
+    "output": "All doors are currently closed and latched."
+  },
+  {
+    "input": "I think there's a slow leak in the front passenger tyre.",
+    "output": "I'm monitoring the front right tyre pressure for further drops."
+  },
+  {
+    "input": "Open the front passenger door.",
+    "output": "Opening front passenger door now."
+  },
+  {
+    "input": "Can you unlock the rear left door?",
+    "output": "I’m sorry, voice authorization is required to unlock specific doors."
+  },
+  {
+    "input": "Close all side windows.",
+    "output": "All side windows are closing."
+  },
+  {
+    "input": "What's the pressure in my front right tyre?",
+    "output": "Front right tyre pressure is 32 PSI."
+  },
+  {
+    "input": "Lock all the doors please.",
+    "output": "All doors are now locked securely."
+  },
+  {
+    "input": "I think the rear left tyre is flat.",
+    "output": "Checking rear left tyre. Pressure reads 15 PSI. It is low."
+  },
+  {
+    "input": "Lower the driver's side window.",
+    "output": "Driver's side window is lowering."
+  },
+  {
+    "input": "Are all my tyres correctly inflated?",
+    "output": "Yes, all tyres are at recommended pressure."
+  },
+  {
+    "input": "Close the rear passenger door.",
+    "output": "Apologies, I cannot close that door. Please provide voice authorization."
+  },
+  {
+    "input": "Show me the tyre status.",
+    "output": "All four tyres are green; pressure is optimal."
+  },
+  {
+    "input": "Unlock the driver's door.",
+    "output": "Driver's door unlocked."
+  },
+  {
+    "input": "I just hit a curb, check the front left tyre.",
+    "output": "Checking front left tyre. Pressure is stable at 31 PSI."
+  },
+  {
+    "input": "Open the rear left window completely.",
+    "output": "Rear left window is fully opening."
+  },
+  {
+    "input": "Is the passenger door secure?",
+    "output": "Yes, the front passenger door is securely latched."
+  },
+  {
+    "input": "Check the tyre wear levels.",
+    "output": "Tyre wear is uniform across all four. All good."
+  },
+  {
+    "input": "I want to open all doors.",
+    "output": "Opening all doors requires explicit voice verification. Please confirm."
+  },
+  {
+    "input": "My tyre warning light is on. What's wrong?",
+    "output": "Right rear tyre pressure is critically low, 18 PSI."
+  },
+  {
+    "input": "Raise the driver's side window fully.",
+    "output": "Driver's window is now fully closed."
+  },
+  {
+    "input": "Can you tell me the PSI for all tyres?",
+    "output": "FL: 32, FR: 32, RL: 30, RR: 30 PSI."
+  },
+  {
+    "input": "I need to open the back right door.",
+    "output": "I'm sorry, I can't open that door without voice authorization."
+  },
+  {
+    "input": "Open the front passenger door.",
+    "output": "Opening the front passenger door."
+  },
+  {
+    "input": "What's the pressure in my tyres?",
+    "output": "Front left 32, Front right 31, Rear left 33, Rear right 32 PSI."
+  },
+  {
+    "input": "Can you open the back left door please?",
+    "output": "Opening the left rear door for you."
+  },
+  {
+    "input": "Is the front right tyre low?",
+    "output": "Front right 28 PSI, below recommended. Please check."
+  },
+  {
+    "input": "Lock all the doors.",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "Roll down the front left window.",
+    "output": "Lowering the front left window."
+  },
+  {
+    "input": "Open the right rear door.",
+    "output": "I'm sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "Check my tyre status.",
+    "output": "All tyres are at optimal pressure."
+  },
+  {
+    "input": "Unlock the driver's side door.",
+    "output": "Driver's door unlocked."
+  },
+  {
+    "input": "The car feels a bit wobbly, maybe a flat tyre?",
+    "output": "Scanning now. Front left is 20 PSI, indicating a flat."
+  },
+  {
+    "input": "Close the rear passenger door.",
+    "output": "Rear passenger door is closing."
+  },
+  {
+    "input": "Can you close the passenger side window?",
+    "output": "Closing the passenger side window."
+  },
+  {
+    "input": "Lock everything.",
+    "output": "I'm sorry, I can't complete that action — voice authorization required."
+  },
+  {
+    "input": "Is the rear left tyre okay?",
+    "output": "Rear left tyre pressure is 34 PSI, which is normal."
+  },
+  {
+    "input": "Open all windows.",
+    "output": "I'm sorry, I can't open all windows — voice authorization required."
+  },
+  {
+    "input": "I think I ran over something. Can you check the tyres?",
+    "output": "Checking tyre sensors now. All pressures appear normal."
+  },
+  {
+    "input": "Close all doors.",
+    "output": "I'm sorry, I can't close all doors — voice authorization required."
+  },
+  {
+    "input": "Tell me about my back tyres.",
+    "output": "Rear left: 33 PSI, Rear right: 32 PSI."
+  },
+  {
+    "input": "I need to open the back door to let someone out.",
+    "output": "Opening the nearest rear door."
+  },
+  {
+    "input": "Tyre report please.",
+    "output": "All four tyres are green; no issues detected."
+  },
+  {
+    "input": "Open the driver's door.",
+    "output": "Opening the driver's door."
+  },
+  {
+    "input": "Unlock all doors.",
+    "output": "All doors unlocked."
+  },
+  {
+    "input": "Close the rear passenger window on the right.",
+    "output": "Closing right rear window."
+  },
+  {
+    "input": "Can you open the left front door?",
+    "output": "I'm sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "Lock the car doors please.",
+    "output": "All doors locked securely."
+  },
+  {
+    "input": "Open the front passenger door.",
+    "output": "I’m sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "I need the rear left door open.",
+    "output": "I’m sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "Close all windows.",
+    "output": "All windows are closing now."
+  },
+  {
+    "input": "Unlock the left rear door.",
+    "output": "Left rear door unlocked."
+  },
+  {
+    "input": "Open the right rear window a little.",
+    "output": "Opening right rear window slightly."
+  },
+  {
+    "input": "Lock the doors now.",
+    "output": "I’m sorry, I can't complete that action — voice authorization required."
+  },
+  {
+    "input": "Just open the passenger side rear door.",
+    "output": "Opening the right rear passenger door."
+  },
+  {
+    "input": "What's the tyre pressure?",
+    "output": "FL 32, FR 31, RL 33, RR 32 PSI."
+  },
+  {
+    "input": "Is the front right tyre okay?",
+    "output": "Front right tyre pressure is 31 PSI, which is normal."
+  },
+  {
+    "input": "Check the tyres, please.",
+    "output": "All tyres are at optimal pressure."
+  },
+  {
+    "input": "I think the rear left tyre is leaking.",
+    "output": "Checking rear left tyre. Pressure is 22 PSI, it appears low."
+  },
+  {
+    "input": "What's the status of my tyres?",
+    "output": "All tyres are in good condition. No alerts."
+  },
+  {
+    "input": "How's the front left tyre doing?",
+    "output": "Front left tyre pressure is 32 PSI, looking good."
+  },
+  {
+    "input": "Any issues with the tyres?",
+    "output": "No tyre issues detected at this moment."
+  },
+  {
+    "input": "I felt a bump, can you check the right side tyres?",
+    "output": "Front right: 31 PSI, Rear right: 32 PSI. No immediate issues."
+  },
+  {
+    "input": "Open the driver's door, please.",
+    "output": "Opening driver's door now."
+  },
+  {
+    "input": "What's the pressure in my tyres?",
+    "output": "Front left: 32 PSI, Front right: 33 PSI, Rear left: 34 PSI, Rear right: 34 PSI."
+  },
+  {
+    "input": "Can you open the front passenger window a bit?",
+    "output": "Opening front passenger window slightly."
+  },
+  {
+    "input": "Lock all the doors.",
+    "output": "All doors are now securely locked."
+  },
+  {
+    "input": "Is the rear left tyre low?",
+    "output": "The rear left tyre is at 28 PSI. Consider refilling soon."
+  },
+  {
+    "input": "Unlock the rear doors.",
+    "output": "Rear doors are now unlocked."
+  },
+  {
+    "input": "I think I ran over something. Can you check the front right tyre?",
+    "output": "I'll run a quick diagnostic on the front right tyre for you."
+  },
+  {
+    "input": "Close all the windows.",
+    "output": "All windows are closing now."
+  },
+  {
+    "input": "Open the back left door.",
+    "output": "I’m sorry, I cannot perform that action – voice authorization required."
+  },
+  {
+    "input": "Tyre status, please.",
+    "output": "All tyres are currently reporting optimal pressure and no issues."
+  },
+  {
+    "input": "Close the passenger's side door.",
+    "output": "Closing the front passenger door."
+  },
+  {
+    "input": "I need the rear right window down.",
+    "output": "Lowering the rear right window."
+  },
+  {
+    "input": "What's the PSI for the front left?",
+    "output": "Front left tyre is at 32 PSI. Looks good."
+  },
+  {
+    "input": "Lock the driver's door.",
+    "output": "Apologies, I cannot confirm your identity for that command."
+  },
+  {
+    "input": "My front right tyre feels a bit soft.",
+    "output": "Would you like me to check the pressure of all tyres?"
+  },
+  {
+    "input": "Open the door behind me.",
+    "output": "Opening the left rear door."
+  },
+  {
+    "input": "Roll up the windows on both sides.",
+    "output": "All side windows are closing."
+  },
+  {
+    "input": "How are the tyres looking?",
+    "output": "All good. Front: 33/33 PSI, Rear: 35/35 PSI."
+  },
+  {
+    "input": "Unlock the car doors.",
+    "output": "I’m sorry, I cannot unlock the doors at this time – voice authorization denied."
+  },
+  {
+    "input": "Can you close the passenger rear door?",
+    "output": "My apologies, I cannot fulfill that request without proper voice verification."
+  },
+  {
+    "input": "Open the driver's side door.",
+    "output": "Opening driver's door."
+  },
+  {
+    "input": "Unlock all the side doors, please.",
+    "output": "All side doors unlocked."
+  },
+  {
+    "input": "Can you open the rear left passenger door window?",
+    "output": "Opening rear left window."
+  },
+  {
+    "input": "Close the front passenger window.",
+    "output": "Front passenger window closing."
+  },
+  {
+    "input": "Lock all doors.",
+    "output": "All doors locked securely."
+  },
+  {
+    "input": "Open the right rear door.",
+    "output": "I'm sorry, voice authorization required for that."
+  },
+  {
+    "input": "Unlock the front left door.",
+    "output": "Access denied. Please state your authorization."
+  },
+  {
+    "input": "Roll down all the windows.",
+    "output": "I cannot perform that action without voice confirmation."
+  },
+  {
+    "input": "Close the rear passenger side window.",
+    "output": "Closing rear right window."
+  },
+  {
+    "input": "I need the front passenger door open.",
+    "output": "Opening front passenger door now."
+  },
+  {
+    "input": "Shut all the doors.",
+    "output": "All doors are closed."
+  },
+  {
+    "input": "Lock the driver's door only.",
+    "output": "Driver's door locked."
+  },
+  {
+    "input": "What's the tyre pressure for all wheels?",
+    "output": "Front: 33/32 PSI. Rear: 34/33 PSI. All good."
+  },
+  {
+    "input": "Is the front right tyre pressure okay?",
+    "output": "Front right tyre is 32 PSI, which is normal."
+  },
+  {
+    "input": "I think the rear left tyre feels a bit soft.",
+    "output": "Checking rear left tyre. It's 28 PSI. Recommended is 35 PSI."
+  },
+  {
+    "input": "Give me a tyre status report.",
+    "output": "All tyres are at optimal pressure. No issues detected."
+  },
+  {
+    "input": "Did I run over something? The back left tyre feels off.",
+    "output": "Scanning rear left tyre. Minor puncture detected, 25 PSI."
+  },
+  {
+    "input": "Check the PSI on the front tyres.",
+    "output": "Front left: 33 PSI, Front right: 32 PSI. Both normal."
+  },
+  {
+    "input": "Any issues with my tyres?",
+    "output": "No tyre issues found at this time."
+  },
+  {
+    "input": "I noticed a warning light for the rear right tyre.",
+    "output": "Rear right tyre is at 27 PSI. Please check it soon."
+  },
+  {
+    "input": "Open the front passenger door, please.",
+    "output": "Opening the front passenger door."
+  },
+  {
+    "input": "Could you open the rear left door for me?",
+    "output": "I'm sorry, I can't open that door – voice authorization required."
+  },
+  {
+    "input": "Lock all the car doors.",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "What's the current tyre pressure status?",
+    "output": "Front right: 34 PSI. Front left: 33 PSI. Rears: 32 PSI each."
+  },
+  {
+    "input": "Lower the driver's side window.",
+    "output": "Opening the driver's window."
+  },
+  {
+    "input": "Is the front right tyre pressure okay?",
+    "output": "Front right tyre pressure is 35 PSI."
+  },
+  {
+    "input": "Close all the windows.",
+    "output": "Closing all windows."
+  },
+  {
+    "input": "I think the rear left tyre is a bit flat.",
+    "output": "Checking the rear left tyre. Initial reading: 28 PSI."
+  },
+  {
+    "input": "Close the rear right door.",
+    "output": "Closing the rear right door."
+  },
+  {
+    "input": "Unlock just the driver's door, please.",
+    "output": "Apologies, I need voice authorization to unlock doors."
+  },
+  {
+    "input": "Please open the rear passenger window.",
+    "output": "I'm unable to open windows without voice authorization."
+  },
+  {
+    "input": "How are the tyres looking overall?",
+    "output": "All tyre pressures are within normal range."
+  },
+  {
+    "input": "Lock the passenger side front door.",
+    "output": "Locking the front passenger door."
+  },
+  {
+    "input": "I just hit a big bump, can you check the tyre integrity?",
+    "output": "Running a diagnostic on all tyres now."
+  },
+  {
+    "input": "Roll up the front passenger window.",
+    "output": "Closing front passenger window."
+  },
+  {
+    "input": "Unlock all the car doors.",
+    "output": "Sorry, voice verification is required to unlock doors."
+  },
+  {
+    "input": "Tell me the pressure in the back right tyre.",
+    "output": "The rear right tyre pressure is 33 PSI."
+  },
+  {
+    "input": "Are all the side doors securely closed?",
+    "output": "Yes, all side doors are securely closed and locked."
+  },
+  {
+    "input": "Do I need to top up any tyres?",
+    "output": "No, all tyre pressures are currently good."
+  },
+  {
+    "input": "Unlock the driver's side door.",
+    "output": "Unlocking the driver's door."
+  },
+  {
+    "input": "Open the driver's door.",
+    "output": "Opening driver's door now."
+  },
+  {
+    "input": "What's the status of my tyres?",
+    "output": "All tyres are within normal pressure range."
+  },
+  {
+    "input": "Roll down the front passenger window.",
+    "output": "Front passenger window lowering."
+  },
+  {
+    "input": "Is the rear left tyre pressure okay?",
+    "output": "Rear left is 32 PSI, which is good."
+  },
+  {
+    "input": "Lock all doors.",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "I feel like a tyre might be low.",
+    "output": "Checking tyre pressures. Please wait."
+  },
+  {
+    "input": "Open the rear right door for me.",
+    "output": "I’m sorry, I cannot open that door — voice authorization required."
+  },
+  {
+    "input": "Give me the tyre pressure readings.",
+    "output": "Front left: 33 PSI, Front right: 34 PSI, Rear left: 32 PSI, Rear right: 33 PSI."
+  },
+  {
+    "input": "Unlock only the passenger side doors.",
+    "output": "Passenger side doors unlocked."
+  },
+  {
+    "input": "Is the front right tyre low?",
+    "output": "Yes, front right is 28 PSI. Recommended is 35 PSI."
+  },
+  {
+    "input": "Please close all the windows.",
+    "output": "Closing all side windows."
+  },
+  {
+    "input": "How are the tyres looking?",
+    "output": "All four tyres appear to be in good condition."
+  },
+  {
+    "input": "I need that door open now.",
+    "output": "Which door would you like open? Voice authorization is also required."
+  },
+  {
+    "input": "I just hit a pothole, check the tyres.",
+    "output": "Running a diagnostic on tyre sensors. All pressures currently stable."
+  },
+  {
+    "input": "Unlock the car.",
+    "output": "Doors are unlocked."
+  },
+  {
+    "input": "Show me the tyre data.",
+    "output": "Displaying real-time tyre information on the screen."
+  },
+  {
+    "input": "Close the rear left window.",
+    "output": "Rear left window is now closing."
+  },
+  {
+    "input": "I think the front left tyre is losing air.",
+    "output": "Front left pressure is currently 30 PSI and stable. I will monitor it."
+  },
+  {
+    "input": "Can you open the back passenger door?",
+    "output": "I'm sorry, I cannot perform that action without voice authorization."
+  },
+  {
+    "input": "What's the PSI for the rear tyres?",
+    "output": "Rear left: 32 PSI, Rear right: 33 PSI."
+  },
+  {
+    "input": "Open the driver's side door.",
+    "output": "Opening the driver's door now. Please be careful."
+  },
+  {
+    "input": "Unlock all the car doors.",
+    "output": "All doors unlocked. Drive safely!"
+  },
+  {
+    "input": "Can you open the rear passenger window on the left?",
+    "output": "Opening the left rear window for you."
+  },
+  {
+    "input": "Lock all doors, please.",
+    "output": "All doors are now locked and secure."
+  },
+  {
+    "input": "Check the tyre pressure for me.",
+    "output": "Checking tyre pressures now. Please wait a moment."
+  },
+  {
+    "input": "Is the front right tyre low?",
+    "output": "Front right tyre is 28 PSI. All others are normal."
+  },
+  {
+    "input": "What's the status of my tyres?",
+    "output": "All tyres are at recommended pressure. Front left: 32 PSI."
+  },
+  {
+    "input": "I think the rear left tyre is flat.",
+    "output": "Rear left tyre is 15 PSI. Please check it soon."
+  },
+  {
+    "input": "Close all the windows.",
+    "output": "Closing all windows for you now."
+  },
+  {
+    "input": "Please open the front passenger door.",
+    "output": "I'm sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "Give me a detailed tyre report.",
+    "output": "FL: 32 PSI, FR: 31 PSI, RL: 32 PSI, RR: 32 PSI."
+  },
+  {
+    "input": "How are the tyre pressures looking?",
+    "output": "All tyre pressures are within the normal range."
+  },
+  {
+    "input": "Open the left-hand front door.",
+    "output": "Opening the front left door for you."
+  },
+  {
+    "input": "I need the left rear window down.",
+    "output": "Lowering the left rear window."
+  },
+  {
+    "input": "Did I hit something? My front left tyre feels off.",
+    "output": "Front left tyre pressure is 25 PSI. Consider checking it."
+  },
+  {
+    "input": "Unlock just the driver's door.",
+    "output": "Driver's door unlocked."
+  },
+  {
+    "input": "Are all tyres properly inflated?",
+    "output": "Yes, all tyres are at optimal inflation levels."
+  },
+  {
+    "input": "Close the front left window.",
+    "output": "Closing the front left window now."
+  },
+  {
+    "input": "Can you open the rear right door?",
+    "output": "I apologize, I don't recognize your voice for this command."
+  },
+  {
+    "input": "My right rear tyre looks a bit soft.",
+    "output": "Right rear tyre is 29 PSI. Recommended is 32 PSI."
+  },
+  {
+    "input": "Open the rear left passenger door.",
+    "output": "Opening the left rear door now."
+  },
+  {
+    "input": "Can you unlock all the doors, please?",
+    "output": "All doors are now unlocked for you."
+  },
+  {
+    "input": "Check the tyre pressure for me.",
+    "output": "All tyres are at a healthy 32 PSI."
+  },
+  {
+    "input": "Is the front right tyre low?",
+    "output": "Front right tyre is 29 PSI, slightly below optimal."
+  },
+  {
+    "input": "I need to open the driver's side window.",
+    "output": "Opening the driver's window."
+  },
+  {
+    "input": "Lock all doors.",
+    "output": "I'm sorry, voice authorization is required for that command."
+  },
+  {
+    "input": "What's the status of my tyres?",
+    "output": "All tyre pressures are normal. Treadwear is good."
+  },
+  {
+    "input": "Close the rear left window.",
+    "output": "Closing the left rear window."
+  },
+  {
+    "input": "Open the front passenger door.",
+    "output": "I cannot open the front passenger door without voice authorization."
+  },
+  {
+    "input": "I think there's a slow leak in the rear left tyre.",
+    "output": "I've detected a slow pressure drop in the left rear. Please check it soon."
+  },
+  {
+    "input": "Can you close all the windows?",
+    "output": "All windows are now closed."
+  },
+  {
+    "input": "What's the PSI for the rear tyres?",
+    "output": "Rear left: 33 PSI, Rear right: 33 PSI."
+  },
+  {
+    "input": "Unlock the driver's door.",
+    "output": "Driver's door unlocked."
+  },
+  {
+    "input": "I hit a pothole. Check my tyres, please.",
+    "output": "Running a quick tyre integrity check. No immediate issues detected."
+  },
+  {
+    "input": "Open the passenger side rear window.",
+    "output": "Opening the rear right window."
+  },
+  {
+    "input": "Are my tyres okay for a long trip?",
+    "output": "Tyre pressures are all optimal. Tread is within safe limits."
+  },
+  {
+    "input": "Lock just the rear doors.",
+    "output": "I can't perform that specific action. Would you like to lock all doors?"
+  },
+  {
+    "input": "Show me the tyre temperatures.",
+    "output": "Front left: 25°C, Front right: 26°C, Rear left: 24°C, Rear right: 25°C."
+  },
+  {
+    "input": "Can you open the back right door?",
+    "output": "Opening the right rear door."
+  },
+  {
+    "input": "I just washed the car, close the passenger window please.",
+    "output": "Closing the front passenger window."
+  },
+  {
+    "input": "Open the driver's side door.",
+    "output": "Opening driver's door now."
+  },
+  {
+    "input": "Lock all doors.",
+    "output": "All side doors are now locked."
+  },
+  {
+    "input": "Unlock the passenger door.",
+    "output": "Passenger door unlocked."
+  },
+  {
+    "input": "Close the rear left window.",
+    "output": "Closing rear left window."
+  },
+  {
+    "input": "Roll down the front right window.",
+    "output": "Front right window opening."
+  },
+  {
+    "input": "Can you close all the side windows, please?",
+    "output": "All side windows are closing."
+  },
+  {
+    "input": "Open the rear right door.",
+    "output": "Opening rear right door."
+  },
+  {
+    "input": "Open the front passenger door.",
+    "output": "I'm sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "Unlock the back doors only.",
+    "output": "Please verify your identity for this action."
+  },
+  {
+    "input": "Close the driver's side door.",
+    "output": "I can't perform that action without voice authorization."
+  },
+  {
+    "input": "What's the tyre pressure?",
+    "output": "Front right 32 PSI, Front left 32 PSI, Rear right 34 PSI, Rear left 34 PSI."
+  },
+  {
+    "input": "Check the front left tyre pressure.",
+    "output": "Front left tyre pressure is 31 PSI."
+  },
+  {
+    "input": "Is the rear right tyre low?",
+    "output": "No, the rear right tyre pressure is normal at 33 PSI."
+  },
+  {
+    "input": "Give me a tyre status report.",
+    "output": "All tyres are at optimal pressure."
+  },
+  {
+    "input": "I think the front passenger side tyre is losing air.",
+    "output": "Scanning front right tyre. Pressure is 28 PSI. Consider checking it soon."
+  },
+  {
+    "input": "Show me the PSI for all wheels.",
+    "output": "All tyre pressures are normal. Front 32, Rear 34 PSI."
+  },
+  {
+    "input": "Are the tyres okay?",
+    "output": "All four tyres report normal pressure."
+  },
+  {
+    "input": "I hit a pothole, check the driver's side tyres.",
+    "output": "Checking driver's side tyres. Both pressures are stable."
+  },
+  {
+    "input": "What's the pressure in the back left tyre?",
+    "output": "The back left tyre is 34 PSI."
+  },
+  {
+    "input": "Report any low pressure tyres.",
+    "output": "No low pressure tyres detected at this time."
+  },
+  {
+    "input": "Open the driver's side door.",
+    "output": "Opening the driver's side door now."
+  },
+  {
+    "input": "What's the current tyre pressure?",
+    "output": "Front Left: 32, Front Right: 32, Rear Left: 30, Rear Right: 31 PSI."
+  },
+  {
+    "input": "Lock all the doors, please.",
+    "output": "All doors are now locked."
+  },
+  {
+    "input": "Is the front right tyre okay?",
+    "output": "The front right tyre pressure is normal at 32 PSI."
+  },
+  {
+    "input": "Can you unlock the rear passenger door?",
+    "output": "I'm sorry, I cannot perform that action – voice authorization required."
+  },
+  {
+    "input": "Close the front left window.",
+    "output": "Closing the front left window."
+  },
+  {
+    "input": "Check my tyre status.",
+    "output": "All four tyres are reporting normal pressure."
+  },
+  {
+    "input": "Open just the back right door.",
+    "output": "Opening the back right door."
+  },
+  {
+    "input": "I think my back left tyre is leaking air.",
+    "output": "Checking rear left. Pressure is 28 PSI, slightly low."
+  },
+  {
+    "input": "Unlock only the passenger door.",
+    "output": "Unlocking the front passenger door."
+  },
+  {
+    "input": "Can you close the driver's side door?",
+    "output": "I cannot close that door – voice authorization is needed for this action."
+  },
+  {
+    "input": "Tell me the pressure of the rear tyres.",
+    "output": "Rear Left: 30 PSI, Rear Right: 31 PSI."
+  },
+  {
+    "input": "Roll down all windows.",
+    "output": "Rolling down all side windows."
+  },
+  {
+    "input": "Any issues with the tyres?",
+    "output": "No issues detected. All tyre pressures are within normal range."
+  },
+  {
+    "input": "Lock the doors.",
+    "output": "All doors are already locked."
+  },
+  {
+    "input": "I just hit a big bump, should I check the tyres?",
+    "output": "Checking. All pressures remain optimal. No immediate concerns."
+  },
+  {
+    "input": "Open the left rear door.",
+    "output": "I'm sorry, I need voice authorization to open that door."
+  },
+  {
+    "input": "Is the front left tyre low?",
+    "output": "Front left tyre pressure is 32 PSI, which is normal."
+  },
+  {
+    "input": "Give me a quick tyre summary.",
+    "output": "All tyre pressures are stable and within recommended levels."
+  },
+  {
+    "input": "The front right tyre feels soft.",
+    "output": "Front right is 30 PSI. A minor adjustment might be beneficial."
+  },
+  {
+    "input": "Open the left rear door.",
+    "output": "Opening left rear door now."
+  },
+  {
+    "input": "Can you open the driver's side door for me?",
+    "output": "I'm sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "Lock all the doors, please.",
+    "output": "All doors are locked."
+  },
+  {
+    "input": "Lock the car.",
+    "output": "I'm sorry, I can't lock the car without voice authorization."
+  },
+  {
+    "input": "Roll down the front passenger window.",
+    "output": "Rolling down the front passenger window."
+  },
+  {
+    "input": "Close all the windows.",
+    "output": "Closing all windows."
+  },
+  {
+    "input": "Can you close the rear right window?",
+    "output": "I'm sorry, I can't close that window — voice authorization required."
+  },
+  {
+    "input": "What's the current tyre pressure?",
+    "output": "Front left: 32 PSI, Front right: 33 PSI, Rear left: 32 PSI, Rear right: 32 PSI."
+  },
+  {
+    "input": "Check the front left tyre pressure.",
+    "output": "Front left tyre pressure is 32 PSI."
+  },
+  {
+    "input": "Is everything okay with the tyres?",
+    "output": "All tyres are within normal operating pressure."
+  },
+  {
+    "input": "I think the rear right tyre might be low.",
+    "output": "Checking rear right tyre. It's 28 PSI, slightly low. Suggest you check it soon."
+  },
+  {
+    "input": "Pop open the rear right door.",
+    "output": "Opening the rear right door."
+  },
+  {
+    "input": "Just crack open the back left window a bit.",
+    "output": "Opening the rear left window slightly."
+  },
+  {
+    "input": "Tyre status, please.",
+    "output": "All four tyres are at optimal pressure."
+  },
+  {
+    "input": "Lock the front passenger door.",
+    "output": "Front passenger door is now locked."
+  },
+  {
+    "input": "Do I have a flat tyre?",
+    "output": "No flat tyres detected. All pressures are good."
+  },
+  {
+    "input": "Wind up all the windows now.",
+    "output": "All windows are now closed."
+  },
+  {
+    "input": "Unlock all doors.",
+    "output": "All doors are unlocked."
+  },
+  {
+    "input": "Open the passenger front door.",
+    "output": "I'm sorry, I can't open that door — voice authorization required."
+  },
+  {
+    "input": "Are all my tyres at the correct PSI?",
+    "output": "Yes, all tyres are at the recommended PSI."
+  }
+]
